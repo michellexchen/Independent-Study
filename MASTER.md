@@ -1,7 +1,6 @@
 ## Interview Transcriptions 
 
-<details><summary>Interviewee 1 - PT </summary>
-<p>
+### Interviewee 1 - PT
 
 **Michelle Chen:**         Ok, so I think I&#39;m recording. So, basically I have like two sets of questions that I&#39;m trying to combine, but it might just end up just as... I think that it honestly would be better just as like a conversation? So wherever it goes. So I guess the first question is, what year are you at Duke?
 
@@ -393,11 +392,9 @@ Speaker 4:        What about group projects? Have you taken group project based 
 
 **Michelle Chen:**         Yeah.
 
-</p>
-</details>
 
-<details><summary>Interviewee 2 - AW </summary>
-<p>
+### Interviewee 2 - AW
+
 
 **Michelle Chen:**         Ok. So I explained the project, so I guess my first question is 308, 310, and 330. Have you taken all of the and what order did you take them in?
 
@@ -581,6 +578,9 @@ Speaker 4:        What about group projects? Have you taken group project based 
 
 **Michelle Chen:**         Thank you. I&#39;m gonna stop the recording.
 
+<details><summary>Interviewee X - AW </summary>
+<p>
+  
 </p>
 </details>
 
