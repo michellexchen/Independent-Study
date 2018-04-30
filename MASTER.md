@@ -1,7 +1,8 @@
 ## Interview Transcriptions 
 
-### Interviewee 1 - PT
-
+<details><summary>Interviewee - PT </summary>
+<p>
+  
 **Michelle Chen:**         Ok, so I think I&#39;m recording. So, basically I have like two sets of questions that I&#39;m trying to combine, but it might just end up just as... I think that it honestly would be better just as like a conversation? So wherever it goes. So I guess the first question is, what year are you at Duke?
 
 **PT:**         I&#39;m a junior.
@@ -393,7 +394,13 @@ Speaker 4:        What about group projects? Have you taken group project based 
 **Michelle Chen:**         Yeah.
 
 
-### Interviewee 2 - AW
+</p>
+</details>
+
+
+<details><summary>Interviewee - AW </summary>
+<p>
+
 
 
 **Michelle Chen:**         Ok. So I explained the project, so I guess my first question is 308, 310, and 330. Have you taken all of the and what order did you take them in?
@@ -577,8 +584,396 @@ Speaker 4:        What about group projects? Have you taken group project based 
 **AW:**         Yeah. But that&#39;s, that&#39;s-- if they have a problem with that and they need to come to terms with what that means and like be OK with that in a teaching philosophy, right? And I guess that&#39;s what I mean, like I&#39;m not, I don&#39;t, I don&#39;t mean that in too like accusative of a way, but like it&#39;s like are you teaching for the bottom or the top? Are you trying to push the bottom up or push the top forward? Because a class like 201 I would argue is not there to push the top forward. Like that&#39;s for like, like if you want that to be the concern, let people skip 230 and go straight to 3:30. Right? Or something like that. Because I&#39;ve taken combinatorics and I can do like 9 choose 3 on a ti 84 calculator. So I don&#39;t need to be in you know, like CS230. I don&#39;t know.
 
 **Michelle Chen:**         Thank you. I&#39;m gonna stop the recording.
+  
+</p>
+</details>
 
-<details><summary>Interviewee X - AW </summary>
+<details><summary>Interviewee - JL </summary>
+<p>
+**Michelle Chen:**         Right? And I&#39;m kind of like, I just think that it&#39;ll be nice because I don&#39;t have to do this. Like I don&#39;t know how to make a website like
+
+**JL:**         Okay, me either... If it makes you feel better that you don&#39;t.
+
+**Michelle Chen:**         I have no idea. Yeah, no, I have no idea how to make a website. And so um yeah, it&#39;s fine. But I was just, I went to him and I was like, I don&#39;t know what I&#39;m doing. And then he was kind of like, well you still have to make a website. And then I was like, what if I did this instead and he was like, okay, like that&#39;s fine.
+
+**JL:**         This is a good idea though because I feel like it is pretty...
+
+**Michelle Chen:**         There&#39;s a lot of things that I think the department could change and I just like, I think everyone&#39;s had very different experiences and I&#39;ve done like a few of these so far and everyone has different ideas of what they want changed. Um, so I guess the first question is, what year are you at Duke?
+
+**JL:**         Junior.
+
+**Michelle Chen:**         And then 308, 310, and 330. Which of those have you taken or are you in them?
+
+**JL:**         None of them but I&#39;m taking 310 next semester.
+
+**Michelle Chen:**         You&#39;re taking 310 next semester. Um, and then did you have any compsci education prior to Duke?
+
+**JL:**         No, I did not know what compsci was before I came here.
+
+**Michelle Chen:**         And so like do you, did your family and friends encourage you to study CS or like how did you decide you want to do compsi?
+
+**JL:**         Um, I did like a bunch of, I took like econ, I took took stats because that&#39;s what I wanted to originally and like I hated both those so much that I was like, I knew obviously a bunch of people that were in 101 so I ended up just taking that to see what it was like and loved it so much, like so so much. And then from there, like went abroad and they didn&#39;t have 201 abroad. So I kinda like declared my major after only taking 101 so I was a little freaked out by it, but it ended up being fine.
+
+**Michelle Chen:**         Um, let&#39;s see. So who do you surround yourself with in your classes and in group work in compsci?
+
+**JL:**         Um, well this semester I&#39;m in three compsci classes and Austin is in all three of them with me too and we like somehow, we didn&#39;t even talk about this beforehand and we&#39;re in the same lab too, like never even spoke about it. So I do like literally all of my work with him. And then Julia Ross is in two of my classes too so I do it with her sometimes like I live in office hours.
+
+**Michelle Chen:**         So is there, do you feel like it was like, I guess the next question is like why do you think you&#39;ve chosen those individuals to surround yourself with?
+
+**JL:**         Um I think like Austin I have very similar work ethics and we keep each other motivated and like are like willing to work on the same level. Like I tried working with like another girl before and it was just like--
+
+**Michelle Chen:**         Wait, what do you mean when same level--  like, you both are really motivated or like--
+
+**JL:**         I feel like we work well together and like we&#39;re good at like talking things out until we like understand it and like aren&#39;t afraid ask each other questions or like, sound stupid.
+
+**Michelle Chen:**         Do you feel like--cause-- so it&#39;s interesting because I feel like every, most of the guys that I work with and compsci like super, like know it all and like very like confident. So like it&#39;s interesting-- but you don&#39;t feel like Austin is like--
+
+**JL:**         Not really.
+
+**Michelle Chen:**         Do you think he feels like you do just like, he&#39;s like, &#39;I don&#39;t know what&#39;s going on&#39;
+
+**JL:**         Yeah, and that&#39;s like we&#39;re on the very same like compsci intellectual level, which is why it works well. So like I know like Adam Davidovich, he&#39;s like insanely good at it and I don&#39;t want to work with him because like Austin will work with him sometimes and he&#39;s like &#39;yeah Adam finished all of this so fast like I felt so stupid&#39;. You know, like yeah, I don&#39;t want to do that.
+
+**Michelle Chen:**         So you would rather work with someone that you feel like it&#39;s on your level?
+
+**JL:**         Yeah,
+
+**Michelle Chen:**         Because that&#39;s also interesting. I feel the same way, but someone I talked to was like, no, you have to, you have to work with someone smarter than you so that they&#39;ll give you answers. And I was like, but I don&#39;t want them to know like how dumb I am. So okay, that makes sense.
+
+**JL:**         I definitely feel that.
+
+**Michelle Chen:**         And do you think your experience in the CS major has been different than most male student&#39;s experiences? And if so how?
+
+**JL:**         Um, maybe? I don&#39;t really know because I don&#39;t like talk to them that much about it. Um, I definitely--ugh, don&#39;t know. It&#39;s tricky.
+
+**Michelle Chen:**         Yeah, I, I get that.
+
+**JL:**         Like all my, like TAs and stuff, were usually guys so, and they&#39;re like geniuses obviously.
+
+**Michelle Chen:**         Do you feel like intimidated when you talk to them or like are you more just like, I know I&#39;m here, they know I&#39;m here for help.
+
+**JL:**         Like yeah, like to an extent it&#39;s a little intimidating and like I just don&#39;t want to be to be annoying and like ask them a million questions and I do want to like figure it out on my own as well. But like I still go to like everyone&#39;s office hours and like, do ask, and I have a tutor for 2:50 as well.
+
+**Michelle Chen:**         Yeah, I mean it&#39;s just so weird because like I just feel like guys ask dumb questions and people are like, oh, it&#39;s whatever. But if a girl asks it, it&#39;s like, oh this dumb girl in compsci. I don&#39;t know, maybe that&#39;s just my experience.
+
+**JL:**         No, I do feel like that&#39;s sometimes, I mean it&#39;s easy to feel dumb in compsci. Like, so easy. Like I do feel dumb a lot but I always somehow like end up figuring it out and then it&#39;s rewarding and then I just do it all over again. So it&#39;s like a  constant cycle.
+
+**Michelle Chen:**         Um, let&#39;s see. So I guess this is sort of a follow up question, but in what ways has your gender impacted your experience as a CS major, or has it?
+
+**JL:**         I don&#39;t think it has a ton. Like I don&#39;t really think about it that much and like I&#39;ve actually done research on like women computer science, like an education class I took and it was interesting reading about those because like the things that I was reading about, like I never thought about like, like girls saying that they felt super stupid or like were the only girl in their class and none of the male students wanted to help them. Like they felt dumb asking questions or patronized.  Like, I never like thought about that being me until like I read all of them and was like oh, I can see how that would happen, but I don&#39;t think that it&#39;s like as bad for me as it was for like the ones that I&#39;ve about.
+
+**Michelle Chen:**         Yeah, so I like. What did you learn in that research? Like what was the--or just can you tell me a little bit?
+
+**JL:**         Yeah. Was like a lot about how like compsci education can be better for women and just offer more like resources, like undergraduate females that like they can go and talk to like TAs and stuff and like um like talking about like women&#39;s accomplishments in computer science in classes to like say see this person is a woman, she went to Duke or whatever and she&#39;s super successful and like very respected.
+
+**Michelle Chen:**         Do they have other ideas for how to make it better? Because I&#39;m like, it&#39;s hard. I feel like it&#39;s a hard problem to solve.
+
+**JL:**         Yeah. I can send you my paper that I wrote for it.
+
+**Michelle Chen:**         Can you actually?
+
+**JL:**         It was like really interesting doing research on it too. Um like, I&#39;m part of like rewriting the code which is like the imposter syndrome I think is like the realest thing ever, especially in compsci. So I feel like, like I feel like I&#39;m going to graduate and like not know how to do anything
+
+**Michelle Chen:**         Ok like that hits so close. So obviously I&#39;m what--leaving in like a week and a half or like graduating so soon and I feel like I&#39;m going to leave and like not have gained any tangible skills. Like I sometimes I&#39;m just like, I don&#39;t know what I learned in compsci and it&#39;s kind of like
+
+**JL:**         That&#39;s kind of how I&#39;ve been feeling.
+
+**Michelle Chen:**         You know what I mean?
+
+**JL:**         It&#39;s like so hard to and you&#39;re just like--
+
+**Michelle Chen:**         And even after that, especially in 250, like after I would accomplish something I&#39;d be like, well it&#39;s mostly the TAs that did that. I like or like you know what? I would always be like, I got so much help that I don&#39;t know if it even counts as like my accomplishment.
+
+**JL:**         I feel that. That&#39;s funny that you say like, I think of you as this like insanely amazing like compsci genius. Like that is what I think of when I think and I&#39;m like, I wish I could be like Michelle Chen
+
+**Michelle Chen:**         But I literally am like, so-- I don&#39;t know. I also think it&#39;s like very easy-- well you&#39;ve never worked with me so you had no idea. I ask so many questions. I feel like I never know what&#39;s going on. I feel so dumb.
+
+**JL:**         That&#39;s how you learn.
+
+**Michelle Chen:**         I know, but I just like, I think it might be because of like I did hackduke so people are like, oh, like you must be really good at compsci, but then they work with me and they&#39;re like, oh, no. But like, I don&#39;t know, I just, it&#39;s, I&#39;m definitely not, and like when you say you&#39;re worried you&#39;re going to graduate. Like I literally feel that all the time. I&#39;m like I&#39;ve taken all the core classes and I really don&#39;t know what I learned.  Like if you asked me to like build a processor right now I would be like, I like, I have no, like I don&#39;t even remember. I don&#39;t know, maybe I just have bad memory, but like
+
+**JL:**         I feel like that&#39;s for like every class, you know, what do you actually learn?
+
+**Michelle Chen:**         That&#39;s true. That&#39;s fair.
+
+**JL:**         People are like, you mostly learn on the job for what like relevant things and this is just background stuff so you&#39;re not like totally lost
+
+**Michelle Chen:**         And I guess do you want to do like software engineering or like--oh! I don&#39;t know if I&#39;ve ever told you this story. This was also part of the motivation. So like I took 308 and I was in a group project with four other guys. It was like a, the professor like made the groups. Anyway, this one guy a year older than me, like called himself like the project manager the first day and he would delete my code and he would like force push over my code on github and then he like told me that like I was like a waste of his time. And like, yeah, I took it also like right after I took 201 and he was like, I like asked him a question once about his code and he was like, I just want you to know like I have so many other better things to be doing right now than like answering your questions, he&#39;s like, you don&#39;t know what good design is, like, he&#39;s like, you have no idea--
+
+**JL:**         Oh my god. That&#39;s like why you&#39;re in the class...
+
+**Michelle Chen:**         Yeah. And so like, I dunno, ever since then I was like really disillusioned. Like I just like,
+
+**JL:**         I&#39;m so sorry.
+
+**Michelle Chen:**         No, but I haven&#39;t like, it&#39;s, that&#39;s why I&#39;m saying like everyone has such different experiences and now he&#39;s going to go work at, he&#39;s working at Linkedin and I&#39;m just like, it sucks that I like, I feel like there are these classes-- Duke is graduating like these classes of people from computer science and they&#39;re honestly like some of them are objectively shitty people.
+
+**Michelle Chen:**         Like they&#39;re just like. And I&#39;m like, sucks for whoever has to work with this guy. Like that&#39;s why I know I never want to be a part of the industry. But I don&#39;t know, people are always like, well you did so much with compsci. Like why wouldn&#39;t you want to do compsci after? And it was just kind of like, because I feel like I had some really bad experiences that like made me not like. I was like-- I just kept telling myself like what if I go into the real world and then like and my like partner, like just deletes my code, which like I don&#39;t know, that--
+
+**JL:**         That&#39;s so bad.
+
+**Michelle Chen:**         That&#39;s like part of it. But that&#39;s part of the reason why like I&#39;m trying to do this because I&#39;m trying to understand other people&#39;s experiences because I know that mine is like, not everyone had the same experience as me.
+
+**Michelle Chen:**         Um, I guess. So sort of related is does gender influence how you see teammates? Like are you more inclined to try to work with girls or are you like I should work with guys because they&#39;re smarter and more competent?
+
+**JL:**         I don&#39;t. I guess I don&#39;t really think about it that much. It&#39;s just because like I have friends in my classes, it&#39;s just like easier to just work with them
+
+**Michelle Chen:**         And is Austin going to be in 310 as well with you?
+
+**JL:**         I don&#39;t think is. He&#39;s doing the minor so I don&#39;t think he has to take 310. Yeah I&#39;m doing 310 and 316 and I don&#39;t know anyone else that&#39;s doing it. So it will be interesting to see. Like I didn&#39;t have any--I didn&#39;t know anyone when I took 201 And it was so terrible. Like so hard, like I was in office hours and they were so not helpful.
+
+**Michelle Chen:**         Did you--so did you like try to team up with people or like work with other people?
+
+**JL:**         Like in my lab there&#39;s like three people that I could kind of knew. So I ended up like-- we would do all the labs together and then I ended up working with one of the girls on a project, which was nice because, I don&#39;t know, like it was fun to work with like another girl, like yeah.
+
+**Michelle Chen:**         Because like I just feel like, I dunno, maybe it&#39;s different because I feel like I had to interact with a lot of people in compsci just by nature of doing hackDuke. And like I always just felt like guys were so-- like they just act like they know everything that they&#39;re talking about and if you&#39;d like try to interrogate them, it turns out they actually have no idea what they&#39;re talking about. Like I don&#39;t know.
+
+**JL:**         Yeah, that&#39;s definitely annoying. And I I just feel like I kind of have to like step it up a little bit to like show them like I know what I&#39;m talking about like this versus like when you talk about it with girls, I just feel like it&#39;s like they&#39;re so supportive.
+
+**Michelle Chen:**         Like the fact that I&#39;m telling you I don&#39;t know anything and you&#39;re like, oh, like I feel like if I told a guy that he&#39;d be like, yeah, like, I&#39;m not surprised, or like some like especially that one guy that I worked with. He just like it also, it was like my sophomore year, so that was how I viewed compsci after that.
+
+**JL:**         Yeah, and that&#39;s when you&#39;re declaring your major and all of that.
+
+**Michelle Chen:**         So anyway, I won&#39;t go on. But I guess, do you think any of your other identity factors like socioeconomic status or race have impacted your computer science experience here?
+
+**JL:**         Um, me, I don&#39;t know, like I have a tutor so like obviously pay for that. So I guess like he&#39;s very helpful for 250. So like if I didn&#39;t have that, then I guess I&#39;d have to go to office hours more, which are harder.
+
+**Michelle Chen:**         Yeah, how so like how does that work?  I always wanted a tutor but I was always too lazy to figure it out.
+
+**JL:**         Well Julia Ross, it&#39;s like her friend Quinn Thompson.
+
+**Michelle Chen:**         Oh okay.
+
+**JL:**         Um, so she was just like texted him and was like hey can you help us with the MIPS? And then he ended up helping us with that and it&#39;s just like I don&#39;t like have him help me for everything. I&#39;ve only met with him once but like now I&#39;m doing my cache and I&#39;m like so confused.
+
+**Michelle Chen:**         You only met with him once? Oh. Well I guess that&#39;s not like a weekly thing.
+
+**JL:**         I, yeah, it&#39;s just like when I am like really struggling, like actually have no idea. They usually like Austin and I can figure it out and Julia.
+
+**Michelle Chen:**         It&#39;s just you and Austin just do literally everything?
+
+**JL:**         Literally I spend so much time with him. It&#39;s ridiculous. But like I definitely I like need to work with other people.  Like if I like pull it up and try to start on my own, I&#39;m just like, I don&#39;t know where to start.
+
+**Michelle Chen:**         But then in 201 didn&#39;t you say--you were like you didn&#39;t know anyone. So what did you do?
+
+**JL:**         Like I hate that class so much. I&#39;d like go to office hours and sometimes wait for like three hours. One person would help me and they&#39;d look at it, fix one thing and then I&#39;d be like okay cool. And then I&#39;d have another question but like office hours would be over.
+
+**Michelle Chen:**         Did you ever try to like work with other people in 201?
+
+**JL:**         Like the labs were like pretty helpful. Yeah, I would ask the lab TAs or ask the people in my lab like when we had it, but that was also like hard. I didn&#39;t do super great in 201.
+
+**Michelle Chen:**         I mean I just think it&#39;s hard if you don&#39;t know anyone to like sort of-- that&#39;s how I felt in 330. I was like,
+
+**JL:**         I feel like you can&#39;t do well if you don&#39;t
+
+**Michelle Chen:**         If you don&#39;t know people or ask people, which is like, it&#39;s tough because you don&#39;t. I don&#39;t know, I never wanted to come across as stupid, but I was also like, I need help. So it wasn&#39;t like, it wasn&#39;t even a pride thing. It was just like I don&#39;t know where to start or who to ask.
+
+**JL:**         I definitely feel that.
+
+**Michelle Chen:**         I just, yeah. Um, let&#39;s see. Do you feel as if there&#39;s a community in which you&#39;re welcome in the CS department at Duke?
+
+**JL:**         Just like my computer science friends I guess
+
+**Michelle Chen:**         But not like within the department or anything?
+
+**JL:**         What do you mean? Like, just like an example. That&#39;s okay.
+
+**Michelle Chen:**         So the, what I&#39;m trying to get at with this question is just like, I don&#39;t feel like there&#39;s a community of CS at Duke, like I really don&#39;t feel like I know, I don&#39;t know, like, you know, and I feel like engineers like BME have their, like, you know what I mean, like it seems like they have a community or even like, I don&#39;t know, like what, like poly sci, like they at least seem to have some central hub or like some way that they like all know that they&#39;re all polysci that like I feel like compsci, like I, there&#39;s no community. The department I feel like doesn&#39;t really do that much to try to make it like community. And so when I ask people, people are just like, I don&#39;t know..
+
+**JL:**         I guess like an office hours, there&#39;s a lot of the same people. So like, and we&#39;ll like help each other out there. That&#39;s like probably the only example I would be able to think of of that.
+
+**Michelle Chen:**         Yeah. Um, and then, so I guess, can you talk about your specific experience into 250? Like how hard was it for you? How hard was it for you to ask for help and how can it be better?
+
+**JL:**         So I&#39;m in that right now, so I&#39;m still working on it. The first--I think there&#39;s a really, really big learning curve. Like I still don&#39;t really understand C, so that was harder than MIPS honestly. But I like I spend a lot of time on my homework assignments, like I definitely dedicate a lot of time to it and I feel like by the end of it I like very much understand like everything I&#39;ve done which is good, but it takes me a long time to get there. Like definitely longer than most people, which is frustrating because it&#39;s sometimes I&#39;ll spend six hours during it and like have four lines of code and I&#39;m like eh... And then I thought like, well, and I had my tutor for MIPS, he was awesome and he just like helped me conceptualize like everything. He was like, okay, like these are the things that you need to do. And then I was like, okay, like I actually feel like I know how to do this. Um, and it was like crazy, like talking to him for like 10 minutes, I was like, wow, this just makes so much sense. I just needed that extra one on one help and then I didn&#39;t think like the, like the logism and stuff was like too challenging. Like it was like more annoying and tedious, but the slides are actually helpful for that, which is rare because usually they&#39;re not at all.
+
+**Michelle Chen:**         Yeah, that&#39;s true.
+
+**JL:**         The processor was just blah. Did it, I started it so late. I did it in three days and then ended up deleting the whole thing and starting it again like six hours before it was due because nothing worked. But I ended up getting the whole thing to work and like I definitely understood it and I was like, okay, this is fine. But it took me--like I skipped all my classes and only worked on it for like hours and hours.
+
+**Michelle Chen:**         That sounds like compsci.  What I hate is like, it&#39;s not like, you know when you write a paper you&#39;re kind of like, okay, I know like if I spend like this, I need the outline, blah blah-- with compsci it&#39;s like you could be done if maybe it&#39;s a good day and you&#39;re done in two hours or maybe it takes you two weeks. Like genuinely like you have no idea. That&#39;s the most. I think that was because I can, I can never budget my time correctly with compsci. I could never plan because I&#39;d be like, well it could be two hours or it could be two days.
+
+**JL:**         I really feel that so hard because I waste so much time. I feel like. And if you just get stuck, there&#39;s nothing you can do until you can ask for help. And that&#39;s why I think it&#39;s good to work with other people. It&#39;s like you can only think about it one way and then they can give you another perspective.
+
+**Michelle Chen:**         I guess, so then like how do you think your experience in 250 could have been better?
+
+**JL:**         Maybe just like having more like one on one help. So like just more resources. Yeah, it&#39;s just like explaining what needs to be done because sometimes it&#39;s just like confusing where to start, what exactly needs to be done. I actually have like really, really good lab TAs like they&#39;re awesome and they like show us how to do everything for the labs and then like hold office hours for us. So I think that was huge.
+
+**Michelle Chen:**         Like, like special for just for your section?
+
+**JL:**         Yeah.
+
+**Michelle Chen:**         Who are your TAs?
+
+**JL:**         Alex and Joseph. I can give you their last names.
+
+**Michelle Chen:**         No it&#39;s fine. I was just wondering if I knew them but they&#39;re just like they were really great which I think helped a lot too and they would like explain everything and like tell you like things to look out for and where to start. And I think that was like--because I don&#39;t think 250 is that bad. I really like it.
+
+**Michelle Chen:**         You liked 250?
+
+**JL:**         Yeah, so I think it&#39;s probably because of my experience.
+
+**Michelle Chen:**         So then I guess because I feel like you have a lot of opinions about 201.
+
+**JL:**         Oh my god. I hated 201.
+
+**Michelle Chen:**         Yeah, so like how, how do you think that it could be better? Like what are things that the department could do because I know that there&#39;s a lot of things.
+
+**JL:**         So many things. So um, I think making the labs like actually relevant to the homework, like kind of like starting, I think they should like start the homeworks off in the labs so you know what the hell you&#39;re doing? And office hours were horrendous. I would get there, right on time, we&#39;d do like raise your hand, whatever. And there&#39;d be like two TAs there and I would wait for like, it would tell you how long the wait is. Sometimes it would be three hours, and then they would come and fix
+
+**Michelle Chen:**         Oh is that the online, the platform thing? Yeah. Oh I&#39;ve never used that.
+
+**JL:**         Because there&#39;s just so many students there and they&#39;re like, it was ridiculous.
+
+**Michelle Chen:**         Did you ever ask them for help? Like the other students there?
+
+**JL:**         Sometimes also, but I  know anyone and other people in office hours are the ones that like don&#39;t know what&#39;s going on. And like I would try to start stuff early and just say get so discouraged, it was bad bad. That class was very discouraging.
+
+**Michelle Chen:**         So then I guess two questions is like why did you decide to keep going? Right.
+
+**JL:**         Well I&#39;d like heard that 201 was bad and I was excited for my classes this time and I&#39;m like if I don&#39;t have to do anything like 201 again it&#39;d be like okay. And like also I don&#39;t have time to change my major again so I&#39;m kind of like stuck and then I like, I really like two of my three classes this semester so I&#39;m like okay this is better. So I know that even though they&#39;re hard. I still like enjoy it.
+
+**Michelle Chen:**         Which ones do you like and not like?
+
+**JL:**         So I like to 250 and I&#39;m in 270, which is intro to AI. It&#39;s so card, but so cool.
+
+**Michelle Chen:**         And so you like it? I didn&#39;t take it because I thought it would be too hard.
+
+**JL:**         And I like I&#39;m also doing the BA so it&#39;s also kind of like I just haven&#39;t taken like multi or any of the math and feel like--
+
+**Michelle Chen:**         Oh,  is it math heavy?
+
+**JL:**         A ittle bit. Then just like other classes in general, like obviously like the BAs not as impressive or really technically based, but it&#39;s less classes and I like suck at math. I&#39;m also in 216 which is like Everything Data, and I hate it so much.
+
+**Michelle Chen:**         You don&#39;t like it?
+
+**JL:**         Everyone says it&#39;s easy so I like didn&#39;t take it seriously, like the homeworks are fine.
+
+**Michelle Chen:**         But there&#39;s no test or anything, right?
+
+**JL:**         Yeah it&#39;s just one group project and it&#39;s me and like the sigep guys and Julia and we literally get nothing done and it&#39;s like we&#39;re probably going to do so badly.
+
+**Michelle Chen:**         I don&#39;t, my project I can see if I can find mine, it was terrible. This is 216 right?
+
+**JL:**         Yeah, did you still get an A?
+
+**Michelle Chen:**         I got an a and it was our final project was not good.
+
+**JL:**         We have no idea what we&#39;re doing.
+
+**Michelle Chen:**         But that&#39;s the thing. Okay. I guess this is the secret. It&#39;s like make your presentation look nice. Like, so this is my team. Okay this guy did not show up to anything, these two did everything, she was a senior in planning her postgraduate trip the entire time and then me and rohan like tried but we had no idea what we were doing. We were like why are divorce rates so high?
+
+**Michelle Chen:**         Like it like looks nice but we just took one data set. I can send this to you if you want.
+
+**JL:**         That&#39;d be great.  These look good.
+
+**Michelle Chen:**         Yeah. We found these online-- like we did not make these. Like do you see what I mean? It looks cool? And we&#39;re like, no, we&#39;re not using naive bayes. And then this is it. We had one excel sheet and look at how many columns, like six, seven columns and then we have these graphs and they are not difficult to make. Conclusion, love is messy. Like I don&#39;t even-- do you see?
+
+**JL:**         It looks good. It looks very good.
+
+**Michelle Chen:**         So I think that&#39;s what it is. You need it. Like I&#39;m sorry Jane-- this is, this was all of our data. Like I&#39;m not like some people like people like oh it looks nice and we&#39;re like yeah. And like I don&#39;t even, I think they took maybe two hours and did this by themselves and then we just sort of slapped it on here. This is literally our entire spreadsheet. So I&#39;m just, I wouldn&#39;t worry if that&#39;s what you&#39;re worried about. Then I would say you&#39;re fine.
+
+**JL:**         We just like don&#39;t know what we&#39;re doing.
+
+**Michelle Chen:**         You&#39;ll figure it out. You&#39;ll figure it out. Um, okay. So I guess for 201 then how could it be better? Just like better, like more office hours? Because you know what you&#39;re like maybe the third person who complained about to 201 and somebody was saying that it&#39;s taught differently every year, which is why it&#39;s such a shit show every year. It&#39;s like a different professor every year. Each one of them teaches a course in an entirely different order and they have completely different ideas for office hours. So would you say just more like individualized help or like starting the homeworks in office hours or in recitation?
+
+**JL:**         Yeah, like give you resources to get them started. Clear things like, okay, this is what you&#39;re gonna need to look out for the. And for office hours they need way more TAs. But I guess like if it&#39;s taught differently every time it&#39;s also hard like the TA&#39;s aren&#39;t familiar with it. Like I think that&#39;s so helpful when they know.
+
+**Michelle Chen:**         Do you know Austin Wu? He was a TA. So he&#39;s been a TA for 201 for four years and that&#39;s what he said. He was like, yeah, it&#39;s taught differently every single year. He&#39;s like, it&#39;s really frustrating to be a TA because every professor wants you to do something different and you never feel like you can really... He was also like, we need to spend way more time on these concepts instead of just being like, this is a tree and like go use it. Okay. So those are good. Um, I guess, so this is sort of the last question and it&#39;s like very all encompassing, but like, do what could the CS department do better or like do you have any qualms with the department or just sort of like things that you wish were different or that you wish could change? Because that&#39;s sort of like what I&#39;m trying to get at.
+
+**JL:**         This semester has been--it&#39;s been tough but I think it&#39;s been like fine-- like my professors have been good and the TAs have been great. But um, I haven&#39;t had too many like big issues. I&#39;m trying to think.
+
+**Michelle Chen:**         I just like what you said about 201 is like--
+
+**JL:**         Yeah, that&#39;s probably the main thing--
+
+**Michelle Chen:**         Is just your experience there. And you felt like discouraged after you left?
+
+**JL:**         So discouraged. And actually this year even like professors will put like &#39;don&#39;t get discouraged&#39;, come to office hours, we want to help you. Even just like that helps so much. Like I like read it and I&#39;m like, oh, okay. Like it&#39;s okay to be discouraged. Like they want to help. Like that was like even just putting it out made a huge difference. Um, the uh, I don&#39;t think there&#39;s anything like--maybe just having resources. I think undergraduate resources is good, like undergraduates to talk to.
+
+**Michelle Chen:**         Like do you feel like Austin feels, like did you take 201 with Austin? Do you, have you talked about it with him? Like does he feel similarly? I don&#39;t think so because I think people in the class he was friends with. That&#39;s honestly the biggest thing. So I guess like ways to make friends and meet people.
+
+**Michelle Chen:**         That&#39;s tough to do that because it&#39;s like you don&#39;t talk to people in lecture and then the people in office hours are never the ones who--they&#39;re always who need help. OK, so like maybe a more informal way to meet people. Are you nervous about next year taking 310?
+
+**JL:**         A little bit.
+
+**Michelle Chen:**         310, I liked 310 a lot. I did not like 330. And what I found is that like you either really like, you liked one or the other. I&#39;ve never met anyone who likes both. So, and if you like 250, you&#39;ll probably like 310 a lot. But also like I&#39;m terrible, I never formally learned how to write a proof and so it&#39;s like super proof heavy.  Yeah. But, but like everyone doesn&#39;t bad. I think the average on our first midterm was like a 40 percent. So you kind of take the test and you know, and you&#39;re like, oh well everyone&#39;s going to fail. So like it&#39;s, I don&#39;t think you should be nervous about that.
+
+**JL:**         I&#39;m taking like it part time too which will be nice. I heard that one&#39;s like one of the hardest.
+
+**Michelle Chen:**         So what&#39;s your senior year schedule like? Are you almost done? You&#39;re almost done with the major, right?
+
+**JL:**         Yes. Then I&#39;m taking--I need 310, 330, and one more elective and then I&#39;m done.
+
+**Michelle Chen:**         So then what classes are you taking next semester?
+
+**JL:**         310, 316. Apparently the professors like really awesome for that one. And then have to take a writing class and then I just like had a free credit. So I was taking a psych class so that&#39;s fun. Yeah.
+
+**Michelle Chen:**         Have you ever thought about like TAing for compsci?
+
+**JL:**         Yeah. This is actually, this is like a little frustrating too, like I&#39;ve been wanting to be a compsci 101 TA since I took it, like I applied to every single time. The first year they just like never answered me. Like they never sent me anything and then this semester they emailed me to like fill out a thing to like what times I was available and I&#39;ve filled out like a shit ton of times, like so many, like everything that I was available for and like, like, like they were like oh yeah we&#39;ll get back to you but, I never heard thing, like email, then they never considered, I was like okay. I guess I wasn&#39;t hired but like why was I hired? So you applied for next year? Right. I also applied for the next year too. So we&#39;ll see.
+
+**Michelle Chen:**         And you haven&#39;t. Okay. I just feel like they are very disorganized sometimes.
+
+**JL:**         Yeah, they never answer my emails. Like I&#39;ve emailed Forbes asking about one of his classes for next semester. He never answered. I&#39;ve emailed,,
+
+**Michelle Chen:**         So accessibility is another problem. I would agree with that.
+
+**JL:**         But also this guy and he&#39;s like our here and he&#39;s like I&#39;ve only taken computer science 101, and like he&#39;s a compsci 101 TA and I&#39;m like, what? Like I&#39;m sorry, that makes more sense to have a compsci  major to do this.
+
+**Michelle Chen:**         I agree.
+
+**JL:**         That&#39;s like, how did he get it? How did you not get hired? I thought they hired everyone? And I was just like haha no... they don&#39;t.
+
+**Michelle Chen:**         I just think that they are very disorganized.
+
+**JL:**         Like I&#39;ve been wanting to so bad that I didn&#39;t think-- I tutor for it now and just because of like I want to like keep up up with it. Like I loved that class so much. It was so fun.
+
+**Michelle Chen:**         See like that&#39;s how I felt too in 101 and then I took 201 and I was like wtf.
+
+**JL:**         I feel like 201 is definitely a weed out class.
+
+**Michelle Chen:**         Yeah I agree. This is true. So I guess do you have. So my advisor is Astrachan, so he&#39;s going to be the one reading this. Do you have any like any last words or anything else because? Also thank you so much. This was great.
+
+**JL:**         Yes! No problem. I&#39;ve like wanted to talk to you about this anyway. This stuff is so interesting.
+
+**Michelle Chen:**         It&#39;s just like, I just think that there&#39;s a lot of things that could be different and like, I don&#39;t know. If you ever just feel stupid and stuff, like know that like I&#39;m literally, I literally chose to not pursue a career in CS because. Yeah, because I&#39;m doing like finance because yeah. Because I was like, I honestly really, what I think it was, was my experience in 308 with that guy telling me that like I was wasting his time because I was kind of like maybe that&#39;s how--
+
+**JL:**         I mean I would be scared.
+
+**Michelle Chen:**         Yeah, that&#39;s how I was like, I was like, I guess industry is like this. I guess I was like, I guess if I work in concert, like this is what, that would be my life. And I was like, I don&#39;t want that. And so then I got so discouraged.  Um, yeah. And I really feel like a fraud all the time in compsci because I&#39;m like, yeah, like, yeah, I did HackDuke and stuff. But like also I was a 201 TA and I had no idea what it was doing. Just because like I had 101 for a couple of semesters and I was like, oh, maybe I should try to challenge myself. Also it&#39;s just like, it was overwhelming because there were so many students that needed help, like so many came to office hours and then it would just be like, I felt like I couldn&#39;t help anyone because it was like I see all the people there and then I&#39;d be like, I need to like help you, but like I can&#39;t spend too much time with you even though you need that attention because I need to help the, like however many other people are out there.  So I don&#39;t know. I&#39;m just saying like if you feel like a fraud, like literally I feel like that all the time and I&#39;m like I&#39;m a senior now and I&#39;m like I&#39;m graduating and I&#39;m like, I don&#39;t even know how they are letting me get this degree because like,
+
+**JL:**         Stop it!
+
+**Michelle Chen:**         Because I&#39;m like, okay, yeah. If you asked me to write hangman, like maybe I could write that for you in Python and get it back to you in like two days, but if you ask me anything more than that, like I don&#39;t know.
+
+**JL:**         I feel that. I don&#39;t know if I even want to be a software engineer, like I feel like that would be a lot. There are a lot of people better at it that should do it.
+
+**Michelle Chen:**         I would say don&#39;t think don&#39;t use that mindset because like the world needs software engineers and also like you&#39;re, you&#39;re going to be good at it. Like trust me. And also if you really like 250, like maybe you should think about not just pure code like coding, like I don&#39;t know if you really liked the idea that you could go into like hardware or something like that.  Like my sister wants to do hardware like she wants to work for like Amazon or something and like do like robotics for them or something or just like understanding like processors behind computers and like working in that area. So I don&#39;t know, just like you have a lot of options. Don&#39;t get discouraged.
+
+**JL:**         I know I also like I&#39;m doing consulting and to feel like it&#39;s like the biggest cop out on earth
+
+**Michelle Chen:**         Dude, I&#39;m literally doing banking.
+
+**JL:**         I was not, I was like not prepared to do like technical interviews. I feel like I am now. But I definitely wasn&#39;t last semester when I was just taking 201. It was so bad. I definitely feel more prepared now. most. I was thinking of doing consulting to get into tech consulting and then like go into to the tech industry from there.
+
+**Michelle Chen:**         So that&#39;s kind of what I&#39;m hoping to do. Except with banking. Yeah I&#39;m like I get it.  Banking is also the biggest cop out of all time.
+
+**JL:**         That&#39;s like, so real.
+
+**Michelle Chen:**         So any last thoughts or anything? Thank you.
+
+**JL:**         Mm.. I&#39;ll send you my paper.
+
+**Michelle Chen:**         Please do. I would like that.
+
+**JL:**         You can like see what sources I use if you want..
+
+**Michelle Chen:**         OK. I&#39;m going to stop the recording.
+</p>
+</details>
+
+
+<details><summary>Interviewee - AW </summary>
 <p>
   
 </p>
