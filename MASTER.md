@@ -1421,9 +1421,401 @@ Speaker 4:        What about group projects? Have you taken group project based 
 </details>
 
 
-<details><summary>Interviewee - CT </summary>
+<details><summary>Interviewee - SD </summary>
 <p>
-  
+**SD:**         Okay, so yeah, anyway, now that I&#39;ve explained sort of the premise of my...
+
+**Michelle Chen:**         So is this a personal project?
+
+**SD:**         Yeah. So, I mean, it&#39;s not really for anything necessarily; it&#39;s not like this is gonna be, like, published anywhere, but I kind of want to give my parting gift to the department. It will be sort of me saying, &quot;Hey, here are some experiences people have had that like haven&#39;t been super awesome,&quot; and, like, or maybe you have had awesome experiences—that&#39;s why I want to talk to a lot of people. And then like sort of give them a report and say the sort of the good, the bad and the ugly. If not for that, like, if it goes nowhere, if they never read it or use it, that&#39;s, like, at least I...
+
+**Michelle Chen:**         Um, okay. So my first question is, what year are you at Duke?
+
+**SD:**         I&#39;m 2019, so I&#39;m a junior right now.
+
+**Michelle Chen:**         Okay. And then, um, have you taken 308, 330, or 310?
+
+**SD:**         So I&#39;m currently in 330—I didn&#39;t take 308 but I did the 290 mobile version of it the first semester it was offered and then 310 next semester.
+
+**Michelle Chen:**         You&#39;re taking it next semester?
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Okay. And then, so you took 290 then 330, then you&#39;re going to take 310. That was the order.
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Um, so did you have any computer science education prior to attending Duke?
+
+**SD:**         Yeah, so I actually, um, like, learned Python on my own, like, the summer before coming, and then I took a CompSci class in my high school but I don&#39;t think I learned anything...
+
+**Michelle Chen:**         And, like, what were the demographics of that class?
+
+**SD:**         Oh yeah, so, like, um... okay, so I actually, like, we have a CompSci class—so I went to a math and science high school—so we had, like, the intro AP CompSci class and then it went all the way to, like, the next level, like, data structures. So I went the full, like, I took the full year of it. And, in my intro class, I&#39;d say, like... 25% girls. But then, in my data structures class, I was, like, one of two girls.
+
+**Michelle Chen:**         Out of..?
+
+**SD:**         Out of, I&#39;d say, like, 12 people? Or maybe, like, 15 people interested.
+
+**Michelle Chen:**         Oh, interesting.
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         And then was it also, like, 16 people in the intro class?
+
+**SD:**         The intro was a little bigger, like 20 maybe.
+
+**Michelle Chen:**         Okay. Do your friends and family encourage you to study CompSci?
+
+**SD:**         Yeah. So my parents are pretty, like, um, they don&#39;t really—they&#39;re pretty...
+
+**Michelle Chen:**         Chill?
+
+**SD:**         Chill about whatever I wanna do. I mean—granted, I am, like, I chose CompSci, so yeah. My friends? Yeah. I mean, I feel like people are always like, &quot;Yeah! Girls who code!&quot;
+
+**Michelle Chen:**         So do they—is there anyone who, like, doesn&#39;t support it? Like did your parents want you to be CompSci?
+
+**SD:**         Um, they were pretty indifferent. I would say my dad—like, definitely there was some resistance at first.
+
+**Michelle Chen:**         Really?
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Do you know why?
+
+**SD:**         Um, yeah. So he, like, he said—he was a software engineer for a really long time and he was just like, this is mundane.
+
+**Michelle Chen:**         Okay.
+
+**SD:**         And, like, he&#39;s basically like, &quot;You could do something more interesting.&quot;
+
+**Michelle Chen:**         I feel that.
+
+**SD:**         That&#39;s understandable, because, like, yeah, it is mundane.
+
+**Michelle Chen:**         That&#39;s fair.
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Um, so I guess, like, in your classes and group work and research—I don&#39;t know if you do research but other aspects of CompSci—who you surround yourself with?
+
+**SD:**         Oh yeah, like, definitely, um... I mean, like, so I have a lot of guy friends in CompSci. Like, most of my dude friends are CompSci majors, but I would never work with them on a project or, like, on homework.
+
+**Michelle Chen:**         Why?
+
+**SD:**         It&#39;s just like... especially if they&#39;re, like, Asian guys, because they&#39;re just like... I don&#39;t know—they&#39;re not fun to work with. Yeah, I&#39;d say the only exception I would work with is Steven, right? But Steven and I have worked together for so long, so I feel comfortable and I know our work habits are similar, but, like, I would... Yeah. If I went to a hackathon, I would ask girls to go with me. As for my homework—my CompSci homework—I either do it alone or...
+
+**Michelle Chen:**         But you wouldn&#39;t want to work with them because... is it because they&#39;re know-it-all&#39;s? Honestly, that&#39;s why I hate working with guys. Like, I feel like they—also, I feel like they&#39;ll judge me.
+
+**SD:**         No, yeah, I feel like they&#39;ll judge me and I feel like they just... don&#39;t explain things the way that I want to be explained to, you know, and...
+
+**Michelle Chen:**         You feel like they&#39;re, like, patronizing you?
+
+**SD:**         Yeah, I don&#39;t feel like I have high expectations for, like, explanations. I just feel like they... I feel like sometimes guys explain things to you with the expectation that they&#39;re, like, you&#39;re not going to understand.
+
+**Michelle Chen:**         And that they&#39;re smarter than you.
+
+**SD:**         Yeah, and I&#39;m just like... um. Like, first of all this isn&#39;t, like, I don&#39;t even like this, so like...
+
+**Michelle Chen:**         Yeah, I get that. So you feel like you... do you try to surround yourself then with women? Like, do you try to work with girls on homework?
+
+**SD:**         Women will also... I found, like, I&#39;m also uncomfortable around a lot of women too. I&#39;m pretty particular about who I work with. And, like, I feel like part of it is just because... it&#39;s kinda competitive.
+
+**Michelle Chen:**         The women are?
+
+**SD:**         Yeah. And I also think that because I&#39;m not doing software, like I&#39;m doing UX, right? I mean, so I feel like, for one, I feel less confident about my coding, right? Because, like, I don&#39;t—I&#39;m not really pursuing, like, a coding career.
+
+**Michelle Chen:**         Dude, tell me about it.
+
+**SD:**         Yeah, and then like I feel like other people are like, &quot;Oh, she&#39;s UX.&quot;
+
+**Michelle Chen:**         Do you feel like people look down on you?
+
+**SD:**         Yeah, yeah, a little bit. Um, girls included.
+
+**Michelle Chen:**         Do you think people would look down on you for doing UX if you were a guy?
+
+**SD:**         I don&#39;t know. So the thing about, like, not many guys are UX. I think I&#39;ve met like two. My initial reaction is always like, &quot;That&#39;s cool.&quot; But I don&#39;t know what a guy would think about that.
+
+**Michelle Chen:**         Yeah. So you feel like your peers actively think less of the fact that you&#39;re doing UX?
+
+**SD:**         Yeah. Or... yeah, I feel like that&#39;s a, that&#39;s a thing.
+
+**Michelle Chen:**         Have they said anything? This is just—I&#39;m just curious.
+
+**SD:**         I know, like, Andy has been like, &quot;Oh that&#39;s, like, less mentally stimulating.&quot; Like, he&#39;s explicitly said that.
+
+**Michelle Chen:**         He said that?
+
+**SD:**         Yeah, about UX and front-end. So it&#39;s, like, uncomfortable because I&#39;m like...
+
+**Michelle Chen:**         Yeah, and it makes you feel shitty because—I mean, I don&#39;t know about you, but I already going into recruiting, didn&#39;t feel good about my skills, so then when you—when you get people saying that, I&#39;m sure it doesn&#39;t feel that great. Then why do you think you&#39;ve chosen, like, these individuals to surround yourself with?
+
+**SD:**         I don&#39;t know. Like, as friends?
+
+**Michelle Chen:**         I would say first—okay, I guess two parts. First as friends, but then when you said, like, &quot;They&#39;re my friends, but I never worked with them.&quot; So the people that you would work with why did you choose those two?
+
+**SD:**         Okay, well, first part: I guess, I mean, well, these friends are not... I guess, I don&#39;t know, people who are cool to hang out with. Like, school is pretty, um, scary for me. So I can&#39;t... Like, I can&#39;t be as scared of everything in life as I am as of school and career stuff I guess. Like, if I—just because I don&#39;t feel comfortable sharing my school and academic stuff with them, like, doesn&#39;t mean I&#39;m not comfortable sharing other things. Yeah, but definitely those are things that I think about when I&#39;m like, &quot;What kind of person are you?&quot; Um, second, who do I choose to, like, why do I surround people—what kind of people do I surround myself when I&#39;m working with them and why? I guess, I feel... Okay, this is kind of shitty, but I feel like I can&#39;t work with people who are known to be really good, right? I feel better when I pick someone who—people are always like, &quot;Oh you just gotta get a good partner and you&#39;re fine,&quot; but I don&#39;t feel that way. I feel like I want, like, a mediocre partner so we can learn together.
+
+**Michelle Chen:**         Because you don&#39;t feel like you&#39;re lagging behind?
+
+**SD:**         Yeah, right.
+
+**Michelle Chen:**         But then why do you feel like—when you said, like, &quot;When I go to a hackathon, I would want girls to come&quot; with you. Like, why is that?
+
+**SD:**         I feel like—okay, I mean, the first hackathon I ever went to was with three girls. It was an all-girl hackathon and it was just... It was a really good experience. Like, I just remember we were all learning together. The next hackathon I went to—I was the only girl on the team, actually—it was with Andy, Cody, David, who are all, like, really good, but I just sat there and, like, didn&#39;t really do anything and no one really made an effort to include me. Yeah. So two very different experiences. And, like, in 330, I feel like—so I actually study with two guys now. And I feel like, on the first midterm—so one of the guys definitely knows more of the lab work, so the other guy who knows less is always asking the guy who knows more and I&#39;m like, well, why? Like, addresses this guy. And I&#39;m like, well what about me, you know, why am I not ever being addressed? And then, like, second midterm comes around and I&#39;m like, &quot;I&#39;m going to stunt on you&quot; and &quot;Dude, you don&#39;t understand this; I&#39;m going to explain it.&quot; And, like, I had to go through that and I had to prove myself to them before they started asking me questions.
+
+**Michelle Chen:**         I totally get that.
+
+**SD:**         Okay, yeah.
+
+**Michelle Chen:**         Because they automatically assume that you don&#39;t know what you&#39;re doing.
+
+**SD:**         But it felt good afterwards, not gonna lie.
+
+**Michelle Chen:**         But I guess—so one thing that made me think of is—I feel like if I were on a hackathon team and it were all girls and they were all super smart, like if they were all like Andy, Cody... you said David, right?
+
+**SD:**         David, yeah.
+
+**Michelle Chen:**         If those three girls were Andy/Cody/David-level, I feel like my experience would be good. I feel like they would teach me. Or I would at least feel like there was someone on my side that was at least trying to include me.
+
+**SD:**         Yeah, it&#39;s different. I think, with that, it&#39;s like—I think if I worked with girls who were like them, it would be less about them teaching me and more about me being self-conscious that I&#39;m like, &quot;Oh, am I going to bring them down?
+
+**Michelle Chen:**         Did you feel that way, though? With Andy, Cody, and them?
+
+**SD:**         Yeah. Yeah, I definitely did, and that&#39;s why I was scared to try anything, because I kind of went in with the mentality that, hey, if I&#39;m not gonna—I&#39;d rather contribute zero than negative, you know? So then I didn&#39;t get much out of it, but at the same time it was a really big step outside my comfort zone for me. I was proud of myself for going.
+
+**SD:**         That makes sense.
+
+**SD:**         Yeah, because, like, you know, um, yeah. So, like, I feel like that had negative and positive effects.
+
+**SD:**         I guess I totally understand what you say about wanting a mediocre partner because you don&#39;t want to be, like, feeling like you&#39;re dead weight. Do you feel like that a lot?
+
+**SD:**         I feel like that a lot, partially because I have really bad work ethic, so that&#39;s me in maybe every class. But also because, like, CS, you know? Like, coding projects just, like... I&#39;ve never been so anxious for homework as I am for coding assignments.
+
+**Michelle Chen:**         Me too. Yeah. Interesting. Do you think your experience in the CompSci major has been different than most male students&#39; experiences? And, if so, how?
+
+**SD:**         I don&#39;t really know, just because... I guess I wouldn&#39;t know what their experience is like. But my experiences are just that... there&#39;s not much the CompSci department is actively doing—that you can see, at least—to help women out. Right? Because I feel like a really obvious thing is increasing the number of female TAs you see in classes past 101. But, like, 201? Even just going from 101 to 201 there&#39;s a huge drop, which is, like—at least have a girl in the classroom teaching recitation or something. I don&#39;t know. But other than that, I feel like I have a lot of qualms about the CompSci department that aren&#39;t as gender-related.
+
+**Michelle Chen:**         We&#39;ll get to them in a second. Do you feel like your guy friends are as not confident as you are?
+
+**SD:**         No, for sure not. I feel like they thrive more. Definitely seeing guys—they have different... goals.
+
+New Speaker:        What do you mean?I just want to, like—I don&#39;t know—I feel like my goal is pretty bare minimum and if I achieve that, then I&#39;m happy. But theirs is like... they need to go beyond, like way further than whatever I want. Like, my goal is to get one job and call it a day and be proud of myself. Or, like, do one personal... I don&#39;t know, like, do a personal project and be happy about it. But theirs are always like... they&#39;re a lot more hungry for things, and I feel like that&#39;s because they have more confidence to pursue it.
+
+**Michelle Chen:**         Definitely.  So I guess just a couple more questions about gender. In what ways has your gender impacted your experience as a CompSci major? Or has it?
+
+**SD:**         I&#39;m just trying to think about, like, what classes I&#39;ve even taken.
+
+**Michelle Chen:**         It could be in classes, in research, in extra curriculars, if there&#39;s any other CompSci environment.
+
+**SD:**         I just feel like my gender—I feel like any sort of gender effects is expected, you know? It&#39;s kinda sad, but you&#39;re not surprised when it happens. It&#39;s pretty every day, like implicit bias kind of stuff, I feel like.
+
+**Michelle Chen:**         Like what?
+
+**SD:**         It mostly shows when working in groups, like being given less tasks, not being asked questions, not being asked for feedback—which hasn&#39;t happened to me too often yet because I&#39;ve been picking groups that I&#39;m comfortable with, but looking at hackathons and... I don&#39;t know. But HackDuke has been pretty... it&#39;s been fine. I know there&#39;s a pretty high... well, I don&#39;t know. There&#39;s no girls in the tech team, you know? And I feel like I&#39;m scared to be—I feel like when I first joined HackDuke, tech team was really cool to be on... because I didn&#39;t know I hated coding. But it was just scary because there was one girl and it was Amy, who was really quiet. Yeah, I think it&#39;s just everyday small things like that. But yeah, I don&#39;t really think about—I don&#39;t really think about my experience as a CompSci major much because I feel pretty, like, my CompSci major has just been, like, a means to an end for me. So, like, if I hate it, if it&#39;s shitty—which I do, like, I don&#39;t enjoy my CompSci studies. I kinda just suck it up because it&#39;s like, I know I&#39;m going to be doing something else when I graduate. So I feel like I haven&#39;t given this the thought that I maybe should be.
+
+**Michelle Chen:**         We sort of talked about this, but does gender influence how you see your teammates, or see potential teammates for you?
+
+**SD:**         Oh, yeah, for sure. Like, I don&#39;t think I would ever, like, one of my best friends is going to be in 310 with me next semester and I&#39;ve known him since middle school and he&#39;s like, &quot;Oh, I want to work with blank other Asian boy; do you want to be in our group?&quot; And I&#39;m just like, if you had said maybe if I want to work with... Girl I Don&#39;t Know, even, I would&#39;ve been more inclined, but the thought of just, like... I don&#39;t know. These are two people who I know really well and I&#39;m really good friends with, and so it&#39;s like, why don&#39;t I want to work with them?
+
+**Michelle Chen:**         Are you worried about what you think they&#39;ll think of you, or are you just like, &quot;I&#39;ll be dead weight&quot;?
+
+**SD:**         I think it&#39;s partially just because I have this image in my mind that guys are not gonna, like—guys are not as supportive, usually. And that stems from my experiences from before, so these are two people I&#39;ve never worked with, so they could very well be great partners.  don&#39;t know anything about their ability to do CompSci, but... So I feel like it&#39;s pretty clear that I was just like, oh, two boys, fuck.
+
+**Michelle Chen:**         That makes sense.
+
+**SD:**         Like, why? I think it&#39;s just because—I don&#39;t know if I&#39;m going to be dead weight, but if I do end up feeling like that, they&#39;re not gonna do anything to help it. I&#39;m just, like, I don&#39;t... I just feel like I wouldn&#39;t grow as much, which I don&#39;t know if it&#39;s true or not, but I still go in with that feeling.
+
+**Michelle Chen:**         That makes sense. How do you think your race or socioeconomic status or other identity factors besides gender has impacted your CS experiences?
+
+**SD:**         I&#39;m sure they&#39;ve helped it. I feel like being an Asian girl is much better than being... I&#39;m still a woman of color, but I feel like this is one of the things where East Asians get privilege. So, nothing too negative, maybe, but sometimes I feel like I&#39;m not doing enough to support other women of color who are more marginalized? I also feel like, what can I do? Because then I&#39;d be—if I tried to create something for them, or like... I&#39;d have to do it with them, right? Because if I tried to step in, that&#39;d be, like, taking up space. And, like, it&#39;s a hard thing to balance because, yeah, you want to start—like say you want to start a women in tech thing, but do you exclude white women? Do you exclude East Asians? You know what I mean, right? These are people who are, like... yeah, they&#39;re discriminated against but also having them in a space makes other people—like Black women, probably—they&#39;ll feel more... I feel like there should be a space just for them, or Latinas.
+
+**Michelle Chen:**         Yeah. Okay, also, this isn&#39;t in my interview question list, but speaking as... Your friends know you directed HackDuke, right?
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Do you think that that has impacted how they see you—has it helped you in any way? Because, for me, for example, it was so weird—I always felt like people knew that I was the director, but they didn&#39;t necessarily think more highly of me as a coder or a student; they just thought I had influence on campus, if that makes sense.
+
+**SD:**         Yeah, I feel like, for sure, I think people&#39;s impression of me do change after they find out, like, oh, I did this. But I feel like it doesn&#39;t really... yeah, I don&#39;t think anyone has ever been like—okay, my non-coding friends will be like, &quot;Oh, you directed HackDuke; you have to be good at this,&quot; but that&#39;s different, right?
+
+**Michelle Chen:**         That&#39;s different. They don&#39;t know.
+
+**SD:**         But my coding friends are just like, &quot;Oh, you directed HackDuke. Cool.&quot;
+
+**Michelle Chen:**         &quot;Can I get free stuff?&quot;
+
+**SD:**         Yeah. And they don&#39;t realize how much thought went into it, but it&#39;s fine.
+
+**Michelle Chen:**         That&#39;s how I feel too. Do you feel as if there&#39;s a community in which you&#39;re welcome in the Duke CS Department?
+
+**SD:**         So I don&#39;t think—I don&#39;t feel like I have a community, which is weird because I have so many CS friends. But then you ask me, like—but then I go and take a class and I&#39;m like, &quot;Fuck, well, who am I gonna partner with?&quot; Because I feel like—I would expect that I would be like, &quot;Oh, I could partner with blank or blank,&quot; but through elimination of who I&#39;d wanna work with and whatever, there&#39;s only, like, one or two or three people left, and it&#39;s like, wow... for the number of—because I have a pretty homogenous group of friends, and a lot of them are in tech. I still don&#39;t feel like it&#39;s a tech community. I don&#39;t know. I don&#39;t feel like there&#39;s people I can talk to about tech comfortably.
+
+**Michelle Chen:**         Interesting.
+
+**SD:**         Yeah. Or there&#39;s a group. There are individuals I can talk to comfortably.
+
+**Michelle Chen:**         So, I mean, do you think that&#39;s a you thing? Do you think a lot of people feel like that?
+
+**SD:**         I think a lot of people feel like that. Um, I&#39;ve met a lot of girls, but also girls who don&#39;t have friends in tech. I have a friend who&#39;s like a polisci-CompSci double major and she got into CompSci kind of late and she&#39;s not really in any CompSci club, so she literally has nobody to talk to about, like—when you&#39;re recruiting, you learn a lot of stuff from your friends and stuff, right? But she just, like, missed out on a lot of it because she has physically zero CompSci friends and I feel like that&#39;s something on Duke&#39;s end, too. I don&#39;t think Duke does anything to support community within CompSci. Yeah, we have Catalyst and HackDuke and Wiring with Women, but these are all things you have to apply for, which is another—
+
+**Michelle Chen:**         You have to apply for Wiring with Women?
+
+**SD:**         No, well, from what I&#39;ve heard, Wiring with Women doesn&#39;t really have a good community, but that&#39;s that&#39;s not on them. It&#39;s kinda hard to, like, pave a way.
+
+**Michelle Chen:**         I mean, so then, what are your ideas? Like, how do we make a community?
+
+**SD:**         Yeah, no, I think this is just like, I just think there should be something... okay, actually I tried to do this last semester, but then it didn&#39;t work out—well, l didn&#39;t really see it through also. I think like there needs to be some sort of, like, CompSci department-sponsored thing, because even if it doesn&#39;t, um, like even if it&#39;s not that close-knit or whatever, it&#39;s at least, like—one—it&#39;s, like, hey, maybe we care? It&#39;s, like, I don&#39;t know, maybe it&#39;s just going through the motions but maybe it will actually make people feel more reaffirmed. Especially as freshmen, knowing there&#39;s, like, hey, I have this resource. And also, being connected with anyone who knows, like, if you&#39;re a freshman—so I feel like being a sophomore and freshmen in CompSci is so entirely different. So, like, just knowing one person is really helpful and I think the CompSci department should come up with something for that, because then there are no barriers to entry, like anyone could do it. You don&#39;t have to—it&#39;s not like... it&#39;s not really like cliquey like Catalyst and HackDuke. Um, yeah.
+
+**Michelle Chen:**         Um, let&#39;s see. Now I want to ask sort of about your specific classes. Um, so I guess just talk really quickly about your experience in—you&#39;re in 330, right?
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         So tell me about—what you think of when you think of 330. Like, was it hard for you to ask for help? Like, how could your experience has been better in 330?
+
+**SD:**         Okay, well, first of all, the grad TAs are kind of, like, assholes.
+
+**Michelle Chen:**         Really? Why?
+
+**SD:**         One of them is just, like, really just—okay, they&#39;re all really smart.
+
+**Michelle Chen:**         Yeah.
+
+**SD:**         One of them—he&#39;s straight out of undergrad and he is really smart. I don&#39;t know. He&#39;s really smart but he&#39;s really bad at explaining and I always feel like he&#39;s judging me. I&#39;ve never even asked him a question, but I went to his discussion once and just hearing him and from what I&#39;ve heard other people say about him, I just, I don&#39;t want to...
+
+**Michelle Chen:**         What do they say? Like that he&#39;s..?
+
+**SD:**         Um, he&#39;s just, like, he explains things like—he assumes you know things, which is, like, kind of annoying because it&#39;s like, well, what if I don&#39;t? How do I—how do I ask you now? Um, yeah. And then, like, he&#39;s also just really mean, like a mean grader.
+
+**Michelle Chen:**         Really?
+
+**SD:**         Oh, yeah, it&#39;ll literally be, like—this is literally like every question, every homework, the answer—I&#39;ll get, like, really good on the other ones or, like, pretty good, and then the question he grades, it&#39;s, like, minus 10, &quot;lack of clarity and runtime description and runtime analysis&quot; and I&#39;m like...
+
+**Michelle Chen:**         You&#39;re like, &quot;Okay...&quot;
+
+**SD:**         Yeah, and this happens to everybody, and I&#39;m just like...
+
+**Michelle Chen:**         Yeah.
+
+**SD:**         Yeah... which is fine because it&#39;s curved, but it&#39;s still like...
+
+**Michelle Chen:**         Yeah. So my last question is, what could the CS department do better? Like, what do you wish—or what do you wish there was/what changes, ideally, could be made?
+
+**SD:**         Well, I mean, I think the biggest thing for me is I&#39;d love to see more support for, like... okay, well, first of all, there&#39;s not really support for people who are going to software—there&#39;s 308, that&#39;s about all. I&#39;d love to see more support for people who aren&#39;t doing software because that would feel, like, that would probably make me feel more prideful or more excited or—I&#39;m excited about my choice and I feel like it&#39;s right for me. But sometimes, I do feel like I&#39;m being judged when I&#39;m saying &quot;Hey, I&#39;m doing UX not CompSci.&quot; So, like, that&#39;d be cool if something is done about that. Um, but also just like... I don&#39;t know. Like, the obvious ones, like classes—I have zero choice of classes next semester. I&#39;ve literally taken all the classes and, like, I haven&#39;t even taken that many which is like, okay... I don&#39;t know, just like... I feel like the CompSci department doesn&#39;t really listen. They&#39;re really unorganized, which is an issue because there&#39;s...
+
+**Michelle Chen:**         So many people?
+
+**SD:**         Yeah, like, CompSci is growing so quickly, and I guess if it&#39;s not... like, that&#39;s a lot of men we&#39;re feeding into the workplace who are problematic and a lot of women who are also going into the workplace with not a lot of confidence. So it&#39;s like... like what any change they make affects a lot of people and it&#39;s growing every freaking year. I don&#39;t know. I also wish they gave me more support for, um, outside endeavors. I don&#39;t know. I feel like it&#39;s just all about class.
+
+**Michelle Chen:**         Yeah, that&#39;s fair. Any other qualms?
+
+**SD:**         I feel like a lot of qualms are obvious.
+
+**Michelle Chen:**         Like what?
+
+**SD:**         Just, like, classes, professors. I know those aren&#39;t quick fixes, but the CompSci department has like... okay, one thing they did that I thought was cool was that CompSci department holiday party. It was kind of silly but, like, I don&#39;t know. It was nice that they did something for the students. I don&#39;t know. Also just, like, not—I think a big thing is a lot of people get caught cheating in 201 or, like, the earlier ones. It affects girls a lot more than it affects guys.
+
+**Michelle Chen:**         What do you mean? Like they get caught more?
+
+**SD:**         No, like girls—I feel like guys are just like, &quot;It&#39;s fine.&quot; Like, they brush it off, and then girls are like, &quot;Well crap. That happened.&quot; Yeah. And then it stays with them for a while and like... yeah. I don&#39;t know, something should be done about the whole academic dishonesty thing. Because not just for like, hey, this doesn&#39;t work educationally, but also there are long-term effects on people trying, who are maybe interested in CompSci.
+
+**Michelle Chen:**         Yeah. Interesting.
+
+**SD:**         And I feel like they&#39;re not doing anything to increase the retention rates, because everybody knows that a bunch of girls drop out from, like, 201 to 250.
+
+**Michelle Chen:**         But, like, we can&#39;t—I don&#39;t know what they could. Do you have ideas?
+
+**SD:**         So one thing that was really cool was, like, Anna Miyajima—when she became a 308 TA, she was like, &quot;I will do it only if I get to TA girls.&quot; So, like, I don&#39;t know. They could take some inspiration from that or...
+
+**Michelle Chen:**         Yeah. I see what you&#39;re saying.
+
+**SD:**         I feel like... guys are not—people who make the place uncomfortable are not held accountable and I don&#39;t know how they would be held accountable, right? But like, yeah.
+
+**Michelle Chen:**         That&#39;s true. Doing these interviews just makes me, like, sad, because I&#39;m leaving. And my absolute last question: do you think that—do you know anyone that you think would be good for me to talk to?
+
+**SD:**         Wait, can I mention one other thing? So when I brought up me and Archina(?) and Allawah(?)
+
+**Michelle Chen:**         Yeah, I know her.
+
+**SD:**         And Ozi.
+
+**Michelle Chen:**         Yeah, I know Ozi.
+
+**SD:**         So Ozi was kinda, like, sketch about this. But we brought up to Forbes and Astrachan that we wanted to start with mentorship program, like, within the CompSci department, whatever. And, like, it kind of fell through because all of us had clauses and, like, the three—Ozi was kinda doing it for his resume or something, which also was not cool. I don&#39;t know. It just fell through, which is my fault a little bit. But also, why didn&#39;t they pursue it? Because they had the resources, they have the money, they literally said that to us. Why didn&#39;t they reach back out to us when we didn&#39;t say anything, you know? This is something they could&#39;ve implemented, or at least try to get people on board for it. So yeah, that&#39;s kinda... I don&#39;t know. That was kinda sad.
+
+**Michelle Chen:**         That they didn&#39;t...
+
+**SD:**         Yeah. Anyone you want to talk to or I wanna talk to or I think you should talk to?
+
+**Michelle Chen:**         Yeah, people who would be good to interview.
+
+**SD:**         I think you should interview girls and boys.
+
+**Michelle Chen:**         I am talking to Ozi, Phillip Moss—I don&#39;t know if you know him.
+
+**SD:**         I do. Wait, isn&#39;t he really, really smart?
+
+**Michelle Chen:**         Yeah.
+
+**SD:**         He&#39;s your grade, right?
+
+**Michelle Chen:**         He&#39;s awesome. He started this Black CS office hours and they&#39;re, like, only black people can go.
+
+**SD:**         See? Like, that&#39;s cool.
+
+**Michelle Chen:**         That&#39;s cool. Yeah. Exactly. I&#39;m just thinking because I really want as wide of a dataset as possible because, right now, I&#39;m only talking to people that I know and it&#39;s like... I feel like it could be helpful.
+
+**SD:**         See, this is what I&#39;m saying. Like, I can&#39;t think of CS people, which is really sad.
+
+**Michelle Chen:**         Like, any of your girlfriends. Anyone you know who just feels not confident in CS.
+
+**SD:**         See, I think of Archina(?). She has really good insight on these things.
+
+**Michelle Chen:**         I&#39;m going to talk to her.
+
+**SD:**         Yeah, definitely talk to Archina(?). I&#39;ll try to message you if I think of someone because I feel like I have to look through a list.
+
+**Michelle Chen:**         Yes, please, please do.
+
+**SD:**         I also think it&#39;d be really interesting if.. so Katherine Guo—she&#39;s dating David—she&#39;s really good at CompSci, like, she&#39;s really good, like, she has a 3.96 or something.
+
+**Michelle Chen:**         Wow.
+
+**SD:**         And she&#39;s just really fucking smart. But, like, I think it&#39;d be interesting to hear her perspective, right?
+
+**Michelle Chen:**         Do you think she feels confident?
+
+**SD:**         See, that&#39;s what I don&#39;t know because she&#39;s mentioned it before with recruiting.
+
+**Michelle Chen:**         Really.
+
+**SD:**         But she literally got Facebook, Google, Amazon, like... what was the other one? Microsoft. And like—
+
+**Michelle Chen:**         Apple?
+
+**SD:**         No—the KPCB.
+
+**Michelle Chen:**         Oh, damn. She did?
+
+**SD:**         Yeah.
+
+**Michelle Chen:**         Damn.
+
+**SD:**         But, like, I don&#39;t know. She&#39;s really... technically privileged, I guess. Her parents are—like, she&#39;s from the Bay, her parents are both software engineers, her brother worked at Palantir—
+
+**Michelle Chen:**         Where&#39;s David going?
+
+**SD:**         David&#39;s going to Airbnb. So Kathy&#39;s, like, you know, she&#39;s kinda like a tech child. But it&#39;d be interesting to—I don&#39;t know if she&#39;d provide, I don&#39;t know what&#39;d she say, but it might be interesting to hear from her perspective. She&#39;s also a 330 TA right now.
+
+**Michelle Chen:**         So that means she must have killed that class.
+
+**SD:**         Oh yeah, she did.
+
+**Michelle Chen:**         Also, you can go if you need to. I might sit here.
+
+**SD:**         I&#39;m gonna go. I have HackDuke at 7.
+
+**Michelle Chen:**         Thank you. Truly.
 
 </p>
 </details>
