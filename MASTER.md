@@ -973,10 +973,472 @@ Speaker 4:        What about group projects? Have you taken group project based 
 </details>
 
 
-<details><summary>Interviewee - AW </summary>
+<details><summary>Interviewee - CT </summary>
 <p>
-  
+ 
+**CT:**         We started talking about my experience in Comp Sci, like, why I&#39;m like not, like, what I&#39;m doing after graduation and why I&#39;m not doing, like, software stuff and then he was kind of like &quot;You know what?&quot; Like, &quot;If you want to&quot; like &quot;as your side project or part of this&quot; like &quot;you can just go interview people and hear about their experiences and come back to me of things that like the Comp Sci department can do better&quot;, &#39;cause I do think there are things that they could do better. Um also, this recording is like for my notes, but yeah, I&#39;m going to like type up a report and so it would be like &quot;Hey&quot;, like, &quot;these are things that people think&quot;, like, &quot;these, these are the people&#39;s experiences&quot;, like, they have ... And it&#39;s been nice interviewing people &#39;cause everyone has very different experiences than mine and a lot of people have a problem with 201, which is like not what I was expecting. But, um, yeah.
+
+**Michelle Chen:**         Okay.
+
+**CT:**         Does that make sense?
+
+**CT:**         Mm-hmm (affirmative)
+
+**Michelle Chen:**         Okay, so, first question is 308, 330, and 310, which have you taken and in what order?
+
+**CT:**         Um, I took 308 here, I took 310 abroad, so that doesn&#39;t really count, I guess, and then I took 330 here. So, in that order, 308 and 330.
+
+**Michelle Chen:**         Okay. And then you took 308 your sophomore spring, right?
+
+**CT:**         Yes.
+
+**Michelle Chen:**         And then 330 your senior fall. Okay.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         &#39;Cause ... I know &#39;cause I was in both of those.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         And did you have any C.S. education prior to attending Duke?
+
+**CT:**         Yes. I took an Intro to C.S. class in high school, which was basically just like HTML CSS and introduction to like what computer science is I guess, but that didn&#39;t have coding. It did a little bit of like PHP stuff too.
+
+**Michelle Chen:**         Okay.
+
+**CT:**         And then I also took ... We didn&#39;t have AP-
+
+**Michelle Chen:**         Mm-hmm (affirmative)
+
+**CT:**         But, we ha, uh, it was similar to AP [crosstalk 00:01:40].
+
+**Michelle Chen:**         Mm-hmm (affirmative)
+
+**CT:**         It was called AT. The only difference was they didn&#39;t have to stick to the AP curriculum, but they did try to-
+
+**Michelle Chen:**         Okay.
+
+**CT:**         So, it was basically AP Comp Sci and it was like we learned Java.
+
+**Michelle Chen:**         Okay. And what were the demographics?
+
+**CT:**         Um, definitely like almost entirely male. My AT Computer Science class only had three females, me, Colette, and another girl.
+
+**Michelle Chen:**         And out of like-
+
+**CT:**         Out of like 20, 25. Yeah.
+
+**Michelle Chen:**         Um, and did your family or ... Well, not really friends, but did your family encourage you to study C.S.
+
+**CT:**         Um, my parents definitely encouraged me to study engineering-
+
+**Michelle Chen:**         Okay.
+
+**CT:**         Or like something in engineering, um, but we didn&#39;t have engineering offerings in high school, which is why I think I leaned to C.S.
+
+**Michelle Chen:**         Okay and like what did they explicitly say? Like, &quot;you need to do this&quot;? Or was it just like &quot;you should think about this&quot;? Like-
+
+**CT:**         Um, my parents, probably my mom more was definitely like &quot;you need to get a hard skill, like, out of college or whatever you do in your life&quot; because she ... Both my friends work in finance and then, like, with the, like, recession in 2008, like, my mom got laid off and she was like &quot;you need to be, like, self-employed and, like, have, like, not be so replaceable, like, because you can actually offer something&quot;.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Um, and obviously like tech was like growing and stuff, so my ... I don&#39;t know if it was ever like explicitly, like, &quot;you need to study C.S., but like very much like sending me to like engineering camps and then making me take C.S. in high school, yeah.
+
+**Michelle Chen:**         Okay, okay. Um, and then who do you surround yourself in classes, group work, research, and other aspects of C.S.?
+
+**CT:**         Sorry?
+
+**Michelle Chen:**         So, like, who do you ... Like, for example, like when you do group work or when you want to do homework or study for tests, like, who surrounds you?
+
+**CT:**         Oh, I definitely rely on like my friends in the C.S. I don&#39;t expand out of people I like already knew.
+
+**Michelle Chen:**         So, like, what are the demographics of those people?
+
+**CT:**         Um ...
+
+**Michelle Chen:**         Like, what are they like and how did you find them? And-
+
+**CT:**         Okay, well, I have one female friend in C.S., yeah, which I met in C.S. 101 working in lab together. But, other than that, I wouldn&#39;t say I&#39;ve met a lot of females, so I mostly have relied on males I guess. But, these were friends I made outside of the C.S. major.
+
+**Michelle Chen:**         Okay. And so, like, when you study, are they like mostly white, like asian, like ...?
+
+**CT:**         Um-
+
+**Michelle Chen:**         Either?
+
+**CT:**         I don&#39;t even ... I wouldn&#39;t even say I have that many ... So, let ... I have two in mine, like, one who&#39;s Michael, so white Hispanic I guess-
+
+**Michelle Chen:**         Uh-huh.
+
+**CT:**         And then the other one is Asian white, yeah.
+
+**Michelle Chen:**         Yeah. Okay. Um, and so, I guess, well, why do you think you&#39;ve chosen those individuals? Is it just &#39;cause it&#39;s easy-
+
+**CT:**         I think it&#39;s because ... I do think that because the field is largely populated by males, you are very confident in their ability to do computer science. I find it pretty intimidating slash hard to reach out to just ran ... or not random, but like acquaintances in class. I have to feel really comfortable asking questions &#39;cause I don&#39;t want ... I feel probably like I would have been treated as if I was like not smart and I didn&#39;t want to show that or didn&#39;t know enough and I didn&#39;t want to show that.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         So I went to friends because I felt confident and comfortable asking them questions.
+
+**Michelle Chen:**         Yeah. Um, and do you think your experience in the C.S. major has been different than most male students&#39; experiences?
+
+**CT:**         Yeah. I mean I think it was like most apparent probably in 308 in the sense that a lot of the projects were, revolved around, like, existing video games, which like, I didn&#39;t even understand like video games at first. Like, I mean, I just never played them growing up and like a lot of the ... if a lot of the projects were just like extensions of existing video games, like, I definitely think they have, like, a head ... They did, they already had, like, an advantage because they were familiar with that.
+
+**CT:**         I also think that ... I guess, in our, in my, in 342 right now, which is like discussion based, I don&#39;t think any of us necessarily know anything about the topics, like net neutrality, like, none of us are really familiar with internet infrastructure. None of us are really in, familiar with, like, block-chain technology and all that stuff, and yet, the way they talk is as if they, like, already know everything.
+
+**CT:**         And so, I think they-
+
+**Michelle Chen:**         Like, guys?
+
+**CT:**         Yeah, guys, I think they&#39;ve been able to get through computer science being confident in their abilities or being confident in what they know, whereas I don&#39;t feel like confident at all in anything I&#39;ve done necessarily.
+
+**Michelle Chen:**         So, I mean why do you think that is? Like, and do you think it&#39;s specific to C.S. or it&#39;s like exacerbated?
+
+**CT:**         I mean, I think it&#39;s kind of specific to C.S. I don&#39;t know. I wasn&#39;t ... Like, I guess maybe because they ... Like, also, in hack-up-ons, like, a lot of them already, like, have been hacking or know how to hack and I feel like that&#39;s something maybe they grew up kind of doing, like, with their friends or just for fun and that&#39;s not something I ever picked up for fun or knew that I wanted to try or do, like-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Computer science is very much, like, I did it because it, I was highly recommend, it was highly recommended for me to do it, but not because it was something I was like dying to do all my life, and yet, I feel like probably a lot of them are like really excited to enter the field and like really excited about like being able to recreate like the video games or whatever-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         That they grew up playing.
+
+**Michelle Chen:**         So, I guess, like, one question I have is do you feel like before you ask questions, do you, like, you need to like make sure it&#39;s not a stupid question or ... You know what I mean? &#39;Cause-
+
+**CT:**         Yeah, definitely. I would say that I didn&#39;t really attend office hours, like, as a student at Duke. Maybe, maybe for like one or two of the classes I did, but I didn&#39;t otherwise because I kind of felt like it was very intense and then like I didn&#39;t want to sound stupid in front of anyone-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         So I would just refrain from going and refrain from asking questions.
+
+**Michelle Chen:**         Yeah. Yeah.
+
+**CT:**         Um, and I never asked questions in class even though I think most of the lectures are confusing in a lot of C.S. classes.
+
+**Michelle Chen:**         Yeah and I, like, so, like, knowing the, knowing that most guys don&#39;t know ... A lot of them don&#39;t know what they&#39;re doing, why do you think it is that you&#39;re still, that you still feel not as confident as they do? Like, do you see what I&#39;m saying? Like, yeah, you&#39;re right, they probably don&#39;t know-
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         Anything about net neutrality, so why is it that ... Like, you know that, but do you still ... Does that make you want to speak up more, or are you still like &quot;No, I don&#39;t want to&quot;?
+
+**CT:**         I don&#39;t know. It&#39;s also from like the attitude like a lot of like the environment, like in the lectures, it&#39;s like people on their computers like playing games or like surfing the internet and I don&#39;t really know, I guess, like, why they&#39;re doing that. Like, they have ... It almost feels like they don&#39;t have to pay attention, not necessarily because they don&#39;t want to-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         But, it almost feels like they already ... They can figure it out on their own. And so, it kind of feels embarrassing to be like the student engaged and involved in like needing to ask questions-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Because they&#39;re all ... They can do it quickly at home on their own, you know?
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Like, so, I don&#39;t know. I think that contributes to it. Like, it&#39;s not really like ... I feel like it&#39;s almost frowned upon if you don&#39;t know, if you can&#39;t say you can quickly, like, look on Core on Red and figure it out on your own, right? Um, I don&#39;t ...
+
+**CT:**         Um, and then, I don&#39;t know. I mean, why do I still feel ... Like, I feel like possibly, so, like, when I would do my internships and the teams were mostly guys, I wouldn&#39;t say that like it&#39;s not that they were not helpful and like wouldn&#39;t answer my questions, but, or made me feel like I was not, you know, worthy or like of contributing or anything, but it kind of stems from even like ...
+
+**CT:**         So, let&#39;s say at like, at lunch, I don&#39;t contribute to the conversation because they&#39;re talking about sports or talking about guy things that like I don&#39;t really, like can&#39;t participate in. It&#39;s not the next natural step to be quiet at lunch and then suddenly be like loud and contributing or active participate, participant in the meetings, right?
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         So then I think that kind of just habit of like staying quiet kind of transferred into like also the computer science aspect of like my internships, which then also remains I think in my classes.
+
+**Michelle Chen:**         Yeah. Interesting. Um, and then as a follow up, in what ways has your gender impacted your experience as a C.S. major?
+
+**CT:**         Um, it definitely pushed me to give back more in the major because I felt like a compelling need to reach out to younger females in C.S. and, you know, be a very active T.A. when I was a T.A., a very patient and helpful one so that like the few girls who are evidently struggling, like, it&#39;s interesting &#39;cause I, when I was a T.A., I had a peer tutoring group for, that was, happened to just coincidentally be all three guys and then I separately had a peer tutoring group that just happened to coincidentally be all three girls, and the girls were so much more timid and had mental blocks as if like they didn&#39;t know how to do it when I don&#39;t really think that was true. They just like acted super confused and I think were just scared.
+
+**CT:**         Whereas the guys, like, also didn&#39;t know how to do like the APTs or whatever but like pretended &quot;Oh, yeah, it&#39;s like this easy. It&#39;s like you just do this, this, and that, right?&quot; Like, and like not necessarily like having the answers but like, they were much more ... I don&#39;t ... I mean, they were much more confident. So then, like, I feel more compelled to help out the females because I want to make sure that nobody is discouraged from continuing just because it seems like a field where they can&#39;t get help.
+
+**Michelle Chen:**         Yeah. I just like, I really agree that it&#39;s a confidence thing if they don&#39;t know how to ... I, first of all, I don&#39;t really know where it comes from in the sense that, like, I feel like it must start when we&#39;re like very young. You know what I mean?
+
+**CT:**         Mm-hmm (affirmative).
+
+**Michelle Chen:**         And then I, I don&#39;t know how to fix it specifically in C.S. &#39;cause, yeah, guys usually have no idea what they&#39;re talking about.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         And then they always-
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         You&#39;re so right. They&#39;re always just like &quot;Oh dude, yeah, yeah. It&#39;s obviously this, like [inaudible 00:11:56]&quot;. And then it&#39;s like, like, what did you do when they were wrong? Like, or what did they do when you, like, were they ever wrong? And what did you say to them and like how did they react?
+
+**CT:**         Oh yeah, they were definitely wrong and I&#39;d be like &quot;Actually, like, why don&#39;t you try using an example with that and, you know, and then see if it works&quot; and then they&#39;d catch their mistakes and realize like they weren&#39;t, they didn&#39;t actually know how to do it, right?
+
+**CT:**         Um, but to them, it&#39;s not a discouragement that they like mess up the first time or whatever, right? Whereas I feel like for females, they don&#39;t want to put anything on paper or say anything out loud that&#39;s not right. So then, they just, which is kind of hard in C.S. because you, it&#39;s not really a problem if you get something wrong because as long as you&#39;re good at debugging or you like spend time like debugging like you&#39;ll eventually get it right, right?
+
+**CT:**         And the only way you can get it right is if you know you made a mistake and you can fix it.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         But like, if you are hesitant to make that first mistake like most females are, it&#39;s kind of a slow process then to get to the final like solution.
+
+**Michelle Chen:**         Yeah. Um, let&#39;s see, this final follow up, does gender influence how you see teammates?
+
+**CT:**         Um, yeah, I think I&#39;m definitely like much ... I was much more afraid, especially in 308, to be in groups that was all males except for me, and I was more cautious to suggest, make suggestions. Um, I also just automatically assumed I was the one who knew the least in the group if I was in an all male group.
+
+**CT:**         Um, which is not ... Like, I, in retrospect, not necessarily true. Um, and probably, I probably could have challenged myself harder if I unlearned more, if I didn&#39;t automatically accept the smaller or easier parts of the project because I was scared I would mess up the harder ones, right?
+
+**CT:**         So, I definitely think that like in group projects, I automatically was assigned or self-assigned like the easier and simpler parts of the project, which I think probably might, I mean, maybe held me back a little bit in terms of I didn&#39;t take initiative to, um, challenge myself-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Technically.
+
+**Michelle Chen:**         What about like in that Google, like, or like when you&#39;re working? Does that influence how you see, like, does gender impact how you view team, or like, people you work with?
+
+**CT:**         Um-
+
+**Michelle Chen:**         Or are you kind of assuming like everyone&#39;s [inaudible 00:14:30] like-
+
+**CT:**         I mean, I think there&#39;s so much work at Google to like make people aware of like the gender issue, or at least I found in my experience, which is a good thing I mean because they&#39;re not, I&#39;ve not found, I&#39;ve not been in situations where I feel like personally discriminated against or attacked or whatever because I&#39;m a female in my teams, even though they are like generally all male. But, I do find that it&#39;s hard to feel like I can be a leader in a team that&#39;s all males because I automatically, like I said, feel kind of forcibly quieter around them in meetings because I don&#39;t vibe with them in the same way that they vibe with each other.
+
+**Michelle Chen:**         Yeah. Yeah. Um, how do you think your race slash socioeconomic status or other identity factors besides gender have impacted your experience in C.S. or have they?
+
+**CT:**         I wouldn&#39;t say that I&#39;ve thought necessarily anything about it. I haven&#39;t felt, I have experienced anything necessarily because I was like Filipino or anything.
+
+**Michelle Chen:**         Um, and then, switching gears, do you feel as if there&#39;s a community in which you&#39;re welcomed in the Duke C.S. department?
+
+**CT:**         I mean, I wouldn&#39;t say I feel unwelcomed in the Duke C.S. department, but I don&#39;t necessarily feel like I belong to it or like I don&#39;t strongly associate with it. It would probably be my least, like, the lowest affiliation I have at Duke.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         I don&#39;t know because I&#39;ve never, I&#39;ve never clicked with any professors, I&#39;ve never ... And I don&#39;t necessarily feel that many professors have taken the initiative to get to know their students beyond class, so I don&#39;t feel any connections to the professors necessarily, I don&#39;t feel like I have any mentors in the Duke C.S. Department whether staff or upperclassmen.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Because I don&#39;t think there&#39;s that many initiatives to provide that. I also don&#39;t feel particularly connected to my peers largely because they&#39;re Asian males who either don&#39;t show up to class or show up and are like not paying attention or show up and are like kind of obnoxious and like overconfident. So, I don&#39;t necessarily feel connected to the department.
+
+**Michelle Chen:**         And I, like, do you wish you were? Like, would that have been better or would that have been an important part of your experience? Or is it kind of like a wash?
+
+**CT:**         Yeah, I mean, I think it&#39;s a shame that like there&#39;s all these, there&#39;s a whole population of students who are probably going to do amazing things and I don&#39;t really feel like I have a network here that I could rely on in the future or use for my career or use to propel other people&#39;s careers forward. So, it&#39;s just kind of a shame I think.
+
+**Michelle Chen:**         Yeah. Um, and then now to talk about more specific classes, so, like, on a high level or just how, whatever you want to talk about, how is your, what was your experience like in 308, 310, and 330?
+
+**CT:**         308 I thought was the most useful computer science class at Duke in terms of preparing students for industry and it was also the most hands-on class. Everything else is largely theoretical or just, yeah, like learning from the textbook. Um, so I liked 308 in that sense. I liked that it wasn&#39;t test best, which you&#39;re never really tested in computer sciences and industry. So I like that it was all about how you could do projects.
+
+**CT:**         Um, but I did feel very intimidated at first because all of the groups I were in were males because like a lot, a lot of the class is males and that made it ... Since it&#39;s not a very ... You don&#39;t really, 308 wasn&#39;t really about teaching students things, it was about, like, pushing them to teach themselves. Since I had almost like no skills, I mean no one did, but no one had like explicit skills for that class, I felt pretty thrown off by that factor and it was made worse by the fact that like the groups were not diversified, or, like, yeah, like the groups were not diverse.
+
+**CT:**         Um, because I felt like, I felt like a lot of groups I couldn&#39;t, there were a lot of males where they wanted to do things on their own and I didn&#39;t really feel like it was a collaborative effort to like help one another out. It was more of just like ... Since it was so fast paced and intense, like, everyone just wanted to get, take care of the work on their, like, as fast as they could or like get it done that there wasn&#39;t really the opportunity for people in the group to teach other people.
+
+**Michelle Chen:**         Yeah. Yeah.
+
+**CT:**         Which I think that should be the point of like projects, like people should, peers should learn from each other or peers should learn to work with each other, but it was so intense I think that like that kind of faded from it.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         And then, I mean, I didn&#39;t take 310 here, so I honestly, I don&#39;t-
+
+**Michelle Chen:**         But, I mean, what was your experience like?
+
+**CT:**         Um-
+
+**Michelle Chen:**         This is just my curiosity, like, are you glad you did, took it abroad?
+
+**CT:**         Well, I&#39;m glad I took it abroad because I&#39;ve heard pretty negative things about the course here. Um, but at the same time, I don&#39;t really know that I necessarily learned the same things. I don&#39;t know if it&#39;s important because it&#39;s never come up in my job at least.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         But like, I mean, we did, like, yeah we did a little bit of like shell stuff and whatever, but I don&#39;t really know ... I&#39;m not sure that I learned the same things I should&#39;ve learned. Um, and then 330 was probably, was definitely the most difficult computer science course at Duke.
+
+**CT:**         Um, I think it was hard because the tests were nothing ... I mean, the tests were honestly so, like, I guess that tests are I guess supposed to be more challenging than the problem sets, but for someone who did like pretty decent on the problem sets and sure, it was because largely because we could like learn from each other and collaborate, not on the actual problem sets but on like the-
+
+**Michelle Chen:**         Yeah, yeah.
+
+**CT:**         You know, like, it was, like, the problem sets were manageable, like obviously they were hard but they were manageable but then, the tests themselves are like on whole nother planet of like I don&#39;t even know what you&#39;re doing here, even though sure, they weren&#39;t derived from the problem sets.
+
+**CT:**         And then so I don&#39;t, it was like kind of a discouraging class &#39;cause it just kept getting worse after worse after worse. And then the lectures were not particularly helpful I thought. I mean, this is kind of mean, but it&#39;s largely also because it was hard to understand him in class. He just like spoke with a slight accent and then was like pretty monotonous and not projecting, so in a large lecture hall, that&#39;s like kind of hard to follow.
+
+**CT:**         And then, um, I don&#39;t know, they were also just like, they were like slides going through I guess what maybe textbooks would cover but not what would be super useful to like engaging in the problem sets. I don&#39;t know.
+
+**Michelle Chen:**         Yes. That&#39;s, that&#39;s how I feel too. Um, how hard was it for you to ask for help in these classes?
+
+**CT:**         Like, to the staff or like to peers?
+
+**Michelle Chen:**         Just like, uh, actually maybe more like to the staff or like T.A.
+
+**CT:**         Um, unfortunately, I did not take advantage of T.A.s. Um, I didn&#39;t feel like I could really-
+
+**Michelle Chen:**         How did you-
+
+**CT:**         Ronca himself for health.
+
+**Michelle Chen:**         I&#39;m just like, no, I just think it&#39;s amazing that you-
+
+**CT:**         Well, I relied on help from my friends. Maybe that&#39;s why I did so poor on the tests myself, but ...
+
+**Michelle Chen:**         I did poorly and I asked for help from everyone I knew, so, I remember when I made that list of everyone I could ask. Yeah, good, anyway, um. Okay. So, you didn&#39;t really feel like-
+
+**CT:**         No.
+
+**Michelle Chen:**         Okay. Um, and how could your experience in these classes have been better?
+
+**CT:**         Personally, like, I don&#39;t know why they don&#39;t offer like tutors for like ... They offer tutors for like 101 and 201 I guess, but I don&#39;t know why they don&#39;t offer tutors at the higher level because for me, I don&#39;t ... Also, the reason I didn&#39;t go to office house because honestly I wanted clarification on a lot of like the lectures, but students only want answers to the problem sets, so it&#39;s kind of hard to like ... I actually want someone to like reteach me what I didn&#39;t understand from the lectures and I don&#39;t know how to get that accomplished because it&#39;s kind of hard to just read powerpoints yourself.
+
+**CT:**         I mean, it&#39;s not hard, but like they don&#39;t tell everything.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         And you can&#39;t ask questions to the powerpoint. So, I don&#39;t-
+
+**Michelle Chen:**         Well, I did. No, I&#39;m kidding. Yeah.
+
+**CT:**         So, I don&#39;t really know, like, I think some students benefit from personalized attention so that they can ask the questions they actually want to ask, not the questions that answer the problem sets or that every other student has.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         You know? So, I think they should offer some kind of ... I don&#39;t even know if he was ... Was he available for office hours himself? Like-
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         That&#39;s something I didn&#39;t personally look into, but-
+
+**Michelle Chen:**         I think so. But, I think he would just go through the answers.
+
+**CT:**         Right. And I think students, just some students need more personalized attention [crosstalk 00:23:29] wasn&#39;t available.
+
+**Michelle Chen:**         Yeah. Um-
+
+**CT:**         Also, to have recitation sections for an entire lecture hall, that doesn&#39;t make sense. Recitation should be broken down-
+
+**Michelle Chen:**         Did you ever go to those?
+
+**CT:**         I went to his third, but it was super unhelpful because, or not super unhelpful, but it was like kind of unhelpful, or not helpful enough for me to like make the effort to continue going. So, I think-
+
+**Michelle Chen:**         I never went.
+
+**CT:**         But, I think recitation should be broken down into maximum students of like ten.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         So that it can be, you can like stop ... &#39;Cause nobody wants to stop like a hundred person lecture every like two seconds if they didn&#39;t understand, but then how are you supposed to like learn ... How are you supposed to get your questions answered if you can&#39;t stop something every two seconds if you have questions that often?
+
+**Michelle Chen:**         Yeah. That&#39;s fair. Um, what about in 308? Like, is there anything ... Or in any other class, ...
+
+**CT:**         Like, any other kind of-
+
+**Michelle Chen:**         Yeah, &#39;cause like, as I write my-
+
+**CT:**         I mean, I also think the teachers are so secretive about past tests and like past assignments, when it&#39;s like how are you supposed to learn if you can&#39;t practice? I don&#39;t understand that. So, I would&#39;ve much appreciated like a collection of tests and I know it&#39;s harder for professors but like, I&#39;m trying to learn like I&#39;m not trying to fail the exam or be lazy about it. Like, if you let ... I don&#39;t think it&#39;s always like students don&#39;t study, students fail or don&#39;t do well because they don&#39;t study, I think it&#39;s sometimes hard to find material to study.
+
+**CT:**         Like, I&#39;m not just gonna read like paragraphs about computer science or like computer science is about doing. So, I would have appreciated a lot more tests to practice, a lot more assignments to practice and then like that would&#39;ve ...
+
+**CT:**         And also answer keys, like, I know there&#39;s so many like things about not giving answer keys, but I don&#39;t think practicing a problem without knowing the actual answer and being able to compare-
+
+**Michelle Chen:**         It&#39;s helpful, yeah.
+
+**CT:**         Is helpful at all, like ...
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         Um ...
+
+**CT:**         Sorry.
+
+**Michelle Chen:**         That&#39;s okay. What about like, do you have any problems with 201? Like a lot of people [crosstalk 00:25:22]-
+
+**CT:**         I actually did, I did not, so I don&#39;t know what that&#39;s about.
+
+**Michelle Chen:**         Like, a lot of people feel like 201 is like the really big problems and I was like &quot;Really? &#39;Cause I feel like for me, it started at 308.&quot;
+
+**CT:**         What did they say about 201?
+
+**Michelle Chen:**         Just that like it was super disorganized, very not well taught, very discouraging, the office hours were a mess, like, very hard to learn, made them feel really shitty.
+
+**CT:**         I mean personally, I didn&#39;t struggle in 201, so-
+
+**Michelle Chen:**         Yeah, I didn&#39;t really-
+
+**CT:**         I never went to office hours or ... I just thought it was the exact, almost exactly like 101 except like-
+
+**Michelle Chen:**         In Java.
+
+**CT:**         In Java and like maybe a little more challenging with the-
+
+**Michelle Chen:**         Although, I will say like towards the end, I had, didn&#39;t really know what was going on.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         Like, when we were learning about like, uh, what was the last assignment? Huffman?
+
+**CT:**         I don&#39;t even know.
+
+**Michelle Chen:**         The one where we had to build, use a tree. Yeah. I had no idea what I was doing. Um, let&#39;s see. Okay, so, last question and this is just pretty general, but what could the C.S. Department do better?
+
+**CT:**         Um, offer mentorship for like ... I don&#39;t, who ... People who guided me in career were like people I was lucky to meet outside of Duke, like, I don&#39;t know why I had to go through that by myself.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Um, they need to hire more females. Like, I don&#39;t know why almost no professors are female. That doesn&#39;t make sense. Um, they need to hire professors who also have had industry experience if the large ... I don&#39;t know if this is the numbers, but if a large majority of C.S. students go onto industry, why the heck are like most of the professors academic, you know? Or have no experience in industry because then they&#39;re not, they don&#39;t address maybe the matters you need to know for, to do well in industry or be successful in industry.
+
+**CT:**         Um, perhaps also that means helping students find interview prep. Like, I mean, I don&#39;t know why there&#39;s no like-
+
+**Michelle Chen:**         Resources.
+
+**CT:**         Resources for that. Um, and then just being more aware of like diversity, like, the need for diversity, um, like ... I understand that like a class if, a class can be majority male, but like when you&#39;re making random groups, why ... Of course that means that like there&#39;s going to be one female per group or whatever. I don&#39;t understand why it&#39;s not impossible to just like put, make a female group so that like ... I don&#39;t know, to see how that does or if that helps females learn better.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         Um, just like more, yeah, more availability of help resources, whether it&#39;s more tutors, whether it&#39;s more office hours, like, whether it&#39;s training T.A.s better, whether it&#39;s, um, uh, having more practice problems and tests available.
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         That&#39;s definitely like the biggest one I think.
+
+**Michelle Chen:**         Yeah. Interesting.
+
+**CT:**         And I, I don&#39;t know. Personally, I like have kind of, I, like, very casually mentioned this to four of us in class the other day, but I don&#39;t understand why tests are designed so that averages are below 50. Like, I just don&#39;t understand that. It&#39;s, they should, I feel like, do some research into like the psychology behind that, like &#39;cause I feel like there&#39;s something about ... That personally discourages me a lot and I don&#39;t necessarily think that I can continue to do worse because I study less or like don&#39;t study right or whatever. I think largely a mental block forms when I continuously receive below 50s, like ...
+
+**Michelle Chen:**         I don&#39;t know. For me, it was always like &quot;Oh, that means I don&#39;t know how to do everything right, get everything right on the test.&quot;
+
+**CT:**         I guess.
+
+**Michelle Chen:**         But also, yeah, I, I understand that. I ... It&#39;s cause C.S. is supposed to be hard and challenging and whatever.
+
+**CT:**         Yeah.
+
+**Michelle Chen:**         Okay. Um, yeah, it&#39;s 2:27 and I have to go soon. Do you have any, any last words that you want me to pass onto [inaudible 00:29:02]?
+
+**CT:**         Um, I feel like also just like a diversity, more diversity in the electives offered or more electives offered. I just feel like I was never interest, particularly interested in any of them.
+
+**Michelle Chen:**         Any of them. Yeah.
+
+**CT:**         There&#39;s not a lot of electives that are super relevant to what&#39;s going on in tech right now.
+
+**Michelle Chen:**         So like, what kind electives would you want?
+
+**CT:**         Like basic deep learning, I don&#39;t know, so that people can move onto like the really cool things that tech is doing with A.I. right now, right? Or like ... I mean, even some people like don&#39;t even know web development and yeah, sure, that&#39;s something you can teach yourself, but like I don&#39;t ... Not all students have the time to, and yet, that&#39;s super relevant for like just if you want to freelance or whatever, you know?
+
+**Michelle Chen:**         Yeah.
+
+**CT:**         So, just like actually like useful skills, I don&#39;t know.
+
+**Michelle Chen:**         Yeah. That&#39;s fair. Okay. Well ...
 </p>
 </details>
 
+
+<details><summary>Interviewee - CT </summary>
+<p>
+  
+
+</p>
+</details>
+
+<details><summary>Interviewee - CT </summary>
+<p>
+  
+
+</p>
+</details>
+
+<details><summary>Interviewee - CT </summary>
+<p>
+  
+
+</p>
+</details>
 
