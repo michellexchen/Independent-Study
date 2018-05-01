@@ -1423,6 +1423,7 @@ Speaker 4:        What about group projects? Have you taken group project based 
 
 <details><summary>Interviewee - SD </summary>
 <p>
+  
 **SD:**         Okay, so yeah, anyway, now that I&#39;ve explained sort of the premise of my...
 
 **Michelle Chen:**         So is this a personal project?
