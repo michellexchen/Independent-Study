@@ -9,6 +9,15 @@
 </p>
 </details>
 
+<details><summary>  Article referenced in PT interview </summary>
+<p>
+  
+[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy Hardcover](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
+
+</p>
+</details>
+
+
 <details><summary> Article I found on Twitter </summary>
 <p>
   
