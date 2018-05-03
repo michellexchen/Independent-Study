@@ -2055,10 +2055,1313 @@ New Speaker:        What do you mean?I just want to, like—I don&#39;t know—I
 </p>
 </details>
 
-<details><summary>Interviewee - CT </summary>
+<details><summary>Interviewee - CT2 </summary>
+<p>
+
+**Michelle Chen:** Um, but, so-- I did explain the project to you. Um, I guess if-- well, the first question is what year [are] you at?
+
+**CT:** I am a senior.
+
+**Michelle Chen:** Also, wait. I don&#39;t know if I said this, but everything that you say is confidential and, also, this is just because I tried to do an interview where I typed everything that they&#39;ve decided.
+
+**CT:** Yeah.
+
+**Michelle Chen:** And it was like kind of awkward.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like it didn&#39;t feel like a conversation. So, then I was like, &quot;I&#39;m just going to talk.&quot;
+
+**CT:** Yeah.
+
+**Michelle Chen:** But **308** , **330** , **310**. Which of these have you taken? In what order were they taken in?
+
+**CT:** Um, I took **308** in my sophomore spring. **310** abroad and then **330** I took my fall, sorry, senior fall.
+
+**Michelle Chen:** Senior fall. Okay. Um, so did you have any computer science education prior to attending to?
+
+**CT:** I did a little bit. I took an intro computer science class my junior year of high school.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And it was kind of just like HTML, CSS, a little bit of, like, um, data base stuff and SQL.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But that&#39;s it. And then, my senior year of high school I took-- like, my school didn&#39;t have AP classes but it kinda had like AP equivalent so I took the equivalent of like AP CS when I was a senior in high school.
+
+**Michelle Chen:** Okay. And then what did the demographics of those classes look like?
+
+**CT:** I, for sure, I remember them being like-- I mean, maybe I don&#39;t remember too much about the one I took junior year, like it might&#39;ve been a little bit more equal because it&#39;s just like introductory of like-
+
+**Michelle Chen:** Mhm.
+
+**CT:** Kind of web development. But, for sure, I remember distinctly my-- my senior year, it was like all guys, it was me, [Corinne] and one other-- and two other girls in the class of like-
+
+**Michelle Chen:** Of how many?
+
+**CT:** Twenty.
+
+**Michelle Chen:** Twenty?
+
+**CT:** Personally, that, that was it.
+
+**Michelle Chen:** Yeah. And then, do your family and friends encourage you to study computer science?
+
+**CT:** Um, do they encourage me? I mean, when I was in high school I feel like my parents were definitely more like STEM, like just in general.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Kind of thing. And I-- I like kind of did identify as like, &quot;Oh, I&#39;m good at, like, math and science&quot; kind of thing. Um, but at the same time I was kind of like a pretty well-rounded student. So, I was like, I remember when I was graduating from high school, my-- my English teacher was, like, distraught that I was going into STEM fields because he was like, &quot;You could&#39;ve been an English major&quot; and blah, blah, you know, kind of thing. But, I would say my parents, I think, geared me-- like steered me towards STEM more. And um, so then my guidance counselor, at some point in high school, maybe it was junior or sophomore, something like that, was kind of like, &quot;Why don&#39;t you think about, like, engineering?&quot; Or whatever, because I was more like mathy and sciency.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And at that point my brother was a freshman in college, I guess. And he was studying mechanical engineering and, so, my parents too were like, &quot;Yeah, why don&#39;t you start exploring, like, engineering?&quot; Or whatever. So, I did like a summer camp for, like, girls in engineering.
+
+**Michelle Chen:** Before? You?
+
+**CT:** Before. It was like, it was like my soph-- like, my sophomore summer.
+
+**Michelle Chen:** Okay.
+
+**CT:** Of high school. Um, but, as-- so-- Are you asking right now or like-?
+
+**Michelle Chen:** No, no. No. Just, like, keep going, would you?
+
+**CT:** Yeah, but yeah, so I-- I guess that was kind of how I started, like, going into more like tech or, like, whatever.
+
+**Michelle Chen:** Okay.
+
+**CT:** Um, and then, by the time that I, like, was applying to colleges, um, I think I was pretty, like, set. Like I knew I wanted to do CS.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Because I enjoyed, like, the CS classes that I took my junior year. I was in a CS class, like, my senior year. I liked it. And, I knew that I didn&#39;t want to do engineering because, like, I did that engineering camp or, like, whatever, and I was kind of, like, not really into the, like, I don&#39;t know, building like bridges or like, whatever, kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like it just didn&#39;t really interest me that much. So. But I thought, like, computer science was cool and I felt like, not that-- I don&#39;t know if my parents ever explicitly said so, but I did definitely, like, have the sense that, like, you know, my parents are immigrants from, like, a third world country. Like I had to do something that was gonna, like, make-
+
+**Michelle Chen:** Yeah, yeah.
+
+**CT:** Money. Um, and so I was thinking-- I was not, you know, thinking anything about like pre-med and you would never be, like, a doctor kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** I wasn&#39;t really super interested.
+
+**Michelle Chen:** But they never said, like, &quot;We want you to do computer science?&quot;
+
+**CT:** I don&#39;t know, it&#39;s-- um-- I like-- it&#39;s hard for me to remember. I feel like it&#39;s definitely possible that-- not-- not computer science but they were definitely like &quot;You should consider, like, engineering&quot; or something like that. And it was kind of, like, they didn&#39;t have to push me [with,] like, computer science or anything because I was like compliant. Like, I was like &quot;Okay,&quot; like &quot;If I have to do engineering, I&#39;m not going to do, like, whatever.&quot;
+
+**Michelle Chen:** Yeah.
+
+**CT:** [inaudible], mechanical, whatever. So, &quot;Computer science looks cool&quot; or, like, whatever. And I just kind of like, &quot;What was it?&quot; They didn&#39;t have to, like, quote unquote, like, push me. But I-- I-- I definitely like think they steered me in that direction, in that path, for sure.
+
+**Michelle Chen:** Um, so, in your classes, in group work, in research experiences or just general CS learning, who do you surround yourself with?
+
+**CT:** Um, I, honestly don&#39;t have that many, like, CS friends. Well, I don&#39;t know, sometimes I say this and I&#39;m like, &quot;Wait, I actually do know a lot of people in CS.&quot;
+
+**Michelle Chen:** Yeah.
+
+**CT:** I mean, I don&#39;t know. I guess I don&#39;t, like, feel part of, like, the CS community, kind of in the sense that, like, I was, like, super turned off by, like, the [Hack Duke], like, kind of like community.
+
+**Michelle Chen:** Mhm.
+
+**CT:** I&#39;m not involved in, like, [choir] with women or, like, anything. Um, and, like, when I go to my CS classes it&#39;s always been like I&#39;ve been in my CS class with, like, the two or three people that I know, kind of thing.
+
+**Michelle Chen:** Uhu.
+
+**CT:** Like my-- my freshman year. I guess, maybe my freshman year I knew a lot more C-- and I-- I knew a lot more people at least taking CS because, like, my roommate, like, was taking it with me and like we sat together in class and, like, there was some other people in, like, my dorm. I remember into [one] specifically, there were like six of us in my freshman dorm that like, w-- like we&#39;re always. Like we would sit in my room, like I had this huge room and we would sit in my room on Fridays and, like, just quickly submit, like, our quizzes or like whatever, like, um, all together. Um, but I-- I think like since then, like I&#39;ve only, like, I have my sister like in all of my CS classes and that&#39;s kind of like it.
+
+**Michelle Chen:** Who you work with.
+
+Colette TorresYeah.
+
+**Michelle Chen:** So, I guess, why do you think you&#39;ve chosen those individuals to surround yourself with?
+
+**CT:** Um, yeah, I mean, so, like Corinne is my sister, my twin sister.
+
+**Michelle Chen:** Yeah.
+
+**CT:** So it&#39;s, like, easy to work with her. Like, we kinda had like the same base of knowledge, like the same way of, like, attacking problems and stuff like that. So, it&#39;s easy to, like, kind of like bounce ideas off of each other. Um, but I guess, as for the other people in CS, like, I definitely think it&#39;s-- it&#39;s been useful to have, like, friends in CS.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, but it&#39;s, I think, always been more of a thing where it&#39;s like, like maybe we initially became friends because, like, we-- I don&#39;t know if we became friends, like people like, I don&#39;t know, I guess like you, for example, like I know you through like Corinne and CS kind of thing.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, but I&#39;ve-- I&#39;ve always felt like more like our friendship is not because we&#39;re both in CS, it&#39;s because, like, something else.
+
+**Michelle Chen:** We [inaudible] get along, yeah.
+
+**CT:** Like some other factor.
+
+**Michelle Chen:** Yeah, yeah.
+
+**CT:** But so, I guess like I do su-- I would su-- I only surround myself by people in CS who I&#39;m, like, genuinely like friends with, not just like class friends with.
+
+**Michelle Chen:** Yeah, yeah. That makes sense. Um, and then, do you think your experience in the CS major has been different than most male students&#39; experiences?
+
+**CT:** Um, yeah. I&#39;d like to so I would say yeah, because I like-- I think for sure my freshman year, like, was when I felt it, mostly the imposter syndrome thing.
+
+**Michelle Chen:** Uhu.
+
+**CT:** Like, I remember I did HackDuke and I was on a team, there were four of us, right? And I was the only girl, so it was three other guys and I just felt like, &quot;oh my God,&quot;
+
+**Michelle Chen:** Uhu, [inaudible].
+
+**CT:** Like &quot;what, what is going on?&quot; Like &quot;What are they talking about?&quot; Like, I, like, went into it, like, feeling like I was privileged to, like, be on this, to have been asked to like be on this team with them kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Because I felt like I was, like, inadequate, right? Like, I felt like they had much more experience, which I think they did because it&#39;s like, it was like Patrick Grady, Paul [inaudible] Harvey.
+
+**Michelle Chen:** Yeah, yeah. Yeah.
+
+**CT:** Like, you know what I mean? Like they-- they all.
+
+**Michelle Chen:** What a team.
+
+**CT:** Yeah, they all knew compscie, like the four.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And, so, I felt like at such a disadvantage but, at the same time, I felt really, like, empowered, I guess, in the sense that I was-- So, the theme of HackDuke was like Code for Good. Right? And I was the one who was kind of like focusing the vision, like redirecting back to the like-- like we ended up creating an app that, like, we imagined would be used by this specific homeless shelter that one of my friends, like, volunteered at. And, so, I was always kind of like bringing them back to, like, the greater picture. Like I don&#39;t really care about these super like tech-y blah blah blah stuff. Like, let&#39;s say it&#39;s something useful, let&#39;s make something like helpful.
+
+# **Michelle Chen:**
+
+**CT:** That of thing. Um, but that&#39;s at-- um, like I mentioned before, I was super turned off by like the HackDuke community. Like I didn&#39;t enjoy the hacker, like, lifestyle.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, you know, kind of thing. I-- I&#39;m not into, like, the boys drinking like [friends].
+
+**Michelle Chen:** Rebel.
+
+**CT:** Like whatever, like until like  AM, like not into them using all of this jargon that I just don&#39;t know like, you know, and like sounding condescending and like superior-like.
+
+**Michelle Chen:** Yeah, tell me about it.
+
+**CT:** So.
+
+**Michelle Chen:** Yeah.
+
+**CT:** I definitely, like, I feel like I don&#39;t identify with that, like at all.
+
+**Michelle Chen:** Yeah, so I guess, like within your classes or anything-- so, in-- because one of the conversations I had and [you] sort of mentioned this, is like how condescending guys are. Do you feel as though, in general, like most male students that you interact with are just like much more confident than the female students that you work with?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Yeah?
+
+**CT:** Yeah, for sure.
+
+**Michelle Chen:** That&#39;s how I feel too. And I&#39;m thinking like, I guess, why do you?
+
+**CT:** Yeah, yeah. I think it just has to do with-- I mean, to be fair, I think that a lot of the guys in CS that I&#39;ve interacted with.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Are confident in particular because they do have, like, a lot more experience than I do.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Because they started doing it when they&#39;re younger, like blah, blah, blah kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And so, they do have a lot more knowledge and it&#39;s easier for them to talk, like, whatever.
+
+**Michelle Chen:** Mhm.
+
+**CT:** At the same time, like, I think they probably feel more like-- I guess they have an advantage too just like um, you know, with they all [inaudible] at some threshold above me, but, like--
+
+**Michelle Chen:** Mhm.
+
+**CT:** They kind of have an exponential advantage in, like, accumulating more and more of this, like, cloud I guess.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, because, like they start there and like every-- they have a lot of, like, guy friends or like whatever who are also like talking about like tech things, blah blah blah, with them. And so, they like build this, like.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Base together kind of thing. Um, and it&#39;s easy for them to have that confidence. That said, if I&#39;m thinking about like, maybe, like at least one guy that I know who, like, didn&#39;t enter, like, college with any like compscie experience. I wouldn&#39;t say he&#39;s as, like, egotistical.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Kind of like condescending as like some of the others, yes, males that have interacted with. But, I do still think, compared to, like, girls I know who have no basic knowledge, like he is still more confident or at least he presents that way.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like he&#39;s not as willing to, like, show his weaknesses in CS.
+
+**Michelle Chen:** Really? Like, what do you mean? So, he just doesn&#39;t.
+
+**CT:** Like--
+
+**Michelle Chen:** When he doesn&#39;t know something.
+
+**CT:** Yeah. Like I feel like if he doesn&#39;t know something, he&#39;ll, like, sit there and just, like, deal with it himself instead of, like, asking questions or like whatever, because he doesn&#39;t want to show that he doesn&#39;t know anything.
+
+**Michelle Chen:** Interesting. That&#39;s never been my approach, clearly. Um, and so, I guess, sort of going off from that, in what ways has your gender impacted your experience as a CS major?
+
+**CT:** Um, I guess for me, like, it-- it truly did, like, create a lot of imposter syndrome for me when I was first starting off because I felt like, like all of these guys around me, like especially with that HackDuke experience, like they just know so much, they have so much passion for this, like whatever, like they live and breathe code in a way that I really did not.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like I&#39;m someone who&#39;s like, I&#39;m like, you know, I&#39;m really into fashion, I&#39;m really into art. I&#39;m into design, blah-blah-blah food, with-- whatever kind of thing. And they always felt like I had these, quote unquote, like girly traits that, like, I didn&#39;t identify with, like, the community of, like, computer science students that I saw at Duke. Right?
+
+**Michelle Chen:** Yeah.
+
+**CT:** And so I-- I felt like &quot;I don&#39;t fit in here, I don&#39;t belong here.&quot; And I-- I remember freshman year in particular I felt a lot of pressure to be doing, like, side projects.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, in order to get, like--
+
+**Michelle Chen:** Internships and things like that.
+
+**CT:** Yeah, internship experience or even just to, like, fit in more or something like that in computer science. And I was like, &quot;but I literally don&#39;t have an interest in that.&quot; Like I would-- I would rather spend my time, like, volunteering, playing tennis, cooking, whatever, like, you know.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Whatever it was, like, I just didn&#39;t-- like, code wasn&#39;t my life in the way that I felt like it very easily was for all of these, like hacker-type of boys.
+
+**Michelle Chen:** Yeah. And so, when you talk about the community, like, what do you think the community looks like to you?
+
+**CT:** Um, to me, honestly like, if I&#39;m thinking about it in my head I&#39;m thinking of, like, a very stereotypical, like-- like, honestly like Asian boys, like staying up at night, like in [The Link] or like though, what&#39;s the new one across from?
+
+**Michelle Chen:** What, [The Postal] or [The Edge]?
+
+**CT:** The Edge.
+
+**Michelle Chen:** The Edge.
+
+**CT:** They&#39;re like The Link or The Edge. Like, staying late until, like, you know,  AM, like whatever. Just like kinda like hacking away at their computers.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um.
+
+**Michelle Chen:** Interesting.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Interesting. Um, so then, does gender influence how you see teammates?
+
+**CT:** How I see teammates?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like?
+
+**Michelle Chen:** So, like, I guess, when I thought of this question, I was sort of thinking about how, like, I prefer working with other women because I feel like I can ask them questions.
+
+**CT:** Mhm.
+
+**Michelle Chen:** But when I generally-- I do think I have like implicit biases, in which I automatically assume that, like, a guy knows more.
+
+**CT:** Mhm.
+
+**Michelle Chen:** Or that he&#39;s more confident or that he&#39;ll be able to sort of, like get-- &quot;get whatever we want working to work.&quot;
+
+**CT:** Mhm.
+
+**Michelle Chen:** Which is, you know, versus, like, when I think about girls I&#39;m just more like &quot;they&#39;re going to be much more supportive.&quot;
+
+**CT:** Mhm.
+
+**Michelle Chen:** Does that make sense?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like [serious] observations?
+
+**CT:** Yeah. I mean, like, I feel like I would be, like, if I went through a [waiter] or whatever and it was like the random group assignment, I was always nervous that I would, like, end up in a team of like super hack-y, like condescending guys or whatever.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And if there were girls in my team I would feel much more, like, confident.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like I would be-- I don&#39;t think, no. There was never a situation in which I was the only girl, um, like what I went through [wait teams]. And, I would&#39;ve felt, I think, super intimidated if I had been the only girl.
+
+**Michelle Chen:** Yeah. Like I-- have you had any experiences with, like, condescending hack-y guys are.
+
+**CT:** Mhm.
+
+**Michelle Chen:** Or is it more just like you-- this is-- that&#39;s your perception of like what people--?
+
+**CT:** Yeah, I mean, I honestly-- it&#39;s hard for me to remember it because I honestly have, like, felt so removed from, like, the CS community here at Duke. Like, I think the most immersed in that I was, was when I was a freshman.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And the thing is like, like a lot of the guys that I surrounded myself with were like also my friends.
+
+**Michelle Chen:** Mhm.
+
+**CT:** So I do remember like having, like, conversations with them about this, like, you know, like, I mean for sure, like some of my friends, like, inadvertently have been, like, kind of like condescending in the way, like, they would try to, like, explain things or like whatever.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, and like sometimes, every once in a while, I feel like I would like to call them on their bullshit or like whatever. Um, but I feel like because I don&#39;t, like, hang around much, I don&#39;t know if I&#39;ve ever personally, like, experienced it beyond, like, friends who, like, do it kind of--
+
+**Michelle Chen:** Yeah, like what do they say to you? Just like the way they explain things like?
+
+**CT:** Yeah, just kind of like-- I don&#39;t know. Well, one part of it is, maybe, also, like, just a me-thing, like when I feel like they&#39;re using all these, like, big words, I&#39;m like, &quot;I don&#39;t understand.&quot; Like, &quot;why are you--?&quot; like, you know, like why you&#39;re-- you&#39;re like, still like, I don&#39;t know, in your mindset of like aloofness? Like, you know?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like you&#39;re not, like, you&#39;re just trying to sound smart right now or something like that. You&#39;re not actually, like, really helping.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Because, like, you&#39;re not like, so, you know.
+
+**Michelle Chen:** Yeah.
+
+**CT:** When you get out for me kind of thing. Um.
+
+**Michelle Chen:** What do they say?
+
+**CT:** I don&#39;t know. Like, just like talking about all of these tech concepts and stuff that like I--
+
+**Michelle Chen:** No, but like what do they say when you say it to them?
+
+**CT:** Oh, oh. Oh. I mean, like.
+
+**Michelle Chen:** Or how do you call them out?
+
+**CT:** Like, I don&#39;t know, like if I&#39;m thinking about like Patrick or something, like he&#39;d probably be like, &quot;oh, you don&#39;t know what that is?&quot; Or like something that, you know?
+
+**Michelle Chen:** Mhm.
+
+**CT:** And he&#39;s kind of-- like, doesn&#39;t have the best social cues, like, you know, kind of thing, where he&#39;s pretty blunt and like whatever. Um, so I don&#39;t think he means like malice, but it&#39;s very clear that he&#39;s, like, shocked that I wouldn&#39;t know something, like, you know, like kind of thing. Um, and like I know-- I don&#39;t know if you&#39;re planning on talking to Coreen.
+
+**Michelle Chen:** Yeah, yeah.
+
+**CT:** But I feel-- I feel like, for sure, like I witnessed him and her, like they had a huge blowout fight one time because he felt like she wasn&#39;t doing, like, enough legwork, like she would just keep on--
+
+**Michelle Chen:** For what?
+
+**CT:** For compscie projects or something. Like, we were like in [**250**] or something like that.
+
+**Michelle Chen:** Oh, okay.
+
+**CT:** And it would be like, he was like, &quot;you keep on asking me questions but you&#39;re not actually trying,&quot; like something like that, you know, it kind of thing. Um, and they like had a huge, like, fight about it because she felt like he was being super, like, condescending and rude.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, but I don&#39;t know, like I really, I really struggled because I-- I honestly, purposely, kind of like removed myself from, like, being surrounded by CS people.
+
+**Michelle Chen:** Because they make you feel worse about yourself?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Because you don&#39;t--
+
+**CT:** Yeah, because I don&#39;t-- like I hate feeling like-- I hate feeling like an impostor and, like I said, I don&#39;t truly like identify with, like, computer scientists in general.
+
+**Michelle Chen:** Yeah.
+
+**CT:** So I just-- it&#39;s my choice to, like, not continually subject myself to the feeling of being on the outside. Do you know what I mean?
+
+**Michelle Chen:** Yeah, I totally feel, yeah, very much so.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Um, so, how do you think your race or socioeconomic status, or other identity factors, besides gender, have impacted your experience?
+
+**CT:** Uh. Um, this is [just closer]. I mean, I-- I feel like-- this might be super tangential and it&#39;s kind of weird, but honestly, like I feel like since I&#39;ve come to college I&#39;ve kind of struggled with this, like, Asian identity.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like I think I embraced it a little bit more when I was, like, in high school.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But I was never friends with, like, Asians. Like there were-- there were Asians. I [got to] grew up right outside of Manhattan. It was like an affluent community.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like a lot of people, like, striving to like get a good education kind of thing. So, there were Asians, but I just never hung out with them. They were like in all of my classes and I was like friendly with them and I do know that, like, I identified with them to an extent that we would always joke about like college apps or like whatever.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Because we kind of, like, we&#39;re in this like elitist. Like we&#39;re the--
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like where-- where the other students, like-- we know we&#39;re going to do well kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** But then-- but like, outside of like classes or whatever, all my friends were white, like, literally, every single one of them.
+
+**Michelle Chen:** Really?
+
+**CT:** I was in-- I had a friend group of like [tall] people. They were all white.
+
+**Michelle Chen:** And was Coreen in that?
+
+**CT:** Yeah, and Coreen. Um, and so I never, like, really thought about myself as Asian in high school.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And then coming to college, like, I felt like I didn&#39;t want to be [pigeoned] in with, like, the Asians.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, because, like, I guess I would see a lot of like, I don&#39;t know. For whatever reason, my-- my orienta-- like freshman year orientation week, like I was friends with this, um, like Chinese girl and she was friends with like, entirely, like all these Chinese people.
+
+**Michelle Chen:** Uhu.
+
+**CT:** And I was just like, I don&#39;t know. Like I-- I remember feeling, like, kind of like overwhelmed that I was, like, suddenly, like, part of this group.
+
+**Michelle Chen:** Uhu.
+
+**CT:** And I was like &quot;I don&#39;t, like, want to be, like, stereotyped as like Asian&quot; or like whatever.
+
+**Michelle Chen:** Yeah, I totally. Yeah.
+
+**CT:** Um. And so, I kind of like extricated myself.
+
+**Michelle Chen:** Mhm.
+
+**CT:** I mean, to begin with, I don&#39;t think I&#39;ve necessarily gotten along with them anyways. Like it was just kind of, like, out of convenience.
+
+**Michelle Chen:** Convenience, yeah. Definitely.
+
+**CT:** But um, but so-- so, like in CS, like I know, like, I&#39;ve not wanted to be part of that, like Asian, like CS crowd, like kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, like I&#39;ve wanted to be one of the, like, cool, like, CS students.
+
+**Michelle Chen:** Yeah. So, I guess--
+
+**CT:** You know?
+
+**Michelle Chen:** I mean, that&#39;s a really interesting point because I feel-- I&#39;ve felt very similarly to you. But, so do you feel like you&#39;ve isolated yourself then for a couple of reasons? Like, first, you don&#39;t want to feel like an imposter but, second, you don&#39;t want to be lumped in with like the rest of the Asian crowd?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like, those are both contributing factors, you would say?
+
+**CT:** Yeah, I-- I mean, like yeah, I would. I would say so because, like, I mean, one for me, like I said when I think about computer scientists, I think of those, like, Asian nerds.
+
+**Michelle Chen:** Mhm, yeah.
+
+**CT:** Like whatever kind of thing, right? And so, they are the ones who I feel like make me feel-- No, I don&#39;t know that if I interacted with enough, like, frat boy, like-- like white frat boy, like CS, they also really turned me off.
+
+**Michelle Chen:** Mhm, yeah. Yeah.
+
+**CT:** Like, I mean not that I&#39;ve necessarily been in group projects with them, but I see-- I&#39;ve fe--
+
+**Michelle Chen:** You see their presence.
+
+**CT:** [in **308**] especially. In **308** , like, I would see the way.
+
+**Michelle Chen:** Like Ryan [St. Pierre]?
+
+**CT:** Yeah, like-- like I knew about him, like, you know that kind of thing?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Because I would hear things and like--
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, that DIY Joe. Or like, whatever.
+
+**Michelle Chen:** Oh my God, [inaudible] that group.
+
+**CT:** Yeah. Like he would-- I would-- I would be working on, like, a table, like, next to them or whatever, right? And I would just like hear the way they, like, talked to each other and like whatever. And I was just like, &quot;not.&quot;
+
+**Michelle Chen:** And you&#39;d be like &quot;you guys are so dumb.&quot; like they so and so on.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Yeah, I understand that.
+
+**CT:** Yeah, um. So, like, I don&#39;t know, they also definitely turned me off. But, um, I guess because, maybe, like what I&#39;d have more access to was, like, the Asian nerd, like ones or like whatever.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like yeah, they&#39;re the ones who make me feel the most, like, inadequate kind of thing. Right?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Because I feel like I can&#39;t compare to them in terms of, like, skill or expertise, or like whatever. And so, I wouldn&#39;t want to [inaudible] on myself for that reason, but also because, like, I don&#39;t want to be, like, lumped into that.
+
+**Michelle Chen:** Into that?
+
+**CT:** Stereotype because I don&#39;t identify with that. You know?
+
+**Michelle Chen:** That&#39;s really-- so then, do-- you said like in college you&#39;ve wrestled more with that or like what? Like you were like &quot;oh, I, like, been thinking a lot more about my race.&quot; Like, have you reached any--
+
+**CT:** Conclusions?
+
+**Michelle Chen:** Yeah. Because, honestly, like I was very similar.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like I grew up in Kansas and there was just like-- there weren&#39;t that many.
+
+**CT:** Yeah.
+
+**Michelle Chen:** I mean, there were Asians.
+
+**CT:** Yeah.
+
+**Michelle Chen:** And I&#39;d probably, like, go to Chinese school, but like, I-- a lot of my friends were not Chinese.
+
+**CT:** Yeah, yeah.
+
+**Michelle Chen:** And so, and then coming here I&#39;ve felt very similarly, like you want to be, like--
+
+**CT:** Yeah.
+
+**Michelle Chen:** The cool Asian, you don&#39;t want to be like the nerdy Asian.
+
+**CT:** Yeah, yeah.
+
+**Michelle Chen:** And it&#39;s very interesting because it&#39;s also, like-- it&#39;s not like you&#39;re compromising a part of your identity.
+
+**CT:** Yeah.
+
+**Michelle Chen:** But it is like, sometimes, you feel like you&#39;re hiding it. And I, also just like some people used to tell me that like I looked like I was half, or like not full, and [that I] always, like, used to be like &quot;wow, like that&#39;s such a [inaudible].&quot;
+
+**CT:** Yeah, so.
+
+**Michelle Chen:** You know?
+
+**CT:** So, for me, that&#39;s actually that&#39;s an even more accurate, like, point because, so, I&#39;m Filipino, right?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, I feel like when Americans think of Asians, they think of like Chinese, Korean, like whatever kind of thing. But like, I-- obviously there are parts of, like, Filipino culture that are very, like, eastern and kind of like aligned with, like that, like typical, like Asian.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But, I mean, the Philippines was colonized by, like, Spain. Right? So, there is a lot of like my heritage or whatever that is more aligned with like Latino families, or something like that. So actually, I realized like in college, like I kind of like identify more with like the Latin American like culture.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, and like, I have to constantly remind myself though that I like present as Asian, like do you know what I mean? And, like, when people look at-- well, I&#39;ve had the same thing, right? Like people, like, tell me sometimes I look Mexican or like racially ambiguous, or like whatever it is.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, and like my last name is Torres, right? Like, I get invited to, like, minority things like all the time, um, because of my last name and-- and so like, I feel like the conclusion that I&#39;ve come to is I don&#39;t actually really identify with like, quote unquote, like Asian or like kind of like a more mainstream version of Asian.
+
+**Michelle Chen:** Yeah.
+
+**CT:** But I-- But I, honestly, do feel a little bit like guilty thinking that way sometimes.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like I am trying to like escape like my heritage kind of thing.
+
+**Michelle Chen:** Yeah, I understand that. And, I don&#39;t know, sometimes I wonder if it would be different if I were-- if I looked very, like very Asian.
+
+**CT:** Yeah.
+
+**Michelle Chen:** You know what I mean?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like if I, because I-- I think it&#39;s always easier for me to have this sort of mindset because people are like, &quot;oh.&quot; Like they don&#39;t automatically-- or I&#39;d like to think that--
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like if they know me, they don&#39;t automatically group me with.
+
+**CT:** Yeah.
+
+**Michelle Chen:** And even like people that don&#39;t know me, I assume like they don&#39;t. Maybe this is me giving myself too much credit. I assume that they don&#39;t just look at me and they&#39;re like-- not like, they&#39;re not just like, &quot;oh, what a nerdy.&quot;
+
+**CT:** Yeah, yeah.
+
+**Michelle Chen:** Compscie Asian.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Because I don&#39;t even necessarily view myself as presenting that way, but I always feel like I have been very, like, self-aware. Like-- or like very just like nervous of that sort of perception.
+
+**CT:** Yeah, yeah.
+
+**Michelle Chen:** That&#39;s a really interesting point that you bring up actually. It&#39;s been like so weird a struggle because, like, I don&#39;t want to think that I&#39;m like ashamed of being Chinese. It&#39;s more just like I don&#39;t want-- America is weird. Like--
+
+**CT:** Yeah.
+
+**Michelle Chen:** White culture I think is very strange and it&#39;s like easier to find acceptance if, especially, in a place like Duke to not be like-- not even that you&#39;re ostracized, it&#39;s like you just don&#39;t want people to think of you as like a [fad], like, you know what I mean?
+
+**CT:** Yeah, yeah. Yeah.
+
+**Michelle Chen:** So interesting.
+
+**CT:** That&#39;s for sure.
+
+**Michelle Chen:** I actually haven&#39;t had anyone bring up a point like that. Um. People are usually just like, oh, like yeah, &quot;I-- I have money so I can get a tutor.&quot; Um, yes. So, do you feel-- You&#39;ve sort of answered this but, do you feel as if there&#39;s a community in which you&#39;re welcome in the Duke CS Department?
+
+**CT:** Um.
+
+**Michelle Chen:** Not just like CS but in the CS department, maybe.
+
+**CT:** Um, I don&#39;t know. I honestly have never particularly associated myself with, like, any of, like, Duke CS departments or communities, like I don&#39;t particularly feel-- even when I was a [TA] like, you know, like you didn&#39;t particularly feel part of like that community or anything.
+
+**Michelle Chen:** Yeah.
+
+**CT:** I just kind of like went in, did my job, like when out, like kind of thing. Um, like I said I&#39;m not affiliated with, like, [wiring] with women.
+
+**Michelle Chen:** With women.
+
+**CT:** Or anything. Um, even like, you know, like [Anika] has this like Sheroes thing, or like whatever. And like, I&#39;ve known about it for years, like she&#39;s one of my best friends and like I&#39;ve participated in some of the live video chats, because she asked me to do a favor, but I have no inclination to, like.
+
+**Michelle Chen:** Duke, yeah.
+
+**CT:** You know?
+
+**Michelle Chen:** I understand.
+
+**CT:** Um, and yeah. Like I said, HackDuke was never my thing.
+
+**Michelle Chen:** Did you ever, like, want to be a part of these communities or is it just you were like &quot;I don&#39;t see any value?&quot;
+
+**CT:** Um, maybe my freshman year just from, like, the freshmen perspective of like &quot;I should be involved in clubs&quot; or like whatever. When I realized like I had missed like the HackDuke like [exec board application] or whatever, I was like &quot;Dammit, I wish I had done that,&quot; you know, kind of thing?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, but like, I&#39;ve never liked dwelled on it.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like I&#39;ve never thought about it more than that, like one second where I was like, &quot;oh, that could&#39;ve been an opportunity.&quot; Like I&#39;ve, like, had no interest.
+
+**Michelle Chen:** Yeah.
+
+**CT:** In being involved. Like, you know.
+
+**Michelle Chen:** That makes sense. Um, so to talk [through] more about specific classes. Um, what was your experience like in **308** , **310** and **330**? Just like over a high level or just really whatever you want to talk about.
+
+**CT:** Um, so **308**. I, like, I remember going in and everyone&#39;s like, &quot;oh my God, it&#39;s going to be the worse class,&quot; like blah, blah, blah. But I was kind of like-- I was like, &quot;no, it&#39;ll be fine&quot; because I had a lot of friends in it. Um, and so I was dismayed when I first found out that, like, it would be random groups for-- for the first two projects or whatever, because it&#39;s like, &quot;oh my God,&quot; like, &quot;who am I going to be with&quot; like whatever. But I was really lucky. Like, I ended up, like my first group is like you and [Sonia], or whatever. It was like we were all sophomores, or whatever, and we&#39;re like &quot;I don&#39;t know, it was good.&quot; And then, my second group was actually all of girls.
+
+**Michelle Chen:** Oh, whoa.
+
+**CT:** Which was interesting.
+
+**Michelle Chen:** Oh, I think you told me about that.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, and then-- we only have two projects, right? Three, the third was [Slogo]. I don&#39;t know who you had for it. Did you have [Olgo] for [Slogo]. Oh, the first one was individual!
+
+**CT:** Oh, okay.
+
+**Michelle Chen:** Yeah, yeah.
+
+**CT:** So, but there we-- there were only two teams.
+
+**Michelle Chen:** Two. Yeah, yeah.
+
+**CT:** Two and then the [panel]. Yeah. And then my final team, like, I really liked everyone.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And also, all sophomores.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And there were [like]-- there was one juniors, or something like that. But um, I really-- I actually really liked our team, like, um, it turned out really well and I had, like, some friends so it was good. Um, I do, like, remember, like, kind of like hating-- like, that&#39;s kind of a thing when I realized, in that sort of [class], that&#39;s kind of like when I-- I realized like I&#39;m not really into this like hacker, like whatever, like lifestyle.
+
+**Michelle Chen:** Yeah.
+
+**CT:** That&#39;s when I saw it most. I feel like it was in **308**. Um, but because I, like, had friends and like I felt like we were like in it together and it turned out to be fine. And, at the end, of the day I hated [Duvall&#39;s] style. Like, I really, I just really thought he was so condescending and did not make it very conducive to girls because, like, it&#39;s all about games. Like, you know, like-- like little things, like what the hell is a scrolling [buffer] game? Like, I don&#39;t know, like, you know.
+
+**Michelle Chen:** [inaudible] of defense, yeah.
+
+**CT:** Like I would have to spend time reading about games on Wikipedia before I could start the projects because, like, I didn&#39;t come in with this base of knowledge, like, you know what I mean. Um, and it was cool in the sense that it was the only class at Duke where we really, like, created something.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But what I have necessarily wanted to create, like game platforms, no. Like, you know, like I might&#39;ve rather-- I would&#39;ve rather, like, created like a fake version of, like, Instagram or something like that. Right? Which I think is-- like, I&#39;ve seen some courses from other universities. I feel like that&#39;s just kind of the things that they do instead of like creating games. Like, you know?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, and I felt like it was very obvious that he, like, hung out with like that group of Frat boys-- or like, what they would [flinch] him and they were kind of, like, his favorites. Like, you know what I mean?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, um. And so, like, yeah, I didn&#39;t, I didn&#39;t [like] him at all. But I-- I do think, like at the end of the day, I kind of did enjoy that class. Like, creating those projects was like fun and I really enjoy that aspect of, like, having a tangible product at the end.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And something that, like, you could show it. I could show, like, my aunt, who knows nothing about computer science, you know, and she&#39;d be like, &quot;Whoa, that&#39;s cool.&quot; As opposed to like whatever we do in **2** , like the [APTs], you know. Like, that&#39;s-- that&#39;s not as cool, like whatever. Even, even if it&#39;s like for us, like solving puzzles kind of like similar, like you don&#39;t have something at the end of the day.
+
+**Michelle Chen:** A tangible thing.
+
+**CT:** To show. Um, so I thought that was cool and-- and, when I look back on my CS career, I think that is one of the only classes that have actually been able to apply knowledge that I&#39;ve learned in the class to, like, an internship experience.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like having learned those, like, design techniques or whatever, I was able to, like, use that more, like, in my internship. Like, I think I would&#39;ve felt really shitty if I had not taken **308** and I would&#39;ve have just produced like the grossest code, like for-- for my first internship, you know? Um, so I was glad I took it. A few times, like I said, a took [abroad] so, like--
+
+**Michelle Chen:** Do-- like, how was it like?
+
+**CT:** I mean like--
+
+**Michelle Chen:** Did you [inaudible]?
+
+**CT:** It was [pass fall], like it was in Spain. Like, um, did I like it?
+
+**Michelle Chen:** Did you feel like you learned anything? Like, valuable or is it more just like &quot;I&#39;m glad.&quot;
+
+**CT:** I did feel like if I had taken this class at [Duke], I probably, like, would&#39;ve learned a lot of really important information. And I remember, like, in my internship this past summer, like, I was like glad to have just taken **310** because there were a lot of concepts about like, I don&#39;t know, processors and like threading, and like parallelism and like stuff like that that I was like-- I only had like just the bare amount of knowledge about it because I took it abroad. Right? But I was like, &quot;I&#39;m glad I at least, like, had some exposure to it.&quot; Otherwise I would&#39;ve felt really stupid. Um, which I still did but-- but, um. But-- I, I definitely got the sense that it was very-- it was like important and essential kind of like information that any computer scientist should know, but I definitely did not learn enough about it at all. Um, **330** I took last semester. So, as a senior it was kind of like &quot;ugh, I&#39;m just gonna, like, do these assignments every week or whatever, just get it done&quot; kind of thing.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, I was like super terrified. Like, I think if I hadn&#39;t been-- like when I was thinking about it more as like a sophomore, even to some extent a junior, um, I was like terrified of the thought of **330** , right? Like, it&#39;s kind of like made out to be like the worst.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And most impossible class you can take at Duke for CS. So, I was terrified about that. But um, I was happy that I had a lot of friends in the class. So, it felt like more manageable that way. And, at the end of the day, like it wasn&#39;t, I don&#39;t think it was the hardest, like, CS class that I took.
+
+**Michelle Chen:** Really? What-- what class you think was hardest.
+
+**CT:** Um, for me? I don&#39;t know why, maybe it was like I cared a lot more or something, but like, I thought to **230** was so hard.
+
+**Michelle Chen:** What? Who did you take it with?
+
+**CT:** Um, Bruce Donald.
+
+**Michelle Chen:** Okay, that&#39;s probably why.
+
+**CT:** Um, like I-- I enjoyed it, but I think like my mind just doesn&#39;t work as well with like the theoretical stuff.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like I remember like **250** Coreen hated, but I, honestly, enjoyed **250** and like I feel like I did well in it. Like I got the concepts and I kind of had the same sense in **310** , like last-- the one I was taken-- even when it&#39;s taken abroad, like, it&#39;s hard to tell because it was like so, um, wishy washy. But like I&#39;d also had like the same thing. Um, but like for -- I think I was-- partly the reason I was terrified about **330** was because I knew it&#39;d be super theoretical, like **230** was.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And I just, like, I hated to **230** while I was in it. At the end of the day, honestly, like, it turned out fine. Like I did well in the class, which I maybe like wasn&#39;t expecting, but also, like, I did like do the work kind of thing. It was just, I don&#39;t know, for whatever reason at the time, it felt like the most impossible thing and I, like, literally remember like crying before the final because I was like, &quot;I can&#39;t do this for.&quot;
+
+**Michelle Chen:** For?
+
+**CT:** For **230**.
+
+**Michelle Chen:**** 230**. Yeah. Um, so I guess how hard was it for you to ask for help in any of these classes or did you [get] any help?
+
+**CT:** Yeah, um. Yeah, for sure. Like, I-- I feel like I&#39;m someone who&#39;s very quiet to begin with. Like I&#39;m a very timid person. I don&#39;t like--
+
+JasonI booked this room in ten minutes, so. So, if you guys want to [inaudible]
+
+**Michelle Chen:** I&#39;m just doing an interview. I&#39;m just doing an interview, I&#39;ll finish in a second.
+
+JasonWait, are you doing the thing?
+
+**Michelle Chen:** What thing?
+
+JasonYour-- your thing?
+
+**Michelle Chen:** My-- what I&#39;m interviewing you guys for?
+
+JasonYeah.
+
+**Michelle Chen:** Yeah.
+
+JasonYeah, oh okay.
+
+**Michelle Chen:** Do you guys know each other, also?
+
+Jason[inaudible]
+
+**CT:** I know [inaudible].
+
+JasonSo, I&#39;m-- I&#39;m Jason.
+
+**CT:** Hi, I&#39;m Colette.
+
+**Michelle Chen:** Wait, so. Okay, well.
+
+JasonI was also thinking I&#39;m crashing your guys [dinner] tonight.
+
+**Michelle Chen:** Okay, that&#39;s fine. I&#39;m interviewing [Amir] for tonight, that&#39;s why.
+
+JasonAnyway, [inaudible].
+
+**Michelle Chen:** Okay, I&#39;ll be done-- We&#39;ll be done soon.
+
+Jason[Bueno]. Hi Larry.
+
+LarryI&#39;m just gonna drop my stuff up.
+
+**Michelle Chen:** Okay. What do you have this room for?
+
+JasonUm, like the project I&#39;m doing with Matt. [Inaudible]
+
+**Michelle Chen:** Are you gonna be in here too?
+
+LarryNo, I&#39;m just here [inaudible].
+
+**Michelle Chen:** What if I-- Can I just sit in this room? Or do you guys need--?
+
+JasonYeah, sure. I guess.
+
+**Michelle Chen:** This is called inviting yourself places. Okay. We&#39;ll be done soon.
+
+JasonYeah, yeah. Yeah.
+
+**Michelle Chen:** Bye.
+
+JasonSee you, bye bye.
+
+**Michelle Chen:** Okay, sorry.
+
+**CT:** [it&#39;s alright]
+
+**Michelle Chen:** Anyway, back for-- so like, in terms of help, [inaudible].
+
+**CT:** Yes. I&#39;m a very timid person. Like, I don&#39;t like to like, uh, I don&#39;t like going out of my comfort zone, right? To like request like help or like whatever. Um, and I-- I definitely feel like, you know, if I was surrounded by like someone, like, like when I think of, like, my CS friends I&#39;d go to for help, it&#39;s like Patrick or like something like that. Like I-- I-- I do feel a little bit like, &quot;Okay, I need to make sure like I&#39;m not sounding stupid.&quot; Like, you know, kind of thing. Um, and so I-- like-- yeah, maybe I&#39;m a little bit hesitant because I don&#39;t like to like sound dumb and I just have this sense that, like, I don&#39;t know anything. So, like, I&#39;m gonna it&#39;d be so confused if to try to explain it anyways. So, like kind of thing.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, and the-- in general, I think I&#39;m someone who&#39;s very good at, like, teaching myself, like I&#39;m pretty resourceful, like on the internet or like whatever. I like to teach myself. So, um, and that sounds, I&#39;m definitely not the first person who&#39;s like gonna be asking for help.
+
+**Michelle Chen:** Yeah.
+
+**CT:** But at the same time, like, I was always a lot more willing to, like, go to office hours or whatever. Than, like, for example, Coreen was. I mean, I think that&#39;s out of laziness but like-- but like I would go to office hours and I would make sure I got my help that I needed, you know, like I wouldn&#39;t sit there like timid to, like, ask for the TA or something like that.
+
+**Michelle Chen:** Yeah, that makes sense. Um, I guess how could your experiences have been better in these classes?
+
+**CT:** Um.
+
+**Michelle Chen:** And that&#39;s a pretty broad question.
+
+**CT:** Yeah. Um, I think for sure something that I was really disappointed with the CS department for is I feel like they are so archaic. Like, I-- I don&#39;t get the sense that a lot of my-- I-- I&#39;m positive that they&#39;re all very intelligent, very like accomplished people who know a lot about the field, but I get the sense that they&#39;re all like, I don&#39;t know. Like, for sure, very theoretical, like not-- not drawing in a lot of like super applicational knowledge.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, I&#39;m not very like savvy.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, I don&#39;t know. Like-- like I think there are ways to make compscie look like a super cool, like alluring field and I feel like, it&#39;s not that I don&#39;t see efforts, it&#39;s like the efforts that I do come off as very like cliché or like.
+
+**Michelle Chen:** What do you mean? Like?
+
+**CT:** Like, I don&#39;t know. Like I don&#39;t know, Sean Harper, like Susan Rogers, you know, at the end of a CS  lecture will, like, pull up some, I don&#39;t know, who, like, computer scientists and be like &quot;Look at what this woman accomplished&quot; and like blah, blah, blah. And like, &quot;I don&#39;t care.&quot; Like, you know, like it&#39;s all the kind of like old examples are super, super, like, technical examples that don&#39;t feel as accessible.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, you know, like if I&#39;m in CS , I don&#39;t know anything about like, probably like, machine learning, like you know, so like even though I know it&#39;s a buzzword, like, I&#39;m not going to be enthralled by seeing some random CS woman doing, like, machine learning, like, you know, kind of thing.
+
+**Michelle Chen:** So then, what would it be someone-- What would be something that you think they could, like-- Because you&#39;re saying that--
+
+**CT:** Yeah, so. I, like, the one class that I felt like did a really good job of making compscie look like a cool thing is CS **260** , with Alex Hartemink.
+
+**Michelle Chen:** Oh, okay.
+
+**CT:** Which is Intro to Computational Genomics.
+
+**Michelle Chen:** Uhu.
+
+**CT:** Like we would do these al-- we learned about these algorithms and all this stuff and then he&#39;d be like, &quot;Look, this is literally like how it&#39;s used in, like, genome sequencing.&quot; And like, it wasn&#39;t just like he would mention that briefly. Like, we would go into it, like, and-- and he would literally show us, like, step by step like &quot;what we just did here.&quot; &quot;Like this is how they put together the genes,&quot; &quot;This is how they blah blah blah blah.&quot; You know?
+
+**Michelle Chen:** Yeah.
+
+**CT:** It was like, &quot;oh, my God. Like people are actually doing real things with this.&quot; Like, you know, like-- like basically like, I don&#39;t know if, the way-- I&#39;m don&#39;t know, I can&#39;t really-- I can&#39;t really think of an example. But like, I dunno. Yeah, I don&#39;t-- I don&#39;t know, but it was just like, it was-- it was very clear that there was like an, um, like an end-purpose to what we were learning.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And it felt like-- like he would relate it back to also, like, Amazon or like something like-- like Amazon&#39;s, like, recommendations, [inaudible] or like something which I guess to some extent you do that a little bit in , but like, I don&#39;t know. Like-- like-- like first CS  doing like earthquake data or something like, I don&#39;t know, I was not [inaudible], it&#39;s like.
+
+**Michelle Chen:** Yeah.
+
+**CT:** But learning about like genome sequencing and CCS, like I was like, &quot;that is so cool.&quot;
+
+**Michelle Chen:** Yeah, that&#39;s interesting.
+
+**CT:** Yeah. Um, but then, like I said, something like **308** , like not applying it to like games, but applying it to like creating your own Instagram.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Or whatever, I think would be really cool. And like also, um, what was I going to say? Oh, like in like databases, for example, like all the examples are like Pokémon or something. And I&#39;m like, &quot;I&#39;m not someone who relates to that at all.&quot;
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, you know, um, so there&#39;s just like little things like that, like making it a little bit more, like, contemporary, a little bit more like modern, whatever.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, for sure. Like getting like younger, better, like professors, honestly. Um, and, also, like women, like I know that they&#39;re so proud that they like, quote unquote, doubled like-- thro-- the number of like female professors, but it went from like three to six and like only one of them really teaches, like, under-- like Susan is the only woman, for us, who really teaches undergrads. I mean, now I guess there&#39;s one other woman who does.
+
+**Michelle Chen:** Really? I didn&#39;t really [inaudible]
+
+**CT:** But, for like my entire, like college career, I&#39;ve only known Susan Rogers, like, you know?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, and she&#39;s super [inaudible].
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, you know, like as someone, as a woman in CS, I&#39;m not like &quot;wow, I want to be Susan Rogers.&quot;
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, you know? So, just things like that. Um, and-- and yeah, just like making the classes a lot more, like, practical, I think. Um, and like also just like the electives have been so disappointing. Like one, it&#39;s impossible to get into any of them but, two, like they&#39;re just not interesting like, and they have now like special topics, like, you know, like smart phone-- mobile phone development and things like that. But, I don&#39;t know, they&#39;re not-- I don&#39;t know how successful they are because, like, I don&#39;t really know people who take them.
+
+**Michelle Chen:** Yeah.
+
+**CT:** You know what I mean? Um, and it would be really cool if, like, you were in a class with like, you know, like a class as big as like, I don&#39;t know, **308** or something. Right? And you are all in group projects creating, like, a phone app.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, I mean it&#39;s hard for me to judge this without really, like, knowing what it&#39;s about but I just-- I get the sense that like they&#39;re like flimsy, like they&#39;re not very substantial.
+
+**Michelle Chen:** So, I guess like what other kinds of classes would you want to see?
+
+**CT:** Yeah, just like classes that I feel like have like an application to, like, the real world. Like in-- in, like, the industry in particular. So, like, yeah, like iOS or like Android.
+
+JasonWe&#39;re actually meeting outside, so you can just take this room for the next hour.
+
+**Michelle Chen:** Are you sure?
+
+JasonIt&#39;s just really beautiful outside, if you know what I mean.
+
+**Michelle Chen:** Okay. I mean, I feel that but if--
+
+JasonNo, no.
+
+**Michelle Chen:** So, I&#39;m not kicking you out?
+
+JasonYeah.
+
+**Michelle Chen:** Okay, thanks.
+
+**CT:** Thank you.
+
+**Michelle Chen:** Um. Okay, interesting. Um, I could guess for me, I always wished that, like-- yeah, I agree the electives are like-- I&#39;m literally doing independent study.
+
+**CT:** Yeah.
+
+**Michelle Chen:** Because I just didn&#39;t want to take any of the electives.
+
+**CT:** Yeah, yeah.
+
+**Michelle Chen:** I said &quot;these all seem really boring.&quot; Um, what about like-- also, this is sort of going back to what you said a little while ago, but you were like-- also when do you have to go?
+
+**CT:** Excuse me. Sorry. Um, probably by five.
+
+**Michelle Chen:** Okay. Um, but you&#39;re like, &quot;I never felt like I was a part of TA community.&quot; Like, did you ever want to be a part of--? Because I never really felt like I was a part of it either.
+
+**CT:** No. I-- like, to some extent, I do feel like I&#39;m kind of-- I guess, just because like I&#39;m an ambitious person and, in general, like I&#39;m used to the idea of like networking and blah blah blah. Like, honestly, like I&#39;m coming out of here without really knowing in CS, like kind of thing. Like if I, not that this will ever happen, but like, if I wanted to like str--.
+
+**Michelle Chen:** Do a startup.
+
+**CT:** Like create a startup or like whatever, I wouldn&#39;t really know people--
+
+**Michelle Chen:** To ask.
+
+**CT:** To ask or if I even just wanted to, like, be part of one. You know, like, one of my friends was talking about, like, how he and like all of his friends, like, just randomly were asked to be part of this, like, startup or whatever, and I was like, &quot;That&#39;s really cool.&quot;
+
+**Michelle Chen:** At Duke?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Is this the shipping one?
+
+**CT:** Yeah, yeah. Yeah, [&quot;it&#39;s our mission.&quot;] Um, but like, but I was like-- I mean, I don&#39;t think the idea is good, but like, you know, like I was-- I&#39;m like-- I&#39;m-- I&#39;m like I would never be asked to do that because no one in the CS world knows about me. Like, do you know what I mean? Kind of thing. And also, I&#39;m a girl, but like.
+
+**Michelle Chen:** You know, it&#39;s so funny. The last interview I did was with Dorothy. Do you know her?
+
+**CT:** No.
+
+**Michelle Chen:** She is their only female and she&#39;s they&#39;re like, um, like website, iOS, Android-- they-- she does like all the design for them and like, now, they were like, they want her to do everything in front end and they&#39;re giving her like a six percent, seven percent like equity stake and, like, [Armie] has like thirty percent. Everyone else is like twelve point five and I&#39;m just like, &quot;why are you--&quot; like, really?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Like why are you-- why are you letting them do this?
+
+**CT:** Yeah.
+
+**Michelle Chen:** Just like [inaudible]. Also, like, I would never, I&#39;m sorry, I would want to work for Armie in my life.
+
+**CT:** Yeah.
+
+**Michelle Chen:** So, that&#39;s like that&#39;s out of the questions. But yeah, I guess I-- I see what you&#39;re talking about.
+
+**CT:** But, I mean but-- but, truly like I don&#39;t regret like not, like being part of anything.
+
+**Michelle Chen:** Yeah. You do? I mean, do you have any regrets with CS, in general?
+
+**CT:** Um, Yeah. I think I-- I definitely kind of regret, like, falling into this mindset that, like, I&#39;m not a CS person. Like I don&#39;t really belong in this industry. Like I&#39;m just here doing it, like I&#39;m decent at it. I&#39;m not great at it. But I-- I don&#39;t know. Like, I was talking to someone about the fact that like, I-- like I&#39;m not curious about anything related to CS, you know? Like, and-- and-- and part of the problem is that because I tell myself like, you know, like I, when I was a freshman I saw, like, what the stereotype kind of like was for CS, I kind of like saw it affirmed for me. Like in-- in a lot of the people around me. And I was like &quot;Okay, should I [let] myself off from this? I don&#39;t want to be part of that, like don&#39;t feel like I have access to that community really,&quot; like kind of thing. And I kind of just got in this mindset that like, &quot;I&#39;m not in CS. CS is not truly my passion&quot; kind of thing.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, and now, like, I definitely, I&#39;m like anxious going into the industry because like, I never, like, have-- I hung out with like CS people or like, whatever. I don&#39;t know how to talk intelligently about, like, tech CS, like whatever topics, themes, like whatever. Um, because I just kind of shut myself out from that. I don&#39;t know.
+
+**Michelle Chen:** Interesting. Like who did you hang out with, like, over the summer and stuff?
+
+**CT:** Yeah. So, like I hated my TA-- I mean, I-- at the end of the day, like I was-- I was really lucky to, like have the team that I did, but um, and they were all like genuinely nice, kind people.
+
+**Michelle Chen:** Sorry that I--
+
+**CT:** But I really, like, felt like I did not belong in and I hated that feeling because, like, I was on a team of five guys.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, they were all kind of like tech bros, like literally. And it was-- it was nice. They had lunch together every single day and I was a of that, you know, kind of thing. So, they definitely, like, we&#39;re not like the anti-social, like nerds that I fear, um, but like they would talk about beer and Bitcoin, and like disc-- disc golf and like, what&#39;s it called? Rick and Morty, and like, you know, like, and I&#39;m just like-- I don&#39;t-- I don&#39;t identify with any of this.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, and so it was really hard for me to truly feel like I-- felt-- truly feel like I belonged there.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um. And, I feel like-- well, so this summer I did-- I didn&#39;t really have a chance to interact with a lot of interns because I was in a smaller office. But I feel like, in general, like-- like, I mean I was working at a big tech company, right? Like, so a lot of those people are super, like, compelled by like tech and whatever. And I feel like they could all handle themselves in those situations. And, like, if they were together, they would be talking about, like-- if I went to like a party or like whatever, like outside of work, um, it would be all tech interns, right? And they&#39;d be all talking about, like, their jobs that Pinterest, Facebook, blah, blah, blah, Uber, whatever, and I was just like, &quot;oh my God, get me out of here.&quot; Like, &quot;I hate Silicon Valley.&quot; Like, you know what I mean? Like, I don&#39;t want to be talking about tech, like outside of work kind of thing.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Um, so yeah.
+
+**Michelle Chen:** Interesting.
+
+**CT:** I just really, at the end of the day I just really like don&#39;t identify.
+
+**Michelle Chen:** With that.
+
+**CT:** With computer science, so.
+
+**Michelle Chen:** Do you want to?
+
+**CT:** Like I said, I wish I did more like, like--
+
+**Michelle Chen:** Like-- what do you-- what do you think changed your-- like, what happened? Like why?
+
+**CT:** I think it&#39;s like I said, like it was just like a-- like self-reinforcing, like kind of effect.
+
+**Michelle Chen:** [when] you saw all stereotype and you&#39;re like &quot;I don&#39;t want to be that.&quot;
+
+**CT:** Yeah, so then-- I did over compensate it.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And I, like, made sure I was, like, so distanced.
+
+**Michelle Chen:** From that.
+
+**CT:** From that that I now, like, feel like I don&#39;t have access to enter, like kind of thing.
+
+**Michelle Chen:** Yeah, that makes sense. Um, and I guess the last question, pretty big question, but what do you think the CS department can do better? Or like any qualms? Like anything that you feel like you haven&#39;t been able to say? Yeah, because I haven&#39;t asked about it.
+
+**CT:** Um, yeah, I mean I think for me the main thing, like I said, right? It&#39;s, like, honestly just getting better professors, like not just that they&#39;re like--
+
+**Michelle Chen:** Really smart?
+
+**CT:** Archaic and, like, don&#39;t make the field looks super compelling. Um, but like, I honestly can&#39;t really-- I have like, like I said, Hartemink I loved, absolutely loved, um, like Bruce Donald was okay but, otherwise like--
+
+**Michelle Chen:** Like, what&#39;s a good pro-- like, good professor looks like to you?
+
+**CT:** Like, I don&#39;t know, because I haven&#39;t really had them, but like-- well, I mean, so Hartemink, for example. Like, I don&#39;t know, he was just like so clear in all of his lectures, like he made me want to go to his lecture every single day. Like, you know, kind of thing. I would be so interested, like, going to his lectures one and, two, felt like it was worth it for me to go to the lectures because, like, when he didn&#39;t-- like, he lectu-- he didn&#39;t lecture from slides, he, like, did it all on the board kind of thing. Right? So, it&#39;d be missing out if I didn&#39;t go, um, and I-- and he would explain things so clearly that I, like, would get something out of lecture. Like I felt like I was-- you know, like every single time I&#39;d go there we&#39;ll learn a little bit more, a little more. Whereas, every single other one of my CS classes, I&#39;ve-- I&#39;m like, I don&#39;t go, like, you know?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Because it&#39;s a waste of my time.
+
+**Michelle Chen:** They just read off the sides. It&#39;s so boring and I can do this myself. Like I said, I&#39;m really good at teaching myself and, like, if I&#39;m at a point where, like, you&#39;re boring me in class, I&#39;m not learning anything.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Then, like, I&#39;d rather just spend that time teaching myself.
+
+**Michelle Chen:** Yeah.
+
+**CT:** And so I haven&#39;t like, you know. Um, also just like, I don&#39;t think they do a good job at all, of like-- obviously, all those classes are so big. And like, I, honestly, like if I were to get a PhD, I wouldn&#39;t have any recommenders because I don&#39;t know any of my CS professors. And I understand that yes, some of that, like, should&#39;ve been on me. Like, I could have flinched, that I could have whatever. But like, I do think that I feel like there are other departments that do a much better job of like--
+
+**Michelle Chen:** Yeah, I agree.
+
+**CT:** Of getting to know their students than the CS professors do.
+
+**Michelle Chen:** Do you think it&#39;s because the department is so big, though? Like, because there&#39;s so many students? Like, for example, like [inaudible], my class advisor and, like, his meetings, like you sign up on, like, an Excel spreadsheet for like a five-minute slot with it.
+
+**CT:** You know, but it&#39;s something like that. I think that&#39;s like, it&#39;s very CS mindset too, right?
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like &quot;I&#39;m going to automate this process&quot; like, you know, kind of thing, &quot;and make it as efficient as possible.&quot; Like, I think a lot of it does also have to do the fact that the CS professors that we do have are, like, more of the stereotypical, like kind of like awkward, anti-social. Like, you know? Um, and so it&#39;s like I wouldn&#39;t even care to like [flunk] them if I didn&#39;t have any inhibitions, you know, doing that.
+
+**Michelle Chen:** Yeah.
+
+**CT:** When I&#39;m like one of two hundred students. Like, you know. Um, so the professors, I think, the like kind of like-- how they, like-- they&#39;re pushed to, like, classes, like making them more compelling, like, and relevant and like interdisciplinary kind of thing and, like, practical. But then I think also, I mean I would say, the last thing is maybe, I mean, yeah, I guess for, like, women in particular, like I don&#39;t think they&#39;re very strong offer? It&#39;s like I-- I definitely, like, get the sense that they&#39;re trying to, like, do something about it, but I think what-- their efforts are not very effective. Like, this Wiring With Women group exists. Right?
+
+**Michelle Chen:** Mhm.
+
+**CT:** Like, is it well attended? I don&#39;t get the sense that it is, not that I&#39;ve ever been, but maybe because I don&#39;t sense that there really is a community there and like, you know? Um, I&#39;ve heard good things about DTech. I don&#39;t know anything about it.
+
+**Michelle Chen:** Mhm.
+
+**CT:** Right? Like I didn&#39;t-- like we were sophomores when it was [inaudible] and they were all like--
+
+**Michelle Chen:** I don&#39;t even know what that is.
+
+**CT:** Yeah, exactly.
+
+**Michelle Chen:** Is that that D printing thing?
+
+**CT:** No.
+
+**Michelle Chen:** No?
+
+**CT:** Um, no. Um, it&#39;s yeah, whatever; Duke.
+
+**Michelle Chen:** Oh. Is it the women&#39;s thing?
+
+**CT:** Yeah, yeah. Yeah.
+
+**Michelle Chen:** Oh!
+
+**CT:** So there are-- there are effort, but, it&#39;s like, I feel like unless you&#39;re part of it, you don&#39;t know anything about it and you don&#39;t have any other resources like, you know, kind of thing.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um.
+
+**Michelle Chen:** Yeah, I think I know what you&#39;re talking about. The one where they help them find internships and [inaudible]--
+
+**CT:** Yeah, and they&#39;re like all in a house together.
+
+**Michelle Chen:** Oh, they live in the house together?
+
+**CT:** Yeah. You know what, so like I think there are efforts and maybe that is an example of, like, where the direction in which they&#39;re going, which is positive and, like, that&#39;s good. But I&#39;m saying like at least for-- for me in my experience, I didn&#39;t really ha-- have that yet.
+
+**Michelle Chen:** It&#39;s so interesting. So, they all live together?
+
+**CT:** Yeah. Um, I felt like there were no resources.
+
+**CT:** Um.
+
+**Michelle Chen:** Interesting. I never-- any of them--
+
+**CT:** Uh, office hours, though. That&#39;s somewhere they could improve.
+
+**Michelle Chen:** What? In what way?
+
+**CT:** Um. I think office hours are supposed to be a space where students who are nervous to, like, ask questions in class and stuff can go and feel comfortable doing that because it&#39;s a, quote unquote, like smaller, more like casual setting.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But, in my experience, like I&#39;ve said, I&#39;ve only gone to office hours with the full intention of getting help, right? Because I already like don&#39;t like to waste my time.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Like, just going to office hours to go to office hours, you know, kind of thing. So, I&#39;m not-- I-- I&#39;m very like &quot;I go to the [goals], getting my help and I&#39;m going to get my help no matter what&quot; kind of thing. But, um, like when I have gone, I feel like if I didn&#39;t have that-- that attitude, like of like, &quot;I came in here, like, to get homework help and [getting up] my homework help,&quot; like, I would feel so intimidated because, like, it&#39;s a lot of just like-- I mean, and I still do feel intimidated. Like I worked past that, but like, it-- it&#39;s because like, it&#39;s a lot of, um, guys just like commanding, like, the TA&#39;s is attention.
+
+**Michelle Chen:** Mhm.
+
+**CT:** And if you&#39;re a shy girl who doesn&#39;t feel confident or like whatever, you&#39;re not going to be able to compete with that.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Um, and, for sure, I think they have a lot of guys TAs, which I&#39;ve heard they say like, &quot;Yeah, but it&#39;s like the problem is that, like, there&#39;s not enough female who stay in CS to [BTAs in] the upper levels.&quot; Right? Um, and like the ones who do stay are like the ones who are, like, who excel, like incredibly. So, they&#39;re doing a million other things, you know, and won&#39;t be TAs for us. But like--
+
+**Michelle Chen:** Well, you know, it&#39;s funny because I did an interview with this girl and she was like, &quot;I&#39;ve been trying to be a TA for three semesters.&quot;
+
+**CT:** Oh, really?
+
+**Michelle Chen:** And they just haven&#39;t hired her. And I&#39;m like--
+
+**CT:** So, like it&#39;s--
+
+**Michelle Chen:** So, I--
+
+**CT:** [inaudible] a lot of Asian [inaudible] TAs, too.
+
+**Michelle Chen:** Yeah, unlike--
+
+**CT:** Which is problematic.
+
+**Michelle Chen:** [I think]
+
+**CT:** I get that they&#39;re [the] smartest ones in the-- in the-- in the class.
+
+**Michelle Chen:** Like **330** , that sophomore who was a TA, or even he&#39;s a junior.
+
+**CT:** [I didn&#39;t go to any **330**]
+
+**Michelle Chen:** He was so difficult to work with.
+
+**CT:** I did not go to [any] **330**.
+
+**Michelle Chen:** I went all the time. And, they had like a sophomore as one of the TA, and he was like super condescending. He always, every week, he would wear a different tech companies&#39;, like, shirt.
+
+**CT:** Oh, no.
+
+**Michelle Chen:** And then it was just like really hard to ask for help from him because I was-- I mean, he made me feel dumb and I was like &quot;I&#39;m not stupid,&quot; like you know, we talked about this, but like I was just like, &quot;I know I&#39;m not dumb.&quot;
+
+**CT:** Yeah.
+
+**Michelle Chen:** But it&#39;s really hard to not feel that way.
+
+**CT:** Asians are, [a lot] less social.
+
+**Michelle Chen:** Yeah.
+
+**CT:** Look, I&#39;m sorry. But they are.
+
+**Michelle Chen:** They are.
+
+**CT:** Like, they&#39;re more socially awkward and so they just don&#39;t even know how to communicate with you.
+
+**Michelle Chen:** But it&#39;s just like, why? &quot;who hired you?&quot; Like.
+
+**CT:** Yeah, you know what? I would say that, like, the classes that I&#39;ve had that, like, **230** and **260** , I kind of remember they were all guys. I feel like two-- or, like, mostly guys.
+
+**Michelle Chen:** Mhm.
+
+**CT:** But I do feel like there was like a diversity in, like, the type like there was some like athlete TAs and like stuff like that, you know, like whatever. Or like felt like a lot more approachable, like kind of thing.
+
+**Michelle Chen:** Unlike the Asi-- the all-Asian like--
+
+**CT:** Yeah, because when you think of that, like in **250** or like whatever, it&#39;s very much like in **330** , like it&#39;s very much all, like, Asian guys. And, like if you&#39;re just thinking about the stereotype of like what a good like CS, whatever, student is, you&#39;re thinking of that Asian, like whatever.
+
+**Michelle Chen:** Yeah.
+
+**CT:** So they feel like really inaccessible because you&#39;re like, &quot;oh my God, they&#39;re probably like hell intelligent.&quot; And they are. But, like--
+
+**Michelle Chen:** Yeah.
+
+**CT:** You know, like, and then you&#39;re too nervous to like, I don&#39;t know, approach them or something.
+
+**Michelle Chen:** Yeah. Oh, whoa. [Inaudible]. Mhm. Well, that is-- those are all my ques-- is there anything else you?
+
+**CT:** No.
+
+**Michelle Chen:** Thank you.
+
+**CT:** Yeah.
+
+**Michelle Chen:** For doing this. Truly. That&#39;s all I have. I&#39;m like [inaudible].
+
+**CT:** Yeah, I don&#39;t know.
+
+**Michelle Chen:** Um, I will send you-- I&#39;ll pause this now. Whoa! This is the longest interview. I&#39;ve done--
+
+</p>
+</details>
+
+<details><summary>Interviewee - ? </summary>
 <p>
   
 
 </p>
 </details>
+
 
