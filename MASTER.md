@@ -3501,6 +3501,374 @@ JasonYeah.
 </p>
 </details>
 
+<details><summary>Interviewee - AA </summary>
+<p>
+
+**Michelle Chen:**         Okay, so... now that we&#39;re starting this interview approximately 45 minutes after it was supposed to start.
+
+**MR:**         I just wanna listen to the first couple minutes.
+
+**Michelle Chen:**         Okay, so, did I tell you—did I explain what I&#39;m doing? Did I explain what the purpose of this was?
+
+**AA:**         Can you reiterate?
+
+**Michelle Chen:**         So I was supposed to do an independent study for Astrachan, in which I was supposed to build a website. And then I realized that I don&#39;t want to do that and I also don&#39;t know how to do that. So I was like—then we started talking about my experience in CompSci and, honestly, I had a pretty shitty experience in the major, which is why I&#39;m not pursuing software engineering after I graduate. Um, and so, for example—and I think I told you this story, but in 308—did I tell you this story? Like, in my small group it was me and four guys.
+
+**AA:**         Oh, yeah.
+
+**Michelle Chen:**         And one of them would just delete my code and force push over me and just tell me that I was wasting his time, like a waste of time. It was just, like, made me feel really bad, and I just think that there are a lot of things that the CompSci department could change. And I sort of want to talk to other people and get their perspective and hear about their experiences and sort of see, because basically what I&#39;m doing at the end of this, I&#39;m going to type up a long document and then send it to Astrachan to share with—I mean, I don&#39;t know, maybe he&#39;ll share it with people. But sort of saying, like, here are things that you could do better. Um, yeah.
+
+**AA:**         If you also, by the way, if you really want press, you can write a quick thing and publish it in The Chronicle. That would get shared, but you don&#39;t have to do that—I&#39;m just saying.
+
+**Michelle Chen:**         I feel like that&#39;s very controversial.
+
+**AA:**         I&#39;m just saying if you want more eyes on it.
+
+**MR:**         Anyways—ooh, can I make one comment? I&#39;ve actually talked to a lot of people about this particular problem in the STEM major. Um, and I think that the women I&#39;ve spoken to have made it like, &quot;Oh, they don&#39;t really mean it. They just don&#39;t understand. I know how to deal with it.&quot; But I don&#39;t think that&#39;s an excuse. I feel like they need to address these institutional concerns would actually make women and other minority groups feel as though they&#39;re disadvantaged in a very prominent white male—and also in certain circumstances, Asian male—space, right?
+
+**Michelle Chen:**         Yeah. Thank you. I appreciate that. And I agree, I just... I mean, yeah. Honestly, I&#39;m interviewing Yixin later, but you guys can all jump in if you want to. Um, so the first thing is just for my records, what year are you at Duke?
+
+**AA:**         I&#39;m a senior.
+
+**Michelle Chen:**         Okay, and then 308, 310, and 330—which of these have you taken?
+
+**AA:**         All of them.
+
+**Michelle Chen:**         All of them? And then what order did you take them in?
+
+**AA:**         308, then 310, then 330.
+
+**Michelle Chen:**         Okay. And did you have any CompSci education prior to attending Duke?
+
+**AA:**         Um... I had a little—I took like one electrical engineering class in high school and I self-taught myself very, very basic Python. So kind of minuscule but, like...
+
+**Michelle Chen:**         And then, in that class, what were the demographics?
+
+**AA:**         Um, so my high school was majority Mexican and I want to say, 10 or 15% Asian, and the class was around 40% Asian, 30% Mexican, 10% other.
+
+**Michelle Chen:**         And then what about male and female?
+
+**AA:**         Um, I would say 65-70% male. This is high school, right?
+
+**Michelle Chen:**         Yeah, in high school. And do your family and friends encourage you to study CS, or did they? In what ways?
+
+**AA:**         Yeah. Um, I mean, both of my parents majored—so, my dad studied, or he got his PhD in Computer Science. My mom did her undergrad in Computer Science before she switched to Information Systems, but it was basically CS, and they both got kind of software-y or computer analyst-y kind of jobs after. So, I want to say there was a precedence.
+
+**Michelle Chen:**         And did they ever explicitly say that you should study CScs or was it like, you can do whatever?
+
+**AA:**         Um, I think my dad said that but not my mom. I think my dad wanted me to do something &quot;practical. So as long—if it wasn&#39;t CS, he would want me to do engineering or something that made money, basically.
+
+**Michelle Chen:**         Okay. Um, so who do you surround yourself with in classes? In group work?
+
+**AA:**         In CS or in general?
+
+**Michelle Chen:**         In CS.
+
+**AA:**         Uh, you mean like what type of people or..?
+
+**Michelle Chen:**         Type of people, also demographic-wise—what is it?
+
+**AA:**         Um, I think demographic-wise... so in my first year everyone on my floor was male and so the people that I talked to about my CS classes—even though I did most of it alone because I didn&#39;t like the people on my floor because they kept asking me for help—but anyways, um, most of them were South Asian male in my first year. Sophomore year and later, I think most of my friends were... I want to say they were East Asian and it was around 60%—60% of my friends I would hang out with in CS classes were women, I want to say.
+
+**Michelle Chen:**         Really?
+
+**AA:**         Yeah.
+
+**Michelle Chen:**         Then, as a follow up, why do you think you chose those individuals?
+
+**AA:**         I think I was kind of just friends with them, and also I think I didn&#39;t, um... so, I mean, I didn&#39;t hang out with that many people. I have maybe five friends that went through my main CS classes, so it&#39;s not a very big trend. But I think the friends that I did have were not as, like... bro-y, I want to say. I think I gravitate away from hyper masculinity just naturally. Even if I wasn&#39;t aware of it, I think I just gravitated away from it. So I guess that&#39;s a factor. I think I just so happened also to have friends like that.
+
+**Michelle Chen:**         Interesting. Do you think your experience in the CS major has been different than most female students experiences? And if so, how?
+
+**AA:**         Yeah, because I could reverse faces, right? Like, I think I didn&#39;t prefer to hang around brogrammers but if I needed to, I would hang around with them, and I could even embody one to be one myself. Like, in 308, if I was in a group, and it was majority male, I could definitely like act the part, and I don&#39;t think that women can do that as well. Um, yeah. Basically, I think I just had a choice. I think it comes down to that.
+
+**Michelle Chen:**         Yeah. So, I guess, sort of as a follow-up to that, then... so you feel like you can switch very easily between the two. And that&#39;s the primary difference that you felt between your experience and the female experience?
+
+**AA:**         Yeah, I think I was assumed to be in. And then I opted out.
+
+**Michelle Chen:**         So, do you—do you think that they treat people, treated you differently based on the fact that you were a male?
+
+**AA:**         Yeah. You know, I mean, it&#39;s also just, you know, I&#39;ve played games, like, people knew my dad was a CompSci professor—or I was at least associated with computer science. So I think most people went in respecting me as a computer scientist. Um, and then I had to break that illusion by being stupid or something. But I was assumed to be normal, like a classic, smart CS major from the beginning.
+
+**Michelle Chen:**         So, then, as a follow-up to that, in what ways has your gender impacted your experience with the CS major, or has it?
+
+**AA:**         Um... actually I think what&#39;s interesting is, I think, um, lemme think for a second. I think being male in CS—I, um, basically, when I came into college, I came in being a dude, right? Like, I was, um, I was just a regular computer science guy. I think I actually, over time, became a little bit disillusioned with the culture of computer scientist students. Um, but I think that the way it has impacted me is that I started, as part of the culture, I identified as a CS student and I identified with the culture, and I didn&#39;t really like all of the weird social justice-y stuff that people were doing to it, and all that. And then, over time, I started to realize that the culture was, like, kind of weird and kind of cult-y. And, overtime, especially since I just so happen to have at least a few, um, women or female friends with me in the CS major. They&#39;ve taken classes with me, and I realized how different their experience was for me. I think I realize that there&#39;s kind of a discrepancy between what my experience was and what their experience was. And, so, essentially I think what happened is that—
+
+**MR:**         Um, I&#39;m going to interrupt for one second. Say, um, you do know name(?), right?
+
+**Michelle Chen:**         Yeah, yeah, yes.
+
+**MR:**         Have you interviewed him yet?
+
+**Michelle Chen:**         I haven&#39;t. I should reach out to him.
+
+**MR:**         I really think you should, not because of necessarily his own individual experience, but because he&#39;s the head TA for CompSci 101. He has a very unique lens on the people who start to join CompSci and how do they drop out, and how they feel like they&#39;re not made as comfortable in certain social groups. I&#39;m not gonna reduce your experience; name(?) has been it for two years and he&#39;s very involved in it. Like he knows, like he speaks to a lot of the people. He&#39;s personally told me that it&#39;s almost a 50-50 male-female ratio at the beginning, but he notices how women become particularly discouraged by various experiences and then we try to very much prevent that, and how, men, even though they&#39;re not doing as well, feel like they can just keep on going and going. So that&#39;s why there&#39;s such a difficult, like, a steep drop-off rate. So, I think he might have an interesting perspective.
+
+**Michelle Chen:**         Interesting. I will reach out. And I will see you soon.
+
+**AA:**         Have fun with whatever you&#39;re doing.
+
+**MR:**         I&#39;m studying.
+
+**AA:**         I tip my hat to you, sir. This is bro culture. Basically, what I&#39;m saying is—essentially, I think the reason being male has impacted my experiences is because I came in with a default understanding of what CS culture was like and I had to be presented explicit information to convey the opposite. So it&#39;s kind of like a lack of experience.
+
+**Michelle Chen:**         Yeah. I guess, like, why do you think that this happened to you and not other people? Do you see what I&#39;m saying? I don&#39;t feel like it&#39;s so hard to find.
+
+**AA:**         Yeah. Honestly, I don&#39;t think it was that hard. I think part of it is luck. I think I just happen to have good friends that educated me on things, because I definitely didn&#39;t start out that way. I think another part of it was... I think, honestly, I don&#39;t—even though I&#39;m a guy, I don&#39;t think I fit as well socially with a lot of other male CS students because I think I had a broader lens in which I viewed the world. So just, in general, I think in terms of my philosophies, my experiences, and stuff like that, I think I just noticed that a lot of guys in the CS major kind of have an absence of a personality and it just was not very fun to interact with them. Or their personality wasn&#39;t getting into Google or something. And I kind of just didn&#39;t like that. Another part of it I think which is interesting is that, since my dad was a CS professor, I kind of got to know, from the beginning, a lot of people that just tried to become friends with me for that reason, and I got really, really turned off by that. And so I kind of gravitated to work with friends that weren&#39;t as obsessed with the whole CS image and with being successful in the CS sphere, or just being powerful, you know? I think I just tended to gravitate away from the people that were propagating that culture. Even though I think I did propagate it in minute ways, I think I shied away from that. So I guess the answer is that I think I just didn&#39;t—I think a lot of people vibe with the culture 100%, and I don&#39;t think I did. And I think that partially led me away from that. And then I started understanding the problems of the culture.
+
+**Michelle Chen:**         So, then, when you were like, &quot;Oh, I didn&#39;t understand the social justice-y stuff that they were doing&quot;—what changed? Was it really just, also, you were like, &quot;Oh, I don&#39;t vibe with this culture.&quot; Or was it more like, &quot;Oh, I think that there are actually benefits to not just being super brogrammer-like, &#39;I only wanna...&#39;&quot; Do you see what I mean?
+
+**AA:**         Yeah, I know what you mean. I&#39;ll be honest—honestly, it&#39;s kind of selfish. Or not selfish, but it was kind of self-centered. I didn&#39;t do it because I&#39;ve found a new meaning, justice, or equality or something. I think I started doing it just because I started not liking CS students. And, at the same time, I was taking some humanities classes, so a lot of stuff was going on, but I was taking classes that weren&#39;t CS and I was enjoying them a lot more. I was enjoying the conversations I was having with people a lot more. And, also, in my sophomore year I didn&#39;t join an SLG or any kind of Greek life institution—or, I didn&#39;t even have a really good social group, so I just felt overall very lonely, I want to say. And, so, I think during my sophomore year was the time in which it was a combination—I guess it was a combination of factors. One of which was I was just socially isolated and that led me to question a lot of social cultures at Duke, including the CS culture; another one of which was I think the few friends I had that showed genuine interest in being my friend happened to not be the brogrammer type, which I think is pretty fair because I think a lot of brogrammer types don&#39;t really invest that much in their friendships. They kind of just play video games with them. And I think the third thing was just direct conflict or feelings of uncomfortableness within CS culture, so that has to do with people trying too hard to network with me or working with someone in my group and having them be very—I&#39;m a very sensitive person and so people might be really, really rough or be like, &quot;Why didn&#39;t you finish this? It&#39;s so freaking easy,&quot; you know? It&#39;s just that kind of stuff making me feel really anxious. So I think it was a combination of those three things in my sophomore year.
+
+**Michelle Chen:**         Interesting. I guess, so, sort of a follow-up on that: Does gender influence how you see teammates?
+
+**AA:**         of the doubt, basically. Whereas, I assume kind of that someone who isn&#39;t—so if I see basicallUm, yeah. I don&#39;t—this might be controversial but, to be honest, I kind of... I assume, unless someone is very, very, like, if I can tell that they&#39;re very... how should I phrase this? When I meet a guy that&#39;s majoring in CS, I kind of—and this might be a bad thing to be honest—I kind of, like, I don&#39;t give them the benefit of the doubt. Whereas I assume, kind of, that someone who isn&#39;t—so if I see, basically, a white guy or an Asian guy that&#39;s majoring in CS, I&#39;m just like, okay, whatever, I&#39;ll talk to them and stuff. But I don&#39;t really have a—I don&#39;t have any impression of them. Whereas if I meet someone who&#39;s a minority or a woman in CS, I kind of assume that they have an—again this might be bad, but I assume that they have a little bit more experience or knowledge about being able to, like, about the problems with CS culture. And, because of that, I feel a little bit comfortable sharing things with them or being more like myself, because I think there&#39;s a less risk of me—if I was being just myself, if I was acting like a little weird or a little more emotional with someone I would feel more comfortable doing it to someone that wasn&#39;t a guy, to be honest. So I think it does influence how I see people, but, to be honest, it&#39;s kind of the opposite way, I want to say, because I have a bad impression of people. I basically have a bad impression of—if it&#39;s a white guy or an Asian guy that comes up to me and starts talking too much about CS stuff with me or networking or tech companies or, like, bitcoin. I just don&#39;t, like, I don&#39;t care about that stuff and I just assume that they&#39;re not a very interesting person if that&#39;s their identity. And then I just turn it off—I shut off, basically.
+
+**Michelle Chen:**         Interesting. That&#39;s really interesting.
+
+**AA:**         I also think it&#39;s kind of a defense mechanism because I think, in my sophomore year, I think I gave people like that way too much of my energy, and I didn&#39;t realize that they weren&#39;t really interested in being friends with me. Um, and so think it&#39;s just an inherent—like, my mind just associates certain types of personalities with people that I don&#39;t think I would get along with.
+
+**Michelle Chen:**         What do you mean you invested too..?
+
+**AA:**         Like, in sophomore year, I was lonely and so I tried really hard to reach out to people and make friends and that kind of stuff, and a lot of the people that I reached out to were other CS majors I knew from my classes or people in my dorm that were also taking CompSci 201 with me my freshman year. And so I would kind of catch up with them or I would talk to them, and it would just feel like very—like, I would put in a lot of energy into trying to talk to them and trying to create a very meaningful relationship or friendship with them and I just would not feel any reciprocation at all. Um, and so I think, partially, it&#39;s just my brain kind of... now, if I see someone that kind of epitomizes CS culture and they&#39;re an Asian guy or a white guy, then I kind of immediately—I&#39;m a little scared to invest too much energy into that kind of friendship because I&#39;m just scared that, like, is this going to end up being what I did in sophomore year? But I, you know, I also think, personally, I try too hard to distance myself. Like, I dress kind of weird. And so it&#39;s kind of an identifying factor that, you know, he&#39;s not like a real CS brogrammer, or you know. And so I do think I&#39;d like to—
+
+**Michelle Chen:**         Do you like that about yourself?
+
+**AA:**         I think I kind of do it on purpose so that, like, because the thing is, I want people—I don&#39;t—when I—when someone meets me, I don&#39;t want their first impression of me to be like CS dude. But, again, I do think I&#39;m distancing myself a little bit from the privileges I have as a guy in CS. But, at the same time, I do think I try very hard when I meet people not to make, like, not to even talk about CS at all, right? I try to show them that I&#39;m a person that&#39;s not just interested in CS, that I&#39;m not a one-dimensional person. And then I&#39;ll be like, &quot;Oh I&#39;m majoring in CS, I&#39;m doing this and this.&quot;
+
+**Michelle Chen:**         When you say you&#39;re turned off by those brogrammer people, because you&#39;re a little bit scared because how they treated you sophomore year, are those people you wanna be—I mean this is just me asking for myself—are those people you would want to be friends with in the first place? Do you care about their acceptance?
+
+**AA:**         No. I mean, no, but, again, I&#39;m kind of sensitive, which is why—again, I think in sophomore year I didn&#39;t realize, I didn&#39;t know what was going on and so I just felt kind of hurt because I was like, what&#39;s wrong with me that these people are willing to be friends with me? I didn&#39;t realize that was just them being really lazy and having zero emotional intelligence. And now I know, I understand that&#39;s how it works. But, at the same time, I still have an anxiety within me that&#39;s, like, if I meet someone and it doesn&#39;t, like, they don&#39;t seem very into me, that it&#39;s my fault. So I think it&#39;s—I don&#39;t think it&#39;s rational, but, at the same time, if I meet someone that doesn&#39;t seem like they have very much emotional depth, I kind of just stay away from them because I&#39;m scared of them. It sounds corny, but I&#39;m scared of getting hurt.
+
+**Michelle Chen:**         I get that. How do you think your race or socioeconomic status or there any factors besides gender have impacted your CS experience?
+
+**AA:**         Yeah, I mean, I think they&#39;ve—honestly, I don&#39;t think I would&#39;ve been a CS major if I wasn&#39;t an upper middle class, Asian guy that grew up in Silicon Valley. To be honest, even though I think I&#39;m good, I think I enjoy computer science and I like the topics and stuff like that. And I think part of it is that I was exposed to it from my dad a little bit and kind of in my classes. I just gained a lot and I use the computer a lot, so I think I just think like that. But anyways, I think my context led me to be able to be a CS major very easily, because I kind of—to be honest, it kind of comes quickly to me. I mean, it depends on what topic it is, but it is kind of easy and it&#39;s kind of fun for me.
+
+**Michelle Chen:**         Even 330?
+
+**AA:**         Yeah. I enjoy it—okay, to be fair, I didn&#39;t enjoy 310 or 250. Those classes were hard to me. But with 330 and 308 and 230—that stuff was a lot of fun for me.
+
+**Michelle Chen:**         I hate you.
+
+**AA:**         Anyway, though, but I guess what I&#39;m saying is that, so what I realized at Duke is that I don&#39;t vibe with CS culture and I don&#39;t actually find that much meaning in tech industry, and I don&#39;t really like it that much. And so if I didn&#39;t go in with a precedence to already being a CS major, I don&#39;t think I would&#39;ve been very attracted to it. So, to be honest, I think I&#39;m definitely largely a CS major because of my identity.
+
+**Michelle Chen:**         Interesting. Do you feel as if there&#39;s a community in which you&#39;re welcome in the Duke CS department?
+
+**AA:**         I mean, I have friends that are in CS.
+
+**Michelle Chen:**         I&#39;ve never seen you make that face before.
+
+**AA:**         Yeah, I have friends that are in CS that I&#39;m very close friends with, but a community... I don&#39;t think that exists. I don&#39;t think institutionally, or socially, whatever kind of -ly... I don&#39;t think it exists in the CS department.
+
+**Michelle Chen:**         Do you wish that it did? Is that something you think you could benefit from? Because it seems like you&#39;re very turned off by it.
+
+**AA:**         Yeah, actually, I think, now that you mention it, I think it would&#39;ve been amazing if I actually found a community within CS with people that were actually—that I personally would have found more meaning in interacting with. I think what happens is... I think this happens with all social identities—sorry, I&#39;m getting theoretical—all social identities that don&#39;t have power in an institution. I&#39;ll explain what that means. But I think, essentially, what happens is that, if you&#39;re a person that doesn&#39;t vibe with the dominant CS culture, you have to seek out individuals, and it takes a lot of energy to find people like that because you have to talk to people and you have to actually get to know them and you end up being exhausted like I was in sophomore year. But then, eventually, you meet a few people that you&#39;re like, this person is actually cool and they get it, you know, they get what&#39;s kind of weird about CS culture. And they&#39;re interested in doing X, Y, and Z. ,But it takes a long time for you to do that and even after you do that, it&#39;s very hard to abstract it from an individual relationship to a social group, right? And so I think it would&#39;ve been amazing if it was opposite in which there was a social group of people and I was able to meet individuals through that, you know? Just because, otherwise, you just have to expend so much energy—if you&#39;re not accommodated within the dominant CS culture, you have to expend so much energy in getting to know people that it often just turns you off from being a CS major.
+
+**Michelle Chen:**         But, I mean, do you think that—do you think that you would be as passionate about the things that you are? I mean this is—I&#39;m just wondering, do you think you&#39;d be as passionate about the things that you are today, or you know how you were like, &quot;Okay, I started realizing maybe my best friendships won&#39;t be founded within CS&quot;—do you think that you would have still found the same types of people that you did if there were that sort of community? Because I almost worry, like, with a community like this, that it&#39;s easy to be lazy. You know?
+
+**AA:**         Yeah. Yeah, I guess, honestly, this is kind of a deeper conversation but, at Duke—I think this could be abstracted from my time at Duke because I don&#39;t think I&#39;ve ever been associated with a social group or social institution, and so I think that led me to be lonely for two or three years at Duke. But, at the same time, looking back, I wouldn&#39;t have met such amazing people that were so radically different than each other if it wasn&#39;t for me doing it myself. So I&#39;m—in some way, I&#39;m kind of happy that there was no social group like that to accommodate me because it forced me to critically and genuinely ask myself, who am I? What kind of person am I looking to hang out with? How do I think I can grow around a specific kind of person? Like, all of those questions I had to figure it out for myself and I think I&#39;m happy that I figured those out. So, yeah.
+
+**Michelle Chen:**         Pros and cons.
+
+**AA:**         Yeah. Yeah, and to be honest, I think any subculture within CS is going to be kind of weird and cult-y. To be honest, I don&#39;t know—Catalyst seems kind of cult-y to me. Or just weird, you know, maybe Catalyst isn&#39;t the social institution I&#39;m looking for, but, at the same time, you just feel like anything within CS is just going to be kind of weird and network-y and... like, not nerdy in the right way, but just—I don&#39;t know, you talk too much about startups in tech. It&#39;s just kind of disgusting.
+
+**Michelle Chen:**         Yeah. So I did an interview with Patricia and we talked about her dad and how that has influenced her experience here. Like, do you—so do you think that that&#39;s been a central part of your time in CS beyond the first couple of years? Do you see what I&#39;m asking? Because she feels like—she&#39;s like, &quot;A lot of my professors&quot;—actually, she told an interesting story. None of this matters because it&#39;s just for my notes. Did you take 310 with Jeff Chase?
+
+**AA:**         Yes.
+
+**Michelle Chen:**         So, I never got the individualized attention from him, but I guess I never really sought it out. But he personally welcomed her to the course.
+
+**AA:**         Oh my god.
+
+**Michelle Chen:**         And then let her—and then she went to his office hours one day and there were, like, 20 kids waiting and he was like, I&#39;ll just—she literally got there last and then he was like, &quot;I&#39;ll just be—I&#39;ll just be a few minutes with Patricia.&quot; And she cut everyone and then he was like, &quot;Welcome,&quot; and blah, blah, blah. And he, like, fixed her operating system by himself. And so—I mean, I don&#39;t know, but it was just—it&#39;s just interesting, right? Because I think that everyone has very unique experiences and she was just kind of like, &quot;I did nothing to deserve that.&quot; Do you feel—I mean, I know it&#39;s different context, but do you feel similarly or—
+
+**AA:**         With my dad?
+
+**Michelle Chen:**         Yeah.
+
+**AA:**         Um, yeah, not with professors as much, but I think definitely with students. I think, for the professors, it&#39;s just another dude. They&#39;re just like, okay, he&#39;s this other professor. But I think, for other students, they&#39;re like, oh my god, you know? Like, I think it&#39;s a Duke thing, but I also think it&#39;s a CS thing. So I guess... yeah. Again, that&#39;s part of what turned me off from CS. But I think garnered enough reputation of not taking that BS that people have kind of backed off, you know? But I definitely feel that way, especially with students. I&#39;ve had people—I mean, the thing is, it&#39;s never over because people don&#39;t ever want to... but you can feel it when someone&#39;s talking to you, or they message you after a year about something and you&#39;re just like...
+
+**Michelle Chen:**         I feel like our conversation was kind of sporadic.
+
+**AA:**         No, but, like... it&#39;s about CS, you know? It&#39;s not like you messaged me and you were like, &quot;Hey, man, what are your startup plans? How are your CS classes? Do you have any job offers?&quot; It&#39;s that kind of stuff, and it&#39;s just like... I know you&#39;re not interested. If you asked me that, it would have been cool but that&#39;s because you asked random crap. You ask me my opinion on random things on the Internet too.
+
+**Michelle Chen:**         Yeah. Yeah. Interesting. Let&#39;s see. So, I want to talk a little bit more about specific classes. Can you just tell me about your experiences in 308, 310, and 330? It could be high-level, it could be whatever comes to mind. Just, generally, your experiences.
+
+**AA:**         Okay, I&#39;ll start it off with 308. Yeah, I&#39;ll just going to order. To be honest, I really enjoyed 308. It was literally I think one of my favorite classes.
+
+**Michelle Chen:**         This interview actually—suddenly, I have no more questions. So you liked 308?
+
+**AA:**         Okay, well, to be fair... yeah, I liked it. I think most of the reason I liked it was because my final group was amazing. Or it wasn&#39;t amazing, but there were two people in my group—one person especially that, like, you know, kind of changed my life, sort of.
+
+**Michelle Chen:**         Really? Who?
+
+**AA:**         Yeah. I mean, I don&#39;t think you know him. His name is Shay. He was a senior when I was a sophomore and he was an English major, CS minor, and he was just taking this for no reason.
+
+**Michelle Chen:**         That sounds like the worst thing—the worst punishment you can give to yourself.
+
+**AA:**         Yeah. But he was an incredible person, and I was going through a lot during senior year and I was asking a lot of questions about the world around me and he really helped me contextualize those things and gave me a lot of good friendship. But, anyways, I guess generally about the class—so I enjoyed the material because I think I liked making systems. I just think it&#39;s kind of fun and elegant to me to design a software system. But Duvall was kind of weird sometimes, but it&#39;s fine.
+
+**Michelle Chen:**         What do you mean?
+
+**AA:**         Like, he would—
+
+**Michelle Chen:**         To you personally?
+
+**AA:**         (relationship talk lol) (?)
+
+**AA:**         Yeah, okay, so anyways. Okay, I&#39;m just going to say quickly what each—or not quickly, but I&#39;ll just do an overview about each class. So yeah, 308, I enjoyed the material, or at least I enjoyed the work because I think it was satisfying for me to design a software system and then see it in front of my eyes. It also made me more optimistic about software engineering, but I realize most software engineering is not what 308 is like, which is kind of sad because I enjoyed 308. But, um, anyways, um, yeah. So I think I got really lucky also with my groups. I think especially in my self-society(?) group and my last focus(?) group were both really good, and I generally just had good teams and people that tried hard and I didn&#39;t have any issues with them. I will note that I think—I mean, obviously, each of my groups was heavily male. I want to say, my first two groups—so the group that was, like, 2-3 people and then the group that was, like, 4-5 or something, I think all of those were all male. There&#39;s a maximum of one woman who was in both of those groups combined. And then my last group was only two women out of ten people. And so it was, like, all guys. I don&#39;t—honestly, to be completely honest, if I wasn&#39;t a guy, I don&#39;t think I would&#39;ve enjoyed it as much just because it would have been very weird not being—like, by being the only non-guy in the room, I want to say. So I got kind of lucky. But, at the same time, the people I was working with were pretty nice and they weren&#39;t weird and annoying and try-hard and stuff. So, I think, overall, I had a good experience. And the last project we did for blue solid(?) was really, really ambitious and it was really hard, but we spent a lot of freaking time on it and it was honestly a lot of fun.
+
+**Michelle Chen:**         I remember.
+
+**AA:**         Yeah. And we were so tired. Our presentation was crappy because we didn&#39;t prepare the presentation at all, but it was just so satisfying to develop the game. And then Duvall gave me a B+ or something. I don&#39;t know why, even though I spent my whole life on that class.
+
+**Michelle Chen:**         He gave you a B+?
+
+**AA:**         Yeah, in 308. I don&#39;t even know why. I think it&#39;s because our presentation wasn&#39;t that great. But he knew how much that time we put into that freaking class.
+
+**Michelle Chen:**         Okay, so you were saying something about Duvall earlier too.
+
+**AA:**         I mean, that&#39;s part of it. Like, Duvall, I think he is a very interesting professor and I, um, and he&#39;s probably one of the professors I&#39;m closest to because I did an independent study with him and I flunched him earlier this semester. And he, generally—what I like about Duvall, at least, is that he&#39;s not a boring person, you know, he&#39;s interested in animation and he&#39;s interested in games so I can talk to him a little bit about, like, cool—I have a little bit more common ground with him, I guess I want to say. I can talk to him about video games and interesting things that have happened and stuff like that and he&#39;ll get it and we&#39;ll talk about it. Whereas other CS professors, I feel like I don&#39;t really understand their research interests so I can&#39;t really talk to them about anything they&#39;re interested in. But, at the same time, I think I do think—um, yeah, Duvall is kind of... I guess I don&#39;t have that many problems with him but he is a very idealistic kind of person, which is why he tends to grades harshly. And he doesn&#39;t have very clear expectations. So when I would talk to him about the class, he would be really happy that I would be enjoying it but, at the same time, I think he expected a little bit more from me and I felt like I wasn&#39;t meeting his expectations, or something.
+
+**Michelle Chen:**         Really? Even though your final project...
+
+**AA:**         Yeah, even though I tried really hard.
+
+**Michelle Chen:**         How was your write-up, though?
+
+**AA:**         I don&#39;t know. I think—so I did the whole write up in, like, a six-hour plane—it was literally the worst experience. I was literally driving back on the last day of finals and I did the whole analysis for that in the flight from North Carolina to California, and I uploaded it right before I landed because it was a deadline. But, anyways, I don&#39;t know how good my analysis was, um, to be fair. And also I think part of it was just that our presentations were pretty crappy and I&#39;ll completely accept that.
+
+**Michelle Chen:**         I don&#39;&#39;t think your presentation was that bad.
+
+**AA:**         He told me I said &quot;sorry,&quot; like, 15 times, which I think I did because I think what happened was, when we were doing the midterm—oh my god, I&#39;m literally the worst person. My sophomore year was so hard. But when I did the midterm—my sophomore year was hard because I kept trying to be genuine and stuff like that and I would always get rejected or something. But what happened was I, um, when we did the midway demo or something for the final project, I was just poking fun. I was being sarcastic, right? I was, like, we&#39;re so much better than everyone else because we were doing RTS(?) and stuff like that. But I was being explicitly sarcastic and I think Duvall thought I was being serious, or at least some other students thought I was being serious. And I felt really bad because I was like, wow, I think people think I am actually, like, an elitist just because I&#39;m doing RTS instead of a platformer(?). And then I felt really bad and then at the end of the—and then the final presentation when I was talking, I was like—I apparently I said sorry a lot of times, but I think part of it was, like, I just felt bad because I didn&#39;t want people to think our project was amazing and that we were the #1 group in the class. So I kind of downplayed everything that we did in our project. And then Duvall was, like, &quot;Oh, you&#39;re saying sorry too many times.&quot; The first time he was like, you know, that was good, but, you know, lay off a little bit on that stuff. And I was, like, okay, fine. And then after the demo he was, like, &quot;You&#39;re being way too passive about this stuff and you&#39;re downplaying your whole project and everything.&quot; And I felt really bad. I was like, I don&#39;t know what to do man. This is the problem; I just overthink. But, anyways, yeah, that&#39;s what happened. And then the reason I also said that was, when I was taking my independent study with Duvall, I think it was, overall, a good experience. But, at the same time, I think our interests were not aligned completely when I was taking the independent study, which is part—I think I didn&#39;t really end up enjoying it as much as I wanted to.  I think just because Duvall is very, very—he cares a lot about, like, the game, you know, and stuff like that.
+
+**Michelle Chen:**         What was your independent study?
+
+**AA:**         It was just a game development independent study. And I was originally ambitious with it because I&#39;m originally ambitious with everything. But I think as the semester went on, our expectations kind of differed and he expected me to have a good, completed game. And I was just disappointed with my game. I didn&#39;t really know what to do with it, so I felt a little bit of discrepancy there.
+
+**Michelle Chen:**         What did he give you in it?
+
+**AA:**         He also gave me a B+ in my independent study, and I finished the game and it was completed and it was honestly pretty good. But, I mean, I wasn&#39;t that happy with it because it wasn&#39;t, it didn&#39;t—the narrative wasn&#39;t properly structured. But I think he cares more about the game itself.
+
+**Michelle Chen:**         I can&#39;t believe he gave you a B+.
+
+**AA:**         He&#39;s just—Duvall is just kind of a nerd, and a lot of the times it&#39;s really good because I really enjoy talking to him about nerdy stuff. But, sometimes, when you work with him, I think he, um, there can be a little tension there.
+
+**Michelle Chen:**         I hope I don&#39;t get a B+ in this independent study.
+
+**AA:**         If you&#39;re taking it with Astrachan, I don&#39;t think you will. Astrachan is so easy—
+
+**Michelle Chen:**         Who said that?
+
+**AA:**         No, I&#39;m saying it because we&#39;re recording and because he listens to it. I&#39;m just being sarcastic about—sorry, okay, whatever, it&#39;s fine. Okay, anyways. For 310—310, I kind of hated. I just didn&#39;t—the subject material was not interesting. It wasn&#39;t elegant. I generally don&#39;t like hardware. It just seems kind of weird and tedious and random to me. And I didn&#39;t really like it and I just—I failed the second assignment, and the reason I failed it is because my group—we had, like, half or a third of the test, or something like that, completed. But then we tried to refactor our code on the last day, and it just didn&#39;t work and we ended up getting less tests, so we had to rely on our incomplete submission from a day or two ago because we just completely messed up all of our code. And that assignment was worth a lot. It was the threads one, it was worth a lot of freaking points. So I ended up getting a B- in that class. And, honestly, I&#39;m just happy I got it over with, but I didn&#39;t really like the class. And Chase was okay. But, you know, he&#39;s kind of a mellow person.
+
+**Michelle Chen:**         A what?
+
+**AA:**         Mellow. Like, he&#39;s very, like, he&#39;s just a regular dude, you know. He&#39;s not, like, inspiring to listen to.
+
+**AA:**         I liked him. But, also, we have very different interests in CompSci.
+
+**AA:**         That&#39;s fair. Yeah. Also I don&#39;t go to office hours. I just think—I guess this is less about him as a professor and more of that I don&#39;t think the class was very inspiring to take in terms of material, but I also have a certain taste in terms of what classes I like. But yeah, so 310 I didn&#39;t really like that much.
+
+**Michelle Chen:**         Like 308.
+
+**AA:**         Yeah, and 310—oh my god, wait, I can&#39;t believe I didn&#39;t say this. Wow, I feel so bad for pushing all of this on Chase. Oh my god. I literally hated 3:10 and it wasn&#39;t even because of the class. I can&#39;t believe I let my feelings guide me like that.
+
+**Michelle Chen:**         Wait, why?
+
+**AA:**         Oh my god—it&#39;s just my group was horrible. And—oh my god—this happens so many times. Do you know Annie Tang? This is really funny, but—this happened in 308 also. And this always happens—whenever we&#39;re in class together, we&#39;re like, &quot;We&#39;re gonna work together in the same group,&quot; and then Annie just ditches me with some random person that she&#39;s also friends with. And so, what happened was I wasn&#39;t in 310 that semester, and then Annie was, like, &quot;Don&#39;t take it next semester. You should take it this semester with me, so that we can be in the same group together.&quot; And I was, like, you know, fine, I&#39;ll add it because I don&#39;t really have any friends I would be willing to work with that are taking it next semester. And so I was like, okay, that&#39;s fine. And then Annie ditched me. She was like, &quot;Oh, I&#39;m sorry. I also asked Victoria and Will to be in my group, so we kind of—and they already said yes.&quot;
+
+**Michelle Chen:**         Did you not confront her about this?
+
+**AA:**         She said sorry. And I was like, it&#39;s okay, I&#39;ll find someone else. I mean, to be fair, it&#39;s a hard—it was a hard situation. I don&#39;t think she was expecting me to actually switch into 310 to join her group. But, anyways, so what happened was I joined a group with—okay, I feel kind of bad for this. So, yeah, don&#39;t tell name(?) this, but I was in name(?)&#39;s group. Name(?) is fine; he&#39;s a good person. Basically, name(?) was in that class also. And I was looking for a group and I asked—I think I asked name(?)  or I asked around—oh, there was a big group chat for 310. I was, like, I need a—
+
+**Michelle Chen:**         There was a big group chat?
+
+**AA:**         There was, a long time ago. Do you remember that?
+
+**Michelle Chen:**         That I wasn&#39;t a part of?
+
+**AA:**         Were you are not a part of it?
+
+**Michelle Chen:**         I don&#39;t think so. That&#39;s so rude.
+
+**AA:**         I&#39;ll check. You were probably a part of it, but just didn&#39;t check. Anyways, I said I didn&#39;t have a group and I needed, and then name(?) and Matthew Do—
+
+**Michelle Chen:**         Are you friends with hm?
+
+**AA:**         Yeah, I was friends with him since freshman year, but they reached out to me because they had like a group of, like, six—they had a bigger group that was taking 310 but they had to split into three&#39;s or something and they didn&#39;t have a factor of three so they needed one more person, basically. And so I joined them because I knew both of them and I was, like, this will be fine. And I knew Matt from freshman year and we were decent friends, but we were—we didn&#39;t hang out that much, but it was just fun; we just messed with each other sometimes. So I thought it was fine and when I—that class gave me so much anxiety because when I was working, it was actually—because, again, I&#39;m way too sensitive of a person for it to be healthy at all. But, basically, when I was taking the class, I just felt entirely and wholly inadequate for the whole time. And it&#39;s because Matt is a very—he&#39;s a smart guy, but he tries pretty hard and he has pretty high expectations in general, and he generally doesn&#39;t communicate very well. And so what happened, especially the first project and the second project—so the first part, I didn&#39;t do that much work on. I don&#39;t know. I think I was really busy, or I was doing recruiting or something and I said, like, sorry I didn&#39;t do that much work in this project. I also just didn&#39;t know how to do it and so I felt like I was already behind. And second one I was, like, okay, I need to step this up. But then what happened was the second one, I was trying hard and I was putting in a lot of time. Of course I was busy too, and I was, like—so, basically, I think I told Matt and name(?), oh, I&#39;m going to work on this starting Monday or Tuesday or something like that. But they worked on it a lot over the weekend and I couldn&#39;t work on it over the weekend and I think Matt got upset because I didn&#39;t work on it at all. He didn&#39;t even say that explicitly. He was just, like, he would just say backhanded comments about me and how useless of a group member I was or something like that, or that I wasn&#39;t doing anything. Or when I would do something and it would be kind of wrong. He would chastise me in the group chat; he&#39;d be, like, &quot;Don&#39;t do that.&quot; Or it was just extremely passive aggressive and it was extremely, very, very— it was just not healthy for me because I felt really insecure about my role in the group and I didn&#39;t want to keep them behind, but I wanted to contribute to the group too. Honestly, like, you know, I know other people had this experience before a lot, but I think this was one of the first times I had it, because I just didn&#39;t know what to do and that was really, really mean to me, I think. And he didn&#39;t even do it on purpose. I think he just didn&#39;t realize he was being really mean and very dismissive of my experiences. And I even—I remember this one time and it was, like, 1AM and I was sleeping over at Jackie&#39;s place and I was working on 310 and I finished a little bit of it, but I just started getting really, really bad anxiety because I was, like, oh my god, I feel like I&#39;m not doing enough. And, you know, and I think Matt also said something about our assignment being incomplete and he wanted me to do even more in the project. And I was, like, I don&#39;t have time for this, but I don&#39;t want it to get worse, and all that. And I started getting really, really heavy anxiety, and then it was like 3 or 4AM, and Jackie was asleep because I was still working and I was like, okay, I need to go to sleep and I&#39;ll work on it tomorrow. But I couldn&#39;t go to sleep because my brain was just racing and I was—I kept imagining writing this long paragraph to Matt about how I get really bad anxiety for certain reasons and part of the reason why I&#39;m such a useless group member is because, to be honest, this group gives me really bad anxiety and makes me unable to do any work and it makes me feel really, really incompetent and really bad. I almost wrote out the whole thing and I was like, hey, again, I&#39;m really sorry, man, but you have no idea what I&#39;m dealing with right now. But I just didn&#39;t send it and I just stood up until, like, 5AM not being able to sleep. And, you know, I didn&#39;t have any closure on that too. Okay, TL;DR—
+
+**Michelle Chen:**         Are you guys friends?
+
+**AA:**         Yeah, but, like—I think he thinks we&#39;re friends now, but I actually hate his guts now because he treated me—again, I don&#39;t—this is the problem—I think Matt is one of the examples of a person that I would have been friends with in my freshman year, but that I have learned to stay away from, you know?
+
+**AA:**         Sorry. You&#39;re gonna have to deal with some subtle flirting.
+
+**Michelle Chen:**         Can&#39;t wait. It&#39;ll all be recorded.
+
+**AA:**         That&#39;s okay. But, yeah, anyways. I guess what I&#39;m just saying about—basically, the experience really bad for me and I think that Matt is a great example of the kind of person that I just don&#39;t get along with personality-wise, and it&#39;s part of the reason why I became so critical of CS culture as a whole because so many guys in CS are like that and they have no idea how bad they are and the emotions—they&#39;re so bad; they will literally kill someone and not notice.
+
+**Michelle Chen:**         And then, 330?
+
+**AA:**         330 was fun! I really liked Rong(?) also. Honestly, what a good cause. Yeah, 300 was a good class. I think, overall, I kind of enjoyed it, but I think I also took that during my senior year fall, so I was just—I just knew who to hang out with and who to work with—I didn&#39;t work with people that much, but—
+
+**Michelle Chen:**         Me!
+
+**AA:**         Basically, I didn&#39;t force myself to be in CS groups I didn&#39;t want to be in. If I took it in my freshman year, for example, then the people in my first—my floor would always ask me for help, or they would always talk to me about 330 and it would just be annoying. So I learned how to take it independently and to be a better CS major and stuff like that in general. And I think the content was surprisingly intuitive for me. So, yeah, it was good. I don&#39;t, yeah, I don&#39;t actually have that many problems with 330. But, to be fair, I didn&#39;t spend that much time talking to anyone else in the class except for you and one or two of my other friends.
+
+**Michelle Chen:**         Me! I was always asking for help.
+
+**AA:**         ...which is actually—what&#39;s interesting is, in 330, the only friends that I worked with were—or that I actually talked to about 330 was you, and then Katrina—I don&#39;t think you know her, but she&#39;s also—
+
+**Michelle Chen:**         She was in 342 with us. You&#39;re so rude. This is the eighth time I&#39;ve been—he asked me twice today if I knew someone that I definitely do.
+
+**AA:**         I forget how popular you are.
+
+**Michelle Chen:**         Okay, yeah, nice save.
+
+**AA:**         But, anyways, I definitely think, like, that&#39;s the thing is that I think—the people I just so happened to be friends with and that I thought were best for my personality, and nice and good to work with, all ended up being—or, like, 75% of them ended up being women, which I think is interesting. Maybe it just so happened to be like that, but, again, I didn&#39;t work with any guys in 330 except for Philip, and I love freaking Phillip.
+
+**Michelle Chen:**         Phillip..? Is he white?
+
+**AA:**         No, no, he&#39;s black.
+
+**Michelle Chen:**         Moss! I love him. He was one of my interviewers too. So, then, I guess as a follow up question, how could your experience have been better in all these classes?
+
+**AA:**         I honestly think if I just realized, earlier, the ways—if I just was able to identify CS culture earlier and I was able to navigate it in a way that was healthy for me, I would&#39;ve been way happier. But I think what happened is, in my first two years of Duke, I just didn&#39;t realize there was a CS culture and I had a lot of weird friction with a lot of people in the CS major and I just thought it was individual friction and it didn&#39;t have anything to do with anything. But, then, after you interact with so many people in the CS major, and they all kind of act the same or they have certain characteristics that are very similar, then I started kind of coming around to it. So, basically, I guess I just wish I was educated more about the problems with CS culture, or at least educated about the fact that CS culture exists and it&#39;s a thing and it&#39;s actually a very, very dense—or not dense, but it&#39;s a very heavy culture. It&#39;s not a light culture that&#39;s, like, oh, people are, this this and this. There are very, very explicit characteristics that show up again and again and again in a lot of CS classes. And it happens in every class, and I didn&#39;t realize that until later. So I guess if I were just educated about it earlier, I would have been happier. But, to be honest, if I was a high schooler or a freshman, I wouldn&#39;t have listened to anyone telling me that CS is problematic because I was CS culture. I guess I kinda deserved a few years of depression.
+
+**Michelle Chen:**         That was so dark. No, but, I mean, is there anything that the department could have done or the professors could have done to make your experience better?
+
+**AA:**         Um, let&#39;s see. Oh, wait, do you know Anita Desai? She has some good thoughts on this. I think she would know. Honestly, you don&#39;t even have to interview her. You can just message her and ask her and she will give you a very good list of things that the CS department can do better—probably better than me. But what I would say is I think the CS department should take a larger stance, a much more explicit stance on CS culture, I think. I think the CS department tries to implicitly address it by being, like, &quot;We need more women in CS,&quot; or, like, we need this and this. But what I realized—this is related to a speech that I listened to yesterday, but anyways, um, what I realized is a lot of tech companies—and, in general, CS institutions—realize the problems with CS, but they don&#39;t try to solve it by negating the negatives, by removing the negatives; they try to solve it by adding more positives. So what they do is—what the CS department would do is they try to, like, oh, Susan Rodger includes in every lecture some example of a woman or something in CS, or every few lectures, or something like that. And it&#39;s, like, sure, I&#39;m down for that stuff. But the CS department never talked explicitly about bro culture within CS. They never talked explicitly about the way in which men in CS make it an explicitly unsafe environment for women. They kind of just talk about, like, &quot;Oh, we need more diversity.&quot; And they just assume that everyone—that it&#39;s not anyone&#39;s problem. It&#39;s just, like, &quot;Oh, we just need to increase the numbers and everything will get better,&quot; when—honestly, even if you add a lot of women to the CS program, I think you will still have lot of culture clashes. So, to be honest, I don&#39;t know in terms of explicit demands or explicit policy changes I would make in the CS department, but I would just ask them to be very, very stern about the fact that bro culture exists and I would ask them to actually address that and make people who probably make that culture extremely uncomfortable and confronting them by being, you know—for example, your experience in 308, the CS department should exist such that you would be able to go up to the CS department and tell them your experience and they would&#39;ve gone up to that guy and been, like, hey man, that is not cool and we&#39;re going to take academic—or it doesn&#39;t have to academic—but we&#39;re going to take action against you if you continue making an unsafe environment for your teammates, right? And I don&#39;t think the CS department would&#39;ve done that.
+
+**Michelle Chen:**         I mean, I told Duvall, and he was just, like, &quot;That&#39;s how teams work.&quot;
+
+**AA:**         Exactly. No, that&#39;s my point—the department needs to make sure that they have a zero tolerance for something like that. Also, I just think the department literally hires no women also. I think that&#39;s also a big deal because, basically, all the professors I&#39;ve had in CS besides Professor Rodger have all been guys, without a doubt. So, yeah, I think those two things—just taking a very big stance against bad culture and people to propagate them and telling them, &quot;This is not going to be tolerated,&quot; instead of trying to do a nice-y, nice-y, like, &quot;Women in CS&quot; kind of thing. And then just hiring more women.
+
+**Michelle Chen:**         And then I guess this is the last question, but it&#39;s very broad. What could the CS department do better, or is there anything else that you wish you had said? Any other qualms that you have? Anything that you wish that you could change as we reflect on leaving?
+
+**AA:**         Another thing I would say is, I wish the CS department... honestly, I wish this with all STEM, but I wished the CS department tried a little bit harder to talk about, just in general, society and social issues related to tech, you know? It could be a class or, you know, they could just—I don&#39;t know. Maybe make a few classes—team up with some professors. CompSci 342 is—that was what I wanted it to be. I wanted us to be able to talk about the ramifications of tech industry, both culturally and economically and all that kind of stuff. And I would love a class like that. But Astrachan explicitly acknowledged that it&#39;s a BS class that no one likes—
+
+**Michelle Chen:**         He said that?
+
+**AA:**         Or, he knows it&#39;s a BS class. Every time he does something, he didn&#39;t—he paid zero attention in class. He forgot to send out the readings. Half of the freaking time he knew that people are just taking it for their stupid requirements. And if the CS department actually cared about educating the CS students about when you go out into the real world, the business decisions you make in a company are actually impact the world in XYZ and you need to be aware of that, and, also, the social decisions you make in your company and outside of your companies impact people, especially women and minorities in your culture very, very heavily. It literally changes their life path, and they don&#39;t talk about that at all. Have a critical discussion about culture. Have a critical discussion about society and give institutional power to that, right? Hire a professor that literally studies that and let them teach that in CS.
+
+**Michelle Chen:**         Do you think, though, that people would be receptive?
+
+**AA:**         I think a lot of CS students wouldn&#39;t be receptive, but, to be honest, I don&#39;t have much sympathy for them—for the people that wouldn&#39;t be receptive. I also think a surprising amount of people would be receptive.
+
+**Michelle Chen:**         The thing, though, is the people who need to take those classes the most would be the most—the part of the conversation with the most—are the ones who are missing, right? The people who don&#39;t care—so how do we make them care? Because it&#39;s very easy for them not to care because it doesn&#39;t affect them.
+
+**AA:**         Yeah, I know what you mean. That&#39;s true. I think—so, for example, if we just radically changed 342 to be no bullshit class, like, we&#39;re going to talk about this shit and, you know, fuck off if you&#39;re trying to dismiss people or the conversation. If 342 were taught in a very serious way, a lot of people will take that anyways for their T-reqs or something, right? And a lot of problematic people will take it and they don&#39;t have to even think about the role or the positionality that they have in the CS industry at all when they take that class. And, so, I think you can bait people in with having a class, for example, that is cross-listed in CS that people are like, &quot;Oh, it&#39;s a seminar class so it&#39;s probably easier; I kinda just want to finish my major so I could work at Google,&quot; or something. And then you confront them with these questions and a lot of them will get mad—a lot of them will complain to the department about it. About the fact that, you know, there&#39;s no conservative representation among discussions on CS culture or something. But there will be people, I think, that will actually listen a little bit whether they like it or not, and then realize actually maybe this is a problem, right? So it won&#39;t be 100% of the people, but I do think if the CS department puts in—gives explicit institutional support for it... there are ways to get people to talk about it, right? Or at least be aware of it. And, also, to be fair, even if no problematic people end up joining those—whatever they are—discussion groups or classes or anything. There will be people, I think, that actually find meaning in that space that are women or other minorities in CS and I think it will also help them feel a little bit more comfortable because they&#39;ll have a space to at least talk about their issues because I think a lot of people, especially people in 101 or 201 who are first-years or something, don&#39;t really know what&#39;s wrong. They&#39;re just, like, &quot;It&#39;s kind of weird; I feel inadequate,&quot; or &quot;I don&#39;t really think CS is right for me, but I don&#39;t really know how to put my finger on it.&quot; But if you give them a discussion group like that, then at least it will give those uncomfortable thoughts some grounding and they&#39;ll have maybe some inspiration, you know, to gain from it.
+
+**Michelle Chen:**         So what about your experiences as a TA, then?
+
+**AA:**         So, as a TA, I think what I notice—I think the reason why a lot of people just don&#39;t understand how CS culture works is because no one—not many people are going to stand up and be, like, this is explicit misogyny on behalf of XYZ that happened in CompSci 101 that forced me to leave CS. I think a decent amount of people do that. But I think whoever it does that is kind of dismissed. It&#39;s like, oh, they&#39;re just an outlier, and it just happened, you know, whatever shit happens, you know. But most—it happens on a much larger scale, but it happens on a very subtle skill in that, again, you don&#39;t notice, right? You&#39;re kind of just very—you just have your office hours and then some people in your lab enjoy this stuff and they&#39;re actually good at it. But they&#39;re, like, man, this is kind of hard. Or, it&#39;s, like, you know what, I don&#39;t really think CS is right for me because I don&#39;t really enjoy these—working on these projects with people. It&#39;s just very subtle things and you have people in CS that are crappy at it and they&#39;re honestly bad, but they think that they&#39;re good, or something like that. Or they just think that they&#39;re naturally suited to do CS, or something like that, and they don&#39;t even question the fact that, like, maybe I won&#39;t do CS or something, right? So, again, it&#39;s very subtle things. It&#39;s ways that you make people feel excluded or included, and it&#39;s ways in which you orient—I don&#39;t know. It&#39;s also not entirely within Duke. I don&#39;t think it entirely happens just within Duke. I think people just have this acknowledgement that CS culture in general—or tech industry in general—is like that, and people who are like me that are going into CS just assume that we have a place for us in CS, and I think that just happens. And I think people who aren&#39;t like me go in not assuming they have a place in CS, so it&#39;s much more likely for them to doubt themselves. So, again, I think, as a TA, the biggest thing I noticed was just that it&#39;s very subtle things like that. And it&#39;s not like you have to have—it&#39;s not like you have to have every guy in every CS class be an explicit freaking loud, racist or something for a culture to be very unhealthy for me. There&#39;s a lot of guys, I think, that are—me included, especially in the beginning of my college career—that just stood by idly and was, like, &quot;Oh, I&#39;m not being sexist, and I&#39;ve never explicitly told a girl, like, &#39;you&#39;re bad because you&#39;re a woman,&#39; so, therefore, the problem doesn&#39;t lie with me, it lies with a few individual men that are saying that,&quot; right? But, in reality, actually I construct that culture when I hang out with bro-friends from my dorm, studying 201 and then, I don&#39;t know, one of my female friends walks by and she&#39;s also taking that class, and instead of inviting her to study with us, I&#39;m like, &quot;Oh hey, bye. Good luck to the assignment,&quot; and then we just keep working you know? It&#39;s very subtle things like that. And most people don&#39;t realize that they contribute to it. Even in my lab section, I think—I realize that some people contribute to it. If you go into a CompSci 101 lab without a friend, you&#39;re going to end up joining. You know you&#39;re going to end up being excluded if you&#39;re not like a guy. I guess it&#39;s just very subtle things and literally everyone has a responsibility within—or literally every guy that&#39;s a CS major has the responsibility to be aware of that stuff, and to make sure it doesn&#39;t propagate.
+
+**Michelle Chen:**         Do you have any last words..? Thank you.
+
+</p>
+</details>
+
 <details><summary>Interviewee - ? </summary>
 <p>
   
@@ -3508,4 +3876,17 @@ JasonYeah.
 </p>
 </details>
 
+<details><summary>Interviewee - ? </summary>
+<p>
+  
+
+</p>
+</details>
+
+<details><summary>Interviewee - ? </summary>
+<p>
+  
+
+</p>
+</details>
 
