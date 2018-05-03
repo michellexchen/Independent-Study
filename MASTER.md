@@ -71,6 +71,7 @@ Wilson, B. C. (2002). A study of factors promoting success in computer science i
 
 <details><summary> PM Facebook Message of Encouragement (not a reference, just a shoutout):  </summary>
 <p>
+  
   Hey, just sending you encouragement to finish this CompSci evaluation project that you interviewed me for. It is super important because the people who the faculty interact with are too often the people who benefit DukeCS's current practices and who are not affected or disuaded from the major because of gender/race/class/disability etc. I don't think that DukeCS faculty hear our side of the story, so they might not feel the urgency that they need to. You have the opportunity to tell our experiences and critiques of the CS department. I just filled out their little survey and I realized that I one. I felt like my 4 years in CS constantly told me how much I didn't know, but also made sure that I didn't feel confident while doing anything related to CS. Those little learning objectives they had were lowkey hurtful cause I feel like not only do I not remember how to do those things, but I can remember thinking that I did and then Duke drilling it into my head that I didn't. lmao. So all that to say, I'm rooting for you. Finish this project. Even if you just show the department transcripts upon transcripts. That would be amazing... nah, just the fact that you thought of this and are making progress is great. and You never know what this could turn into or how it will make things better down the line. Even if you don't like what you write now, we can still petition the CS department to do better as alumni, using the interviews you are conducting. ❤ ❤ ❤  lol sorry if this is too much, but yeah just how I feel. now I gotta stop procrastinating on my paper
   
   </p>
@@ -79,7 +80,8 @@ Wilson, B. C. (2002). A study of factors promoting success in computer science i
 <details><summary> Email exchange with Mike as referenced in intro  </summary>
 <p>
 
-MIKE'S EMAIL:
+**MIKE'S EMAIL:**
+
 Hey Michelle, I know this email might seem random. But since you blocked me on all other channels and I lack the balls to say it face-to-face, I think this is the best way. It still bothers me when I think about the incident last summer. With less than 2 months left of school, I feel like it is silly to hold grudges for that long and it would continue to bother me if I don't apologize and try to fix the situation.
 
 I'm genuinely sorry for my attitude and behavior towards you in 310. Looking back now, I was kind of an asshole and completely at fault. I have realized, intentionally or not, that my words and actions might have hurt you. Whether it is due to my ego or my insecurities, I am aware that there is a problem and I'm trying to fix it to become a better person. I'm also sorry for being so immature and saying stuff behind your back. 
@@ -90,7 +92,7 @@ Best,
 
 Mike
 
-MY RESPONSE:
+**MY RESPONSE:**
 
 Mike,
 
