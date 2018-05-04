@@ -5566,27 +5566,27 @@ Sarah: I don&#39;t know if this the-- we&#39;ll talk about [when you&#39;re done
 <details><summary>Interviewee - LM </summary>
 <p>
 
-Lucia Martos:If I&#39;m, if I like, say a sentence not very well grammatically and you&#39;re [gonna] quote me, like, just please like make it sound so I&#39;m not a retard.
+**LM:** If I&#39;m, if I like, say a sentence not very well grammatically and you&#39;re [gonna] quote me, like, just please like make it sound so I&#39;m not a retard.
 
 **Michelle Chen:** Um, yeah.
 
-Lucia Martos:I&#39;m not-- I&#39;m not gonna have any filter, again. I&#39;m just going to like-- I&#39;m saying like, I&#39;m not going to think of like very deeply of-- In the sense like I&#39;m going to like trim my words. I&#39;m going to say exactly-- If something it&#39;s like not appropriate to word. If I say like swear words and stuff like, because I don&#39;t want you to expect from me now-- in the spot would like-- Ok. Yeah, anyways. Ask me?
+**LM:** I&#39;m not-- I&#39;m not gonna have any filter, again. I&#39;m just going to like-- I&#39;m saying like, I&#39;m not going to think of like very deeply of-- In the sense like I&#39;m going to like trim my words. I&#39;m going to say exactly-- If something it&#39;s like not appropriate to word. If I say like swear words and stuff like, because I don&#39;t want you to expect from me now-- in the spot would like-- Ok. Yeah, anyways. Ask me?
 
 **Michelle Chen:** So, the first question is 308, 310 and 330. Which of these have you taken?
 
-Lucia Martos:All.
+**LM:** All.
 
 **Michelle Chen:** All of them? And then, in what order?
 
-Lucia Martos:308, 330 and then 310.
+**LM:** 308, 330 and then 310.
 
 **Michelle Chen:** Okay. Um, and did you have any CS education prior to Duke?
 
-Lucia Martos:No. Dude, I literally had never, like, seen a line of code. I thought coding was like making websites on Frezit.
+**LM:** No. Dude, I literally had never, like, seen a line of code. I thought coding was like making websites on Frezit.
 
 **Michelle Chen:** Yeah. So, then how did you, like, get into CS? How did you find your way there?
 
-Lucia Martos:So, in high school I made, like for my personal project, I made a website using what I felt was coding, but it was literally just like WordPress-kind of software, and I really liked it. And I was like, &quot;Huh. I love math.&quot; So, I was like, &quot;Ok, I guess I&#39;ll do computer science.&quot; I just [got] to think to Duke, like the ECE CompSci major, kind of like decided and I really didn&#39;t think about it that much because I enjoyed my classes. It was like 201 was probably the hardest class I&#39;ve taken. Like the hardest time I had at Duke. It was also because I was doing it with Forbes and he sucks as a teacher. Don&#39;t quote me on that, but he&#39;s such a bad teacher.
+**LM:** So, in high school I made, like for my personal project, I made a website using what I felt was coding, but it was literally just like WordPress-kind of software, and I really liked it. And I was like, &quot;Huh. I love math.&quot; So, I was like, &quot;Ok, I guess I&#39;ll do computer science.&quot; I just [got] to think to Duke, like the ECE CompSci major, kind of like decided and I really didn&#39;t think about it that much because I enjoyed my classes. It was like 201 was probably the hardest class I&#39;ve taken. Like the hardest time I had at Duke. It was also because I was doing it with Forbes and he sucks as a teacher. Don&#39;t quote me on that, but he&#39;s such a bad teacher.
 
 **Michelle Chen:** Wait. Why?
 
