@@ -6150,6 +6150,1195 @@ Sarah: I don&#39;t know if this the-- we&#39;ll talk about [when you&#39;re done
 <details><summary>Interviewee - JR </summary>
 <p>
   
+**JR:**  I just-- and, like-- and you can [hear] or whatever, but--
+
+**MC:**  I just, like, I feel like, in a lot of ways that&#39;s made me-- And this isn&#39;t-- uh, this isn&#39;t meant to, like, color your experiences at all, because I&#39;ve-- I&#39;ve just been talking to people and hearing what their experiences are before. Some people feel the same as me. Some people really don&#39;t and-- But like, I&#39;ve-- it&#39;s made me feel really dumb. Um, yeah. And I feel like I&#39;m leaving here, like not knowing that much?
+
+**JR:**  Yeah.
+
+**MC:**  And, I don&#39;t know how to explain it. It&#39;s like, I know I&#39;m smart and like you&#39;re smart. Like we&#39;re here because we&#39;re smart like [not even in the extracurricular] [inaudible], but, at the base, like you have to be [smart-smart].
+
+**JR:**  Yeah.
+
+**MC:**  Like CS makes me feel really--
+
+**JR:**  So dumb.
+
+**MC:**  Really dumb.
+
+**JR:**  Yeah, yeah.
+
+**MC:**  So, I&#39;ve just been, like, sort of trying to talk to people and be like, &quot;Hey, like what has your experience been like?&quot; And, because, I do think that there are a lot of things that they could change.
+
+**JR:**  Definitely. Yeah, um. I don&#39;t know, should I just like--
+
+**MC:**  Well, okay. So, I have interview questions but also, so half of the independent study is-- crosses it with gender studies. So, I&#39;m doing a little bit about, like, being a woman in CS because I also do think that that has something to do with it. Like, I definitely prefer like, for example, like working with girls.
+
+**JR:**  Yeah.
+
+**MC:**  Because they&#39;re so much nicer. They&#39;re so much less judgmental. Yeah.
+
+**JR:**  Wait. Did you have any, like, prior CompSci, like in high school?
+
+**MC:**  Oh my god, that&#39;s my first question!
+
+**JR:**  Oh, really?
+
+**MC:**  But, yeah. So, um, no I didn&#39;t. And like I--
+
+**JR:**  Because I almost felt like I was like-- I don&#39;t know if you want to lead [inaudible].
+
+**MC:**  Yeah. No, it&#39;s fine. This is just for my notes.
+
+**JR:**  Like behind, before I even started, like I was like lost at the beginning of CompSci 101.
+
+**MC:**  Yeah.
+
+**JR:**  But like, everyone&#39;s like, &quot;Oh!&quot; Like &quot;You&#39;ll be lost and then you&#39;ll get it,&quot; like halfway through the semester, whatever. But it was still like kind-- like it wasn&#39;t like an easy A for me.
+
+**MC:**  Yeah, oh yeah. Yeah, yeah.
+
+**JR:**  And like I don&#39;t know if that should have been a sign to like not doing the major.
+
+**MC:**  Yeah.
+
+**JR:**  But like I feel like--
+
+**MC:**  I liked it, you know?
+
+**JR:**  Yeah. That&#39;s the thing. Like I enjoyed it and, like, my high school didn&#39;t have any CompSci.
+
+**MC:**  Me either.
+
+**JR:**  So, like, I didn&#39;t do anything before, but I always knew I liked like math and like solving problems. So, that&#39;s kind of why-- And I didn&#39;t want to just major in math.
+
+**MC:**  Yeah.
+
+**JR:**  Like, that&#39;d be, yeah. But I wanted to be able to, like, apply it somehow, but then like, I don&#39;t know--
+
+**MC:**  It was-- Yeah.
+
+**JR:**  Yeah.
+
+**MC:**  So, I-- so, the first question is--
+
+**JR:**  Okay.
+
+**MC:**  Um, 308, 310 and 330, which of these have you taken?
+
+**JR:**  Um. 308, 310, 330? 310 and 330.
+
+**MC:**  And then, what order did you take them in? Like when.
+
+**JR:**  I took like 330, junior spring, and then 310, senior fall.
+
+**MC:**  Okay. And then-- So, the first question was like, did you have any CS education prior to Duke?
+
+**JR:**  Okay. So, yeah. No.
+
+**MC:**  No, you didn&#39;t have any. So, I guess like--
+
+**JR:**  Literally nothing.
+
+**MC:**  How did you find like-- you wanted to do CS? Did anyone ever-- ever recommend it to you or was it like you just found it?
+
+**JR:**  Um, I think I just like kind of found it. Yeah. I don&#39;t know, just because, as I was saying, like I liked math.
+
+**MC:**  Yeah.
+
+**JR:**  But I didn&#39;t really know anything about CompSci.
+
+**MC:**  Yeah.
+
+**JR:**  Yeah, so. And then, so then, I was like very undecided. But, so I took CompSci 101, first semester freshman year, and I was like, &quot;I like it, but like, I don&#39;t know.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  Um. So, then I took [Econ] 101 in the spring and then I was like, &quot;Definitely no.&quot;
+
+**MC:**  Wait. Me too.
+
+**JR:**  Yeah. So then, like, sophomore fall I took 201 for CompSci.
+
+**MC:**  And then?
+
+**JR:**  And it was like really hard for me.
+
+**MC:**  Yeah, I [also feel] that.
+
+**JR:**  But, yeah.
+
+**MC:**  Um. So, do-- I guess, did your family or friends ever encouraged you to study CS?
+
+**JR:**  Um, I feel like, not friends but like my parents. Just not really for any particular reason, but they just thought it would be, like, something I would enjoy.
+
+**MC:**  Yeah.
+
+**JR:**  And they were like, &quot;Oh--&quot; I don&#39;t know. And, like, obviously with like STEM being so big, they&#39;re like, &quot;You should do something.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  &quot;That you can, like, apply later on.&quot;
+
+**MC:**  Later on, in life, yeah.
+
+**JR:**  But they weren&#39;t like-- no one was really like, very, &quot;You should do this.&quot;
+
+**MC:**  Okay. So, no one, like, was like &quot;You need--&quot;
+
+**JR:**  Yeah, yeah. Yeah.
+
+**MC:**  Okay. Um, and then, who you surround yourself with in classes and group work in CS?
+
+**JR:**  Um, I feel like just like friends that I have in the class, um, which might not have been, like, the most helpful but--
+
+**MC:**  You do you say that?
+
+**JR:**  I don&#39;t know. Like, I&#39;m trying to think just like as far as group projects, and stuff, like in 310, I was in a group with like [one] and [Will Rhone] [inaudible].
+
+**MC:**  Uhu.
+
+**JR:**  Yeah. So, like, I don&#39;t know. I guess I surround myself with, like, the people I know in the class and hope to, like, be able to collaborate with them.
+
+**MC:**  Yeah.
+
+**JR:**  Um, yeah.
+
+**MC:**  So, do-- like, how do you-- why did you decide to do that? Just because you know them?
+
+**JR:**  Yeah.
+
+**MC:**  And then, how do you know these people?
+
+**JR:**  Um, other classes?
+
+**MC:**  Other classes.
+
+**JR:**  Yeah.
+
+**MC:**  Yeah.
+
+# **JR:**         I feel, like, I have met a lot of people through taking CompSci classes.
+
+**MC:**  Yeah. And, well, I guess more on your 310.
+
+**JR:**  Yeah.
+
+**MC:**  Like how was that experience like?
+
+**JR:**  It was like-- I don&#39;t know. Like how has the experience working in group versus not, or?
+
+**MC:**  Or, I guess, like you were like &quot;Maybe I shouldn&#39;t have worked with my friends.&quot; Like, why?
+
+**JR:**  Yeah. I don&#39;t know. I mean, I feel like there&#39;s like pros and cons of working with your friends. Like pros being, like, they&#39;re more understanding of, like, timing and like if you don&#39;t understand something I feel more comfortable asking them.
+
+**MC:**  Yeah.
+
+**JR:**  But it&#39;s also more like a rela-- I don&#39;t know, like we were always like working &#39;til the last second.
+
+**MC:**  Yeah.
+
+**JR:**  Like I would rather, like, more--
+
+**MC:**  Structure.
+
+**JR:**  Structure, I guess, yeah.
+
+**MC:**  Yeah.
+
+**JR:**  But I don&#39;t know if that&#39;s specifically because I worked [with friends].
+
+**MC:**  That makes sense.
+
+**JR:**  Yeah.
+
+**MC:**  Um so, do you think your experience in the CS major has been different than most male students&#39; experiences? And if so-- if yes, how so?
+
+**JR:**  Um, I don&#39;t know. I always have a hard time, like, thinking if it&#39;s because, like, we&#39;re women in CS.
+
+**MC:**  Yeah.
+
+**JR:**  But I definitely do see that there&#39;s, like, a lot more guys. Um, I don&#39;t know if it, like, particularly changed my experience though. But, definitely just like being more con-- like, as you were saying, like the girls are nicer, like they&#39;re more approachable to be able to have other girls in the class.
+
+**MC:**  Yeah.
+
+**JR:**  The guys seem more intimidating and, like, very overly confident that you, like, don&#39;t want to, like, sound stupid around them.
+
+**MC:**  Yeah.
+
+**JR:**  But yeah. I don&#39;t know.
+
+**MC:**  Well, I--
+
+**JR:**  I--
+
+**MC:**  So--
+
+**JR:**  Oh god, sorry. I also kind of felt like I could relate more to the girls in the class. Like not that we&#39;re like stupider, but like they&#39;re more, like-- maybe it&#39;s just the way we think, like wanting to like break down each step and, like, making sure we understand everything. Whereas the guys who are just like, &quot;Oh yeah, like, you do this.&quot; I don&#39;t know. And like, do you know what I mean?
+
+**MC:**  Yeah. Because I do feel like your experience has been different than like [inaudible] for example. Like, what do you think it&#39;s been pretty similar?
+
+**JR:**  I&#39;m trying to think. Like, I feel like [inaudible], like, thinks-- is more like confident with like, &quot;Oh, like the test would be the part,&quot; whereas I, like-- I freaked out a lot throughout all of the class.
+
+**MC:**  Yeah. Like--
+
+**JR:**  I don&#39;t know.
+
+**MC:**  Like Aaron didn&#39;t study for a 310 midterm [points].
+
+**JR:**  Yeah.
+
+**MC:**  And I was like--
+
+**JR:**  Like, I don&#39;t understand. Yeah.
+
+**MC:**  Yeah.
+
+**JR:**  I also, I don&#39;t know. Because comparing like 310 to 330, I almost think 330 was, like, better because, they were both terrible but, like, I feel like-- like you could, like, learn the algorithms if you really, like, tried. But for like the-- I don&#39;t know. 310 just seemed more vague and like you never know what&#39;s going to be asked.
+
+**MC:**  Yeah.
+
+**JR:**  I don&#39;t know.
+
+**MC:**  Yeah.
+
+**JR:**  I don&#39;t really know how to, like, put it into words.
+
+**MC:**  No, no, that makes sense.
+
+**JR:**  So, yeah.
+
+**MC:**  Um so, then I guess, as a follow-up, in what ways has your gender impacted your experience as a CS major?
+
+**JR:**  Uh, I guess just like having less girls to talk to and, like, relate to. Um, it&#39;s really only the couple of friends that I would have, like in the class.
+
+**MC:**  Yeah.
+
+**JR:**  But I never really, like, met other girls. Um, I don&#39;t know. I guess just like sometimes feeling overpowered? I don&#39;t know the exact words to be using but, just like-- or like, stupid. I don&#39;t know. Just like definitely feeling on, like, the lower half of the class and like-- yeah.
+
+**MC:**  Yeah, that makes sense. And um, in-- so I guess, a final follow-up, does gender influence how you see teammates?
+
+**JR:**  Um, not specifically. I feel like-- I feel like it&#39;s more just like friends or like people who I know in the class previously, which probably most of the time in CS was guys.
+
+**MC:**  Was guys?
+
+**JR:**  Yeah.
+
+**MC:**  Yeah. Um, do you wish there were more girls in CS?
+
+**JR:**  Uh, yeah, I would say.
+
+**MC:**  Yeah?
+
+**JR:**  Yeah. I just like, I don&#39;t really know that many girls. Like there&#39;s-- I can&#39;t even really think of girls, like underclassmen, who I&#39;m like, &quot;Oh, they should&#39;ve done CS,&quot; like--
+
+**MC:**  Yeah.
+
+**JR:**  It doesn&#39;t seem like there&#39;s that many people who are like interested in it, even.
+
+**MC:**  Yeah, definitely. Um so, how do you think your race or socioeconomic status or other identity factors besides gender impacted your CS experience? Or did they?
+
+**JR:**  Um. Not specifically. I don&#39;t think so. I don&#39;t know.
+
+**MC:**  Yeah, I mean, I feel that. Um, so do you feel as if there&#39;s a community in which you&#39;re welcome in the Duke CS Department?
+
+**JR:**  Uh, I feel like it depends. Like, as an example I guess, I would always prefer if, like, when I went to office hours if, like, there wasn&#39;t anyone else there because I never really wanted to, like, ask a stupid question around other people.
+
+**MC:**  Yeah.
+
+**JR:**  Um, if I was like further behind them. And then also just like, it was harder to kind of follow along if a bunch of other people were asking questions that were, like, over my head.
+
+**MC:**  Yeah.
+
+**JR:**  And I was more trying to focus on the basics. But I guess like I have a community within my friends in CS, where I-- like the people who I trust to like ask questions and like not be afraid to do that. But like the overall community is, like, sometimes intimidating. I would say.
+
+**MC:**  Yeah. And so, I guess like, within office hours, like-- is just a me question. Like, what do you think that they could do to make it a better experience?
+
+**JR:**  Um. Sorry. Um, to make it better? I don&#39;t know. Like, I feel like it&#39;s definitely hard because that&#39;s the other thing. Like, I don&#39;t know, because you can&#39;t stop the people who are like-- like just like everything comes naturally and, like, whatever. They don&#39;t--
+
+**MC:**  Yeah.
+
+**JR:**  Yeah, they can ask, like, the complex questions were I [was] like &quot;Good for them.&quot; But, I don&#39;t know if it&#39;s that, like, the classes were too big and, like, too wide of a range of abilities, like, that there maybe should have been like. But I-- I don&#39;t know like how you could really solve that problem.
+
+**MC:**  Yeah.
+
+**JR:**  But I don&#39;t know. Does what I&#39;m saying makes sense?
+
+**MC:**  No, it makes sense. Also, so, this is tangential and like not necessarily related to this, but I&#39;ve just been-- it&#39;s something that&#39;s curious-- I&#39;m curious about. Like, are you-- you&#39;re not planning to use-- like, go into CS, right? after.
+
+**JR:**  No.
+
+**MC:**  Me either. And so like, what was your logic behind that and [inaudible]?
+
+**JR:**  Yeah, because initially, I would say like freshman and sophomore year I could have seen myself doing [it].
+
+**MC:**  Yeah, me too.
+
+**JR:**  But, I guess just like as it went on, I like, number one, didn&#39;t really see myself just like sitting at a computer.
+
+**MC:**  Yeah.
+
+**JR:**  Like, I want to be like more interactive like, with, other people after Duke.
+
+**MC:**  Yeah.
+
+**JR:**  Um, but also, just like that it seemed very, like, cut throat. Like, especially the interview process, like, which is something we can&#39;t really change, I guess.
+
+**MC:**  Like what-- what made you think that?
+
+**JR:**  Um, just like-- I actually had an interview for one of them. I got to like a [super day] of something for, like, software engineering. And, it was just very, like, tough. I don&#39;t know. Like being able to answer questions verbally, number one, is something we like don&#39;t really--
+
+**MC:**  Do here.
+
+**JR:**  Do here. And then, also, like the second I would say something, they&#39;re like, &quot;Why?&quot; like, you know, it&#39;s like very like--
+
+**MC:**  Yeah.
+
+**JR:**  Um, I don&#39;t know, but-- wait, where were we? oh, but doing [CS afternoon].
+
+**MC:**  Yeah.
+
+**JR:**  But yeah. Then I just decided, like, I&#39;d rather do something-- I don&#39;t know, I just, like, didn&#39;t really see myself in the field. But, because you&#39;re also going to be like, [business].
+
+**MC:**  Yeah, yeah. Yeah.
+
+**JR:**  Yeah, so.
+
+**MC:**  Do you--
+
+**JR:**  I don&#39;t know.
+
+**MC:**  Do you regret studying CS, ever?
+
+**JR:**  Like sometimes, but at the same-- I think CS definitely helped, like with certain skills and also, even, just being able to get interviews, even if it wasn&#39;t for software engineering.
+
+**MC:**  Yeah.
+
+**JR:**  You&#39;re, like, in related fields because they&#39;d be like, &quot;Oh, like, CompSci. Like, what made you decide this role?&quot; So, I think it, like, helped in that sense, which, like, obviously shouldn&#39;t be the reason to--
+
+**MC:**  Yeah.
+
+**JR:**  Major in it. But um, I also don&#39;t really know like what else I would&#39;ve done.
+
+**MC:**  Done here.
+
+**JR:**  Um.
+
+**MC:**  Yeah.
+
+**JR:**  So yeah, I don&#39;t know. Do you ever regret it? like--
+
+**MC:**  Yeah, sometimes.
+
+**JR:**  Yeah.
+
+**MC:**  Sometimes I&#39;m just like I-- are you getting the BA or the BS?
+
+**JR:**  BA.
+
+**MC:**  Okay, yes. So--
+
+**JR:**  I really-- yeah.
+
+**MC:**  So, I was an idiot, obviously, and I was like, &quot;Wow, I can really see myself doing CS.&quot; So, I took all the math classes for it, like freshman and sophomore year.
+
+**JR:**  Oh.
+
+**MC:**  And I like did not do well in them.
+
+**JR:**  Yeah.
+
+**MC:**  And so, I like-- it was kind of like, &quot;Well, I might at this moment--&quot;
+
+**JR:**  Might as well.
+
+**MC:**  &quot;Might as well,&quot; because I like--
+
+**JR:**  Because you had taken like [Stat] or [anything]?
+
+**MC:**  I took [Stat] 111 and [Multi] and I was-- and my life-- I literally almost failed [Multi] and I was just like-- you know what I mean? And I was kind of like, &quot;You know what?&quot; like &quot;It&#39;s not worth--&quot; like, it&#39;s just, at this point, like I&#39;m in too deep.
+
+**JR:**  Yeah.
+
+**MC:**  Like I might as well just finish it.
+
+**JR:**  I took [Multi] but that was like the only one but then it ended up like-- you can use one [Math] for an elective. So, for the BA.
+
+**MC:**  Yeah, yeah. Yeah. I was just like-- I don&#39;t know. And, honestly, like I have this independent study and like my ECE class. So, it&#39;s like--
+
+**JR:**  Yeah.
+
+**MC:**  Those are literally my, like, last two electives. That&#39;s kind of like &quot;I can do this.&quot;
+
+**JR:**  That&#39;s the other thing. Like, I finished CompSci last semester. Um, this semester I&#39;ve been taking four classes that-- that are like real classes. Like, I&#39;m still taking Spanish, like one for [MMS], like others. But, it&#39;s just been so much nicer. Like, not having-- like, it&#39;s like kind of crazy. I&#39;m like &quot;This is how everyone&#39;s been [surviving?&quot;
+
+**MC:**  Yeah, I know. I&#39;m always, like, I see people and I&#39;m like, &quot;I don&#39;t understand how you go out, like, literally, like, five times a week.&quot;
+
+**JR:**  Yeah!
+
+**MC:**  Like Thursday and Saturday--
+
+**JR:**  But like, I honestly could&#39;ve. Like-- the-- yeah.
+
+**MC:**  Exactly.
+
+**JR:**  Like, that&#39;s something that, like, I do kind of regret. Like if I had done maybe like a CS minor, if I had known I wasn&#39;t gonna-- I don&#39;t know, but it is kind of crazy because it&#39;s not like I&#39;m just taking like exercise class.
+
+**MC:**  Yeah.
+
+**JR:**  Like I&#39;m actually taking classes, but--
+
+**MC:**  My thing is just like, I feel the exact same way. I&#39;m like, &quot;I would have had so much time.&quot; Yeah. To like fuck around, yeah.
+
+**JR:**  But.
+
+**MC:**  But you know what? That is an important part--
+
+**JR:**  I was like--
+
+**MC:**  Of college.
+
+**JR:**  Yeah.
+
+**MC:**  And instead, last semester I was fucking miserable because I had a 330 problem set due every single week. Those are also terrible. I was stressed all the time. Every Wednesday after I turned it in, he would release the next one. So, then I&#39;d be stressed. Then I wouldn&#39;t-- it was just like this endless cycle.
+
+**JR:**  Yeah.
+
+**MC:**  And then 310, like tests are hard. I didn&#39;t understand lectures, like, and I didn&#39;t understand the projects that, like, you know what I mean? And so--
+
+**JR:**  It was-- it-- Yeah.
+
+**MC:**  Yeah. I guess, so-- I don&#39;t know, like in some ways I&#39;m like &quot;If I could do it all over again, I wouldn&#39;t change anything&quot; because everything that I&#39;ve done has like--
+
+**JR:**  Gotten--
+
+**MC:**  Got me to where I am today.
+
+**JR:**  Yeah.
+
+**MC:**  But sometimes I&#39;m like &quot;Damn.&quot; like, also, for example, [Rohan] is taking two classes this semester. One&#39;s a [Doc studies] class and one&#39;s like a class about like venture capital. I&#39;m like &quot;He literally doesn&#39;t do anything.&quot;
+
+**JR:**  Anything. Really. Yeah, it&#39;s crazy.
+
+**MC:**  And I&#39;m just kind of like-- and I&#39;m not saying he doesn&#39;t deserve to take a break. It&#39;s more just like I know people here who are like-- I&#39;m not totally sure on other majors but, like, some people have, like, very easy--
+
+**JR:**  Yeah.
+
+**MC:**  [Inaudible]
+
+**JR:**  And like, still ended up in the same place. These three people.
+
+**MC:**  Yeah.
+
+**JR:**  So, that&#39;s also, I don&#39;t know. But.
+
+**MC:**  That&#39;s-- sometimes-- Yeah. I was just curious because I just feel like--
+
+**JR:**  Yeah, I just feel like CompSci, like, I don&#39;t know if there&#39;s other, like, areas like this, but it, like, literally takes over your life.
+
+**MC:**  Yeah.
+
+**JR:**  Like 201\. I lived in the North building for the office hours and I would have to, like, call a [Duke Van], I remember. Or was it? Yeah, because sophomore year, so I was on central, [Duke Van], from like north to central, they, like, wouldn&#39;t drop me off at my bus stop, so I had to, creepily or like scared, walk back to my--
+
+**MC:**  Walk, yeah.
+
+**JR:**  It was, I don&#39;t know, it was bad.
+
+**MC:**  Yeah.
+
+**JR:**  Yeah.
+
+**MC:**  I feel that I, and I totally feel that! I&#39;m like, &quot;There are people here who majored in, like-- I&#39;m not going to [inaudible] other majors but, like, other things and then they&#39;re doing the same job as me, and I&#39;m just like-- and you-- I don&#39;t know, you know? like they go out like five-- I don&#39;t know--
+
+**JR:**  Yeah.
+
+**MC:**  You know? and I&#39;m just like, &quot;Whatever.&quot;
+
+**JR:**  Yeah.
+
+**MC:**  It&#39;s-- Okay, sorry.
+
+**JR:**  No, I [agree].
+
+**MC:**  Next question. Um, so, about specific classes, because I think [inaudible] is actually kind of curious about this, but what was your experience like in 310 and 330? And this could be high level or, really, just like whatever comes to mind. And then we&#39;ll, like, go from there.
+
+**JR:**  Um, okay. So, should I just do one at a time, I guess?
+
+**MC:**  Yeah, yeah. Yeah.
+
+**JR:**  So, 330\. I had-- should I say [like that]?
+
+**MC:**  Yeah, that&#39;s fine. This is for, like, so I can type up and be like-- Also, literally, I had to-- I had a-- one of these interviews yesterday with someone and she was like, &quot;The CompSci department needs to fucking fire Forbes.&quot; Like she literally said that. And so, I was like &quot;Okay.&quot; I was like, &quot;If I tell them, I&#39;m like a hundred--&quot; [inaudible].
+
+**JR:**  [Inaudible] [if you did].
+
+**MC:**  I was like &quot;I would recommend this lightly.&quot; And, like, I&#39;m not going to, like, quote, like, yeah. So.
+
+**JR:**  On somebody. 310 and 330-- oh, so 330, I had [Pam] [Agrahity].
+
+**MC:**  Okay.
+
+**JR:**  Um. It was very, just like, &quot;Go to class, take notes.&quot; And then, like, for the homework assignments, it was like &quot;Go to the TA.&quot; I like-- I would always go [TA&#39;s] office hours.
+
+**MC:**  [TA&#39;s], yeah. Yeah.
+
+**JR:**  Which was really helpful. But, without that, I definitely would not [inaudible] anybody do it.
+
+**MC:**  Yeah.
+
+**JR:**  And then, also, I remember he, like, maybe gave us one practice test for exams, if that.
+
+**MC:**  Oh damn.
+
+**JR:**  And, I thought that was really unhelpful because like, yeah, you can practice with the homework but, at that point, number one, we&#39;ve already done it and, like, gone over it a million times.
+
+**MC:**  Yeah.
+
+**JR:**  And then two, like, I wanted to know what an actual test was like. So, I think like classes that have a lot of practice tests that are like, actually, um.
+
+**MC:**  Helpful, yeah.
+
+**JR:**  Like comparable to the actual test is, like, really helpful.
+
+**MC:**  Helpful.
+
+**JR:**  But yeah, I don&#39;t know if there was anything. I feel like that class was mainly just like go to class and then do the homework.
+
+**MC:**  Yeah, yeah, yeah.
+
+**JR:**  Um, but the one thing I did like was that, like, there wasn&#39;t coding, so that was nice.
+
+**MC:**  We say [as CompSci majors].
+
+**JR:**  Yeah.
+
+**MC:**  Yeah.
+
+**JR:**  But it did feel more like a math class kind of, like ready for that--
+
+**MC:**  And did you like that?
+
+**JR:**  Like-- It was kind of a nice break. I don&#39;t know, it was definitely still terrible. Because I think that&#39;s like the one factor that made me like 330 slightly more than--
+
+**MC:**  Than 310.
+
+**JR:**  Than 310\. Yeah.
+
+**MC:**  So, you didn&#39;t have to code?
+
+**JR:**  I know. But 310, like, it was just like those main what-- like four big--
+
+**MC:**  Four big.
+
+**JR:**  Assignments. And part of what&#39;s frustrating, which I guess is just like what CS is, was that like at a certain point there would be such a minimal thing that, like, we couldn&#39;t find and, like, having tested it a million times. And it&#39;s just frustrating because, I don&#39;t think this luckily ended up happening to us but, like you could literally get a zero on an assignment and have the same grade as someone who like, didn&#39;t even attempt it, whereas like, you could&#39;ve spent like 20 hours.
+
+**MC:**  Yeah.
+
+**JR:**  Which, I think, is like kind of unfair. Like, I feel like there should be, like, some difference in the grading.
+
+**MC:**  For effort.
+
+**JR:**  Yeah. Um, but also, wait. I was [insisting] and I was like &quot;God.&quot; Um.
+
+**MC:**  You started with the four projects.
+
+**JR:**  Oh. The four projects.
+
+**MC:**  Test, [inaudible], lecture.
+
+**JR:**  Yeah, I don&#39;t remember.
+
+**MC:**  Group work?
+
+**JR:**  Yeah, I did kind of like that it was a group work.
+
+**MC:**  Okay.
+
+**JR:**  Um, just because like I also feel like you learn more from other people too, like being able to--
+
+**MC:**  Did [inaudible] ever make you feel like dumb? I don&#39;t-- Because like, my 310 group did.
+
+**JR:**  They did?
+
+**MC:**  But I know that&#39;s not everyone&#39;s experience.
+
+**JR:**  Yeah. At certain points I felt-- like I remember there was one where like I just didn&#39;t know what was happening and--
+
+**MC:**  Me in everything.
+
+**JR:**  Yeah. Um, and [inaudible] was like, &quot;It&#39;s okay, like we&#39;ll just do it.&quot; I&#39;m like, &quot;But I want to be able to like--&quot;
+
+**MC:**  To learn.
+
+**JR:**  Yeah. Like I still want to help and it&#39;s not--
+
+**MC:**  Like you could work without me and that was just-- yeah.
+
+**JR:**  Really? Yeah. And it&#39;s like, not that I&#39;m giving up, but like if I literally don&#39;t understand it, like maybe take five minutes to like--
+
+**MC:**  Talk to you?
+
+**JR:**  Yeah, like explain it. So, that was kind of frustrating.
+
+**MC:**  Yeah.
+
+**JR:**  But yeah. Um, I don&#39;t know, I think like the peak, my favorite CompSci classes were 230 and 250\. But, I don&#39;t know.
+
+**MC:**  Really? Okay. Why do you say that?
+
+**JR:**  I don&#39;t know. 250, I had [Soren] and I thought he was like really good, and I think the professor, like, makes a big difference for me. He was like very engaging and like funny, I don&#39;t know. Did you have him?
+
+**MC:**  No, I had-- No I had--
+
+**JR:**  [Blech]?
+
+**MC:**  No, I had [Liback].
+
+**JR:**  Oh? oh, I don&#39;t know.
+
+**MC:**  I did not do well with [that].
+
+**JR:**  I don&#39;t know. And I kind of liked the components of, like, ECE that it had-- I don&#39;t know.
+
+**MC:**  Yeah.
+
+**JR:**  It was like cool. I don&#39;t know.
+
+**MC:**  To have that.
+
+**JR:**  But yeah. It honestly-- after taking that class I, like, considered switching--
+
+**MC:**  To ECE.
+
+**JR:**  To ECE, but it&#39;s so much harder to go from, like, to Pratt. Yeah. So, that didn&#39;t happen. But I don&#39;t know. I think I enjoyed those the most.
+
+**MC:**  Okay.
+
+**JR:**  But, also, because they just weren&#39;t as, like, cutthroat as ECE.
+
+**MC:**  Yeah.
+
+**JR:**  I don&#39;t know.
+
+**MC:**  And then, did you-- how hard was it for you to ask for help in those classes?
+
+**JR:**  Um. In 310, 330?
+
+**MC:**  Yeah, or honestly like any CompSci class that you want to talk about.
+
+**JR:**  Um. Yeah, I feel like I definitely took advantage of office hours and like went a lot which was really helpful.
+
+**MC:**  Yeah.
+
+**JR:**  I was mostly-- I would mostly go to TA hours because I was kind of scared to, like, go to the professor and having him be like, &quot;How do you not know this?&quot; but um, I feel like I was like pretty comfortable.
+
+**MC:**  Okay.
+
+**JR:**  As long-- like I was more comfortable, as I said before, like being alone and like--
+
+**MC:**  Yeah.
+
+**JR:**  Just being able to ask whatever and not have people like judging. Yeah.
+
+**MC:**  Yeah, definitely. Um, and then how could your experience have been better in these classes?
+
+**JR:**  Um. Yeah, I know. I&#39;ve been like thinking about it a lot honestly, lately, just from being here, but I don&#39;t know, like I don&#39;t know if it was that like I didn&#39;t apply myself as much--
+
+**MC:**  Yeah.
+
+**JR:**  In like the beginning and then I just was more lost. But, I don&#39;t know, because I felt like everyone else, like, would catch on [to it]. Like, I don&#39;t know if it was just me, but I would always, like, go to class. I would always, like, look at the lectures after.
+
+**MC:**  Yeah.
+
+**JR:**  So, I don&#39;t know if it&#39;s-- I don&#39;t know.
+
+**MC:**  There was just a perception, like you felt--
+
+**JR:**  Yeah. I don&#39;t know.
+
+**MC:**  Like, why do you think you felt like everyone-- Because like, I had no idea what was going on. I feel like it&#39;s very easy in CompSci to--
+
+**JR:**  To just like get lost. Yeah.
+
+**MC:**  Or to assume that everyone else knows what they&#39;re doing.
+
+**JR:**  Uh huh. That&#39;s true.
+
+**MC:**  Because not a single person I&#39;ve talked to had a good experience.
+
+**JR:**  Really?
+
+**MC:**  In 201 especially. Like, everyone else said &quot;Everyone else in the class was so far ahead of me&quot; and I was like, &quot;Okay well, if everybody felt that way, then--&quot;
+
+**JR:**  Yeah, some--
+
+**MC:**  Yeah, so.
+
+**JR:**  I don&#39;t know what it is then, though. Like 201 was like the worst for me.
+
+**MC:**  Really? Why? Why do you say that?
+
+**JR:**  It was like--
+
+**MC:**  Everyone has been saying that.
+
+**JR:**  Yeah, 201\. Was it not the worst for you?
+
+**MC:**  Like, 201, honestly-- I-- I honestly think that I was just having a really hard time adjusting to just, like, life at Duke and so I wasn&#39;t even really paying it that much attention to my classes and so 201, like I remember I just like locked myself in the basement and tried to do the APTs and then like--
+
+**JR:**  It was-- Yeah.
+
+**MC:**  Yeah, it was that--
+
+**JR:**  Wait, could you do them?
+
+**MC:**  Until like the fourth set.
+
+Stranger: Excuse me, hey. How are you all doing today?
+
+**MC:**  Hello.
+
+Stranger: Right here, [he] used to be [seven] years police chief here in Duke. He is endorsed by every political organization, LGBTQ, people [in their] community running for [Sheriff]. And this guy&#39;s running for election of District Attorney. Actually, he&#39;d be on his way over here [as well]. So, hopefully, you guys could consider him as well.
+
+**MC:**  Okay, thank you.
+
+**JR:**  Thank you.
+
+**MC:**  Um. Anyway.
+
+**JR:**  Um.
+
+**MC:**  Oh, sorry.
+
+**JR:**  No, I&#39;m good. Also, like the whole cheating thing in 201.
+
+**MC:**  Did that happen? Was that you?
+
+**JR:**  So, for me, I like had an assigned tutor from the Academic Resource Center because you can get it for like 101 and 201.
+
+**MC:**  Yeah.
+
+**JR:**  Um, and my friend Madison actually, like, also got a tutor and, coincidentally, we got assigned to the same person. So, we had like emailed the professor letting him know and we were like, &quot;We only get one hour a week.&quot; Like, &quot;Is it okay if we combined and like have two hours weekly?&quot; One hour is, literally, nothing.
+
+**MC:**  Yeah.
+
+**JR:**  Um. He was like, &quot;Yeah, sure, no problem.&quot; We&#39;re like, &quot;She&#39;s the same tutor.&quot; Like we explained to him, &quot;She seemed tutor, like we&#39;re going to be working together or whatever,&quot; and he&#39;s like, &quot;It&#39;s fine.&quot; And then, for like one set of our APTs, there came up with, like, similarities, but that&#39;s because like we were literally both there like working with the tutor and like she&#39;s not going to tell one person to do one way.
+
+**MC:**  Yeah.
+
+**JR:**  And the other to do it another way. Um, but like we still both did it separately. And so, we got in trouble and like it was a whole thing. It was so annoying. Madison ended up like dropping the class, dropping the major.
+
+**MC:**  Oh, well.
+
+**JR:**  But yeah, like we had to like go to the [Student Conduct] or whatever, but it ended up being fine. But it was just so frustrating because like we had asked for his permission and he was like, so--
+
+**MC:**  So, what happened at Student Conduct? Because this is also not the first time someone&#39;s talked about it.
+
+**JR:**  Really?
+
+**MC:**  Yeah.
+
+**JR:**  And it&#39;s just crazy because like-- again, it&#39;s kind of like the thing of like turning in an assignment, having not done anything, getting zero and like working 30 hours and getting a zero. Like, it wasn&#39;t like she, like, sent me her code and I was like, &quot;Okay, like submit.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  Like, it was also different, but like the system or whatever could tell that it was similar.
+
+**MC:**  So then, what-- what did student conduct do?
+
+**JR:**  Um, we had to write like a seven-- like I wrote like a seven-page, single space, like thing. So, it was like honestly crazy.
+
+**MC:**  Oh my god.
+
+**JR:**  We had to meet with--
+
+**MC:**  Wait, do you still have it?
+
+**JR:**  Probably, honestly. Yeah.
+
+**MC:**  Okay. If you find it, or if you don&#39;t care, I would-- That would be really interesting.
+
+**JR:**  Yeah.
+
+**MC:**  Because I think that they-- that&#39;s something they need to change.
+
+**JR:**  Because-- it definitely is like, I understand like-- But even like, I don&#39;t really understand their reasoning behind it because, like, never even in a job can you not go up to someone and be like, &quot;Yo.&quot; And they&#39;re like, &quot;No, sorry, can&#39;t talk.&quot; Like, you know? like, I don&#39;t know. I feel like collaboration helps, like, you learn more from other people because oftentimes, like, I feel like I&#39;ll learn more by having a friend explain something to me than like sitting in lecture.
+
+**MC:**  Yeah.
+
+**JR:**  So, if you&#39;re working with others, as long as-- I guess like there definitely is a fine line of like having people just send to each other and whatever, but I don&#39;t know.
+
+**MC:**  And so, like not-- I&#39;m going to write that down so I don&#39;t forget to ask you for it.
+
+**JR:**  Yeah, because--
+
+**MC:**  You wrote-- It was seven pages!?
+
+**JR:**  Something like that.
+
+**MC:**  Whoa.
+
+**JR:**  But yeah, it was crazy. It was on-- It was very scary.
+
+**MC:**  Like, because I--
+
+**JR:**  Because we could&#39;ve-- if it ended up poorly, like we could&#39;ve been on academic probation, like.
+
+**MC:**  So, I talked to someone who-- you want to know what&#39;s so funny, though? She got a tutor and that tutor happened to also be a tutor for an athlete and they turned in like very similar code and then she had to sign something that said like &quot;I cheated and if I do this again I will be suspended or expelled,&quot; or whatever.
+
+**JR:**  Even though she and the athlete never--
+
+**MC:**  Yeah, and then when she went to the professor--
+
+**JR:**  See? that&#39;s like--
+
+**JR:**  The professor was like, you&#39;re not allowed to have a tutor. And then she was like, &quot;That&#39;s so unfair. How come athletes can have tutors and I can&#39;t?&quot;
+
+**JR:**  Oh my-- Okay. I feel like in that case it&#39;s, honestly, no one&#39;s fault because the girl was meeting with her tutor. The tutor doesn&#39;t have two brains to, like, tell people different things like--
+
+**MC:**  Yeah.
+
+**JR:**  Like.
+
+**MC:**  But she-- she feels like it&#39;s unfair because she&#39;s like, &quot;I had to sign something that&#39;s on my record and said that I cheated when I don&#39;t feel like I cheated.&quot; And I was like, &quot;Yeah,&quot; like that&#39;s fair.
+
+**JR:**  Yeah!
+
+**MC:**  Like that makes it--
+
+**JR:**  I feel like they definitely need to do something about that. I don&#39;t know.
+
+**MC:**  And so, what-- so Madison, what happened with her?
+
+**JR:**  Um. So, I forgot what it was, but like-- I don&#39;t remember the details, but it was something like depending on-- And so, our meeting with the Dean of Student Conduct was, like, a day before leaving for spring break or winter break, or something like crazy like that. I know that-- It couldn&#39;t have been, I don&#39;t know. Around Thanksgiving. I don&#39;t know.
+
+**MC:**  Like Thanksgiving break, maybe?
+
+**JR:**  It was like some time like right before finals. And, um, so depending on the outcome of that, we would&#39;ve gotten zeros on, like, the things that we&#39;re like caught from and Madison was like &quot;I can&#39;t handle this, like if I get a zero, I-- like we&#39;re going to fail the class.&quot; So, she just dropped. But, yeah.
+
+**MC:**  And then she dropped the major because of that experience.
+
+**JR:**  Yeah. She was just like, &quot;I can&#39;t take-- like, it&#39;s like too stressful.&quot; Yeah.
+
+**MC:**  So then, what made you want to keep going?
+
+**JR:**  I don&#39;t know. So, that was kind of like my crisis, like during winter break I was debating if I wanted to continue with CompSci or not, but then I decided to just-- because I still did enjoy the subject.
+
+**MC:**  Yeah.
+
+**JR:**  And like I was interested in it. Um, and people also kept telling me like &quot;Pass 201, it gets better.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  So, like the classes are more focused on, like, actual people who are interested in-- in like, in the major.
+
+**MC:**  Yeah.
+
+**JR:**  I don&#39;t know. Which like, I do see but I also don&#39;t. I&#39;m like &quot;I don&#39;t know if that&#39;s right.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  But, yeah. So, I just decided to stick with it. And then, luckily, we didn&#39;t get zeroes, but--
+
+**MC:**  [Damn], that&#39;s--
+
+**JR:**  Yeah, it was crazy. And like there are so many people who&#39;ve gotten in trouble in 201.
+
+**MC:**  Yeah. What about your other friends? Because, honestly, I didn&#39;t really talk to that many people in 201\. I really just, like, tried to work by myself and it didn&#39;t really work that well for me, but like--
+
+**JR:**  I don&#39;t know. I haven&#39;t heard, like, specific people but I definitely know in my class, because he would tell us-- like 12 people.
+
+**MC:**  Which semester were? because I took 201 in my [freshman year] spring.
+
+**JR:**  Okay. Mine was sophomore fall.
+
+**MC:**  Okay, so, you were [in the other girls]?
+
+**JR:**  Oh, really? yeah.
+
+**MC:**  Because my year, what happened was, um, he just said, &quot;If you cheated you, need to come forward.&quot; But, apparently, you are-- you&#39;re like-- he actually, like, called. Like, she-- he-- he was like, &quot;No.&quot; like &quot;It was you guys.&quot;
+
+**JR:**  Mhm.
+
+**MC:**  Okay, interesting.
+
+**JR:**  Yeah, because, I guess, they have that thing, whatever, the software to like compare. Um, but yeah, he like-- and he would also say like, for this APT set like, 12 people got caught, which I feel like it&#39;s kind of inappropriate. Like, you don&#39;t need to be telling-- like, I don&#39;t know.
+
+**MC:**  You didn&#39;t even [inaudible].
+
+**JR:**  I guess he didn&#39;t say the names, but like you don&#39;t need to be letting us know that, like-- because, it was like very emotionally, like--
+
+**MC:**  Draining.
+
+**JR:**  Yeah.
+
+**MC:**  Yeah.
+
+**JR:**  I don&#39;t know. Like people don&#39;t want other people to know that they&#39;re, like, going through-- I don&#39;t know.
+
+**MC:**  Yeah. Interesting.
+
+**JR:**  Mhm.
+
+**MC:**  Um, and then I guess so, sort of a last question, and anything, anything you can talk about anything here but what does the CS department do better? or, is there anything you wish was different?
+
+**JR:**  Um, I feel like, I mean, I feel like these things are, like, hard to identify exactly what needs to be done but, maybe, like-- I don&#39;t know. I&#39;m trying to think now. Like, I feel like for example in 310 they did have-- I don&#39;t know how yours was structured but, like, we had like quizzes at the end of each day. No?
+
+**MC:**  No, [inaudible].
+
+**JR:**  But they were more like, just like concepts, like a bullet line from the power point. Like, &quot;What does this do?&quot; Or like, &quot;What&#39;s a thread?&quot; I don&#39;t know. Um, but I&#39;m-- now that I&#39;m thinking about it maybe, instead of like tests, like I feel like checks like throughout the semester would be better. I don&#39;t know.
+
+**MC:**  Um, yeah.
+
+**JR:**  Because I feel like I ended up always just cramming for a test or, like, um, realizing I didn&#39;t know anything.
+
+**MC:**  Yeah.
+
+**JR:**  Like something to, like, make sure everyone&#39;s kind of like on the same page throughout the semester.
+
+**MC:**  Yeah.
+
+**JR:**  I feel like it would be really helpful.
+
+**MC:**  It&#39;d be helpful.
+
+**JR:**  I don&#39;t know. Does that make sense? Yeah, that makes sense. Um.
+
+**MC:**  Or like, what could they have done to, like, make you want to do [ECE]? After.
+
+**JR:**  Yeah, I don&#39;t know. Like, I don&#39;t know.
+
+**MC:**  Like I wish, sometimes, like they had things that, like, specifically prepared us, like for interview.
+
+**JR:**  Mhm.
+
+**MC:**  Also, just honest-- like, did you ever have any shitty experiences in CS? like, I know that&#39;s a very-- like, for example--
+
+**JR:**  Like what?
+
+**MC:**  Like in my 308 group.
+
+**JR:**  Mhm.
+
+**MC:**  And this is a super extreme version, but.
+
+**JR:**  Oh, god.
+
+**MC:**  I worked with this guy who was older than me and he used to delete my code off of GitHub and, like, force push over me so that, like my-- my commit is, like, as if like they just, like, didn&#39;t exist.
+
+**JR:**  Were in there. Oh my!
+
+**MC:**  Yeah. And then like, he told me that I was, like, a huge waste of his time and, then, I asked him a question once-- uh, by the way I was a sophomore.
+
+**JR:**  Oh my!
+
+**MC:**  [Out of] 201, which, granted--
+
+**JR:**  You were a sophomore in 308!?
+
+**MC:**  Yeah and, like granted, I shouldn&#39;t have taken it then. Like that was kind of dumb of me, but I was just like--
+
+**JR:**  But, still!
+
+**MC:**  But like--
+
+**JR:**  But like you should be able to know, you know?
+
+**MC:**  Yeah. And he-- I asked him a question, he was like, &quot;I just want you to know I have so many other more important things to be doing and answering your questions right now.&quot; And then he was like, &quot;I know what good design is. You clearly have no idea.&quot; Like--
+
+**JR:**  Oh my god!
+
+**MC:**  And he would say all this stuff to me and he would just make me feel like really stupid.
+
+**MC:**  So stupid. No, yeah. That&#39;s so bad.
+
+**MC:**  And so, I honestly think that that&#39;s why I was like, &quot;I can never contribute effectively in a team because of this.&quot; Like, I don&#39;t know.
+
+**JR:**  That&#39;s so bad. Did you end up, like, say any-- like to anyone?
+
+**MC:**  So, I-- you know what, though? I told [Duvall].
+
+**JR:**  Mhm.
+
+**MC:**  But not as extreme as--
+
+**JR:**  It actually was.
+
+**MC:**  It actually was.
+
+**MC:**  I was just like, &quot;Yeah, like I&#39;m having a really hard time working with this guy. He&#39;s like kind of condescending&quot; and he was like, &quot;Well, that&#39;s just how groups are, like that&#39;s how teamwork is. Like, you&#39;re going to have to learn to work with people.&quot; And I was like, &quot;I mean, I&#39;m trying! he&#39;s deleting my code.&quot; Like, I get-- it&#39;s really hard to work with someone--
+
+**JR:**  Who&#39;s like, not [inaudible].
+
+**MC:**  And they&#39;re not acknowledging, like, your-- any of your contributions.
+
+**JR:**  Mhm.
+
+**MC:**  Um, so yeah. That was, like, pretty shitty actually.
+
+**JR:**  That&#39;s so bad.
+
+**MC:**  Yeah. And--
+
+**JR:**  I feel like I haven&#39;t had, like, extreme--
+
+**MC:**  Experiences, yeah.
+
+**JR:**  Experiences like that, yeah. I don&#39;t know. Like--
+
+**MC:**  Why do you think-- Because at the beginning I was like, &quot;I feel like I&#39;m leaving more, super-- like dumb.&quot; Like, why do you feel like that?
+
+**JR:**  That, like?
+
+**MC:**  Like you&#39;re, like, leaving and feeling more dumb.
+
+**JR:**  Um.
+
+**MC:**  Or like feeling less confident in your abilities.
+
+**JR:**  Mhm. I don&#39;t know. Like, I don&#39;t know. I don&#39;t know.
+
+**MC:**  [Don&#39;t you think] it&#39;s just, like CS, like continually beats you?
+
+**JR:**  Yeah! like, there&#39;s like no stopping.
+
+**MC:**  Yeah.
+
+**JR:**  Because like, this semester I felt so free. Like, I don&#39;t know. I don&#39;t know if it&#39;s that. I don&#39;t know. It&#39;s, like, hard to say.
+
+**MC:**  Yeah.
+
+**JR:**  Because it&#39;s definitely like a feeling that I have. I just don&#39;t know--
+
+**MC:**  I totally get that.
+
+**JR:**  Like what specifically it&#39;s from, but-- yeah. I don&#39;t know.
+
+**MC:**  I just-- and like, is there anything you want the CS department to hear? or, like--
+
+**JR:**  Um.
+
+**MC:**  To say to [inaudible] or, like, anyone in the department?
+
+**JR:**  Mhm.
+
+**MC:**  Clearly, this girl was like, &quot;They should fucking fire Forbes.&quot; I was like, &quot;Well, maybe not.&quot; that may be a little extreme.
+
+**JR:**  Um, let&#39;s see. I feel like-- I don&#39;t know. I think for me, like, the collaboration thing in 201 specifically or, like, honestly in all CS classes.
+
+**MC:**  Wouldn&#39;t been--
+
+**JR:**  [It] was like the big thing for me. Yeah.
+
+**MC:**  Yeah.
+
+**JR:**  Just because, like, I feel like collaborating isn&#39;t synonymous with cheating.
+
+**MC:**  Yeah.
+
+**JR:**  And like, I feel like they kind of value those as the same thing.
+
+**MC:**  Yeah.
+
+**JR:**  Um, and I feel like they should more take on-- like as you were saying, like in the workplace you&#39;re never going to be able-- you&#39;re never not going to be able to, like, ask people for help.
+
+**MC:**  Yeah.
+
+**JR:**  Um, so I think that&#39;s like a big thing. I&#39;m trying to think. I don&#39;t know. I really liked [Soren]. I don&#39;t know if he teaches anything else, though. [Inaudible] if he didn&#39;t still teach like--
+
+**MC:**  He was just-- like, he just thought like he was funny, and--
+
+**JR:**  Yeah. Or just like, I thought he made it more, like-- made the subject more, like, relatable to--
+
+**MC:**  To people.
+
+**JR:**  Rather than just, like, talking about boring stuff. And like, you could tell that he was passionate about it.
+
+**MC:**  Yeah.
+
+**JR:**  Whereas like [inaudible], for 330, would like speak to the whiteboard and then, like, just like write things and, like, I didn&#39;t know what was happening.
+
+**MC:**  Yeah.
+
+**JR:**  But like, I think if they, like, make it more like engaging and, like kind of what you were saying, like applicable to interviews.
+
+**MC:**  Yeah.
+
+**JR:**  And like, &quot;When you&#39;re going to need to know this.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  That&#39;s more helpful or else you&#39;re just like, &quot;What is this?&quot;
+
+**MC:**  Do you ever feel like-- sorry, last question.
+
+**JR:**  Mhm.
+
+**MC:**  Do you ever feel like the department is, like, a little archaic in any way?
+
+**JR:**  Yeah.
+
+**MC:**  Okay.
+
+**JR:**  I don&#39;t know--
+
+**MC:**  Like their websites.
+
+**JR:**  Yeah! like, I don&#39;t-- also, advising. The advisors could be--
+
+**MC:**  Uhu.
+
+**JR:**  Like, much better.
+
+**MC:**  Who is your advisor?
+
+**JR:**  Uh, [Roger].
+
+**MC:**  Roger? Okay. I have [inaudible] and he, literally, gives us five minutes of talk to talk to him.
+
+**JR:**  That&#39;s-- Yeah.
+
+**MC:**  [Well, she] does too.
+
+**JR:**  Yeah. It&#39;s-- I don&#39;t know. I feel like I wish there were more. Maybe if they [don&#39;t] have time to have, like, better-- like written descriptions of each class. So, you know what to take. Like-- like, &quot;People who have taken this normally take, like, this before.&quot;
+
+**MC:**  Yeah.
+
+**JR:**  Like-- because, I mean I guess, we can find that out by just asking people but it would be nice to have like actual substantial information.
+
+**MC:**  Substantial information, Yeah.
+
+**JR:**  Yeah.
+
+**MC:**  I agree.
+
+**JR:**  I don&#39;t know. I also wish that, like, there were-- I don&#39;t know if this is, like, too much too personal of a preference, but like I feel like there was no-- even people who would say like &quot;Easy electives,&quot; like they were still, like, not-- I don&#39;t know.
+
+**MC:**  Easy?
+
+**JR:**  Yeah. But like, I wish there were something in between like CompSci [94], like something like--
+
+**MC:**  Yeah.
+
+**JR:**  That you know majors would take and then, like, AI. Like, I don&#39;t know.
+
+**MC:**  Yeah.
+
+**JR:**  Just like more doable electives.
+
+**MC:**  Yeah.
+
+**JR:**  And, also, ones that are like more applicable to what we&#39;ll be doing outside of Duke. I don&#39;t know.
+
+**MC:**  Yeah. Definitely.
+
+**JR:**  Yeah. I know.
+
+**MC:**  Well, I will-- okay, so. I&#39;m gonna stop the recording.
+
+**JR:**  Oh, yeah.
+
+**MC:**  But thank you. That was just super helpful.
 
 </p>
 </details>
