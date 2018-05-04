@@ -5563,17 +5563,600 @@ Sarah: I don&#39;t know if this the-- we&#39;ll talk about [when you&#39;re done
 </p>
 </details>
 
-<details><summary>Interviewee - ? </summary>
+<details><summary>Interviewee - LM </summary>
+<p>
+
+Lucia Martos:If I&#39;m, if I like, say a sentence not very well grammatically and you&#39;re [gonna] quote me, like, just please like make it sound so I&#39;m not a retard.
+
+**Michelle Chen:** Um, yeah.
+
+Lucia Martos:I&#39;m not-- I&#39;m not gonna have any filter, again. I&#39;m just going to like-- I&#39;m saying like, I&#39;m not going to think of like very deeply of-- In the sense like I&#39;m going to like trim my words. I&#39;m going to say exactly-- If something it&#39;s like not appropriate to word. If I say like swear words and stuff like, because I don&#39;t want you to expect from me now-- in the spot would like-- Ok. Yeah, anyways. Ask me?
+
+**Michelle Chen:** So, the first question is 308, 310 and 330. Which of these have you taken?
+
+Lucia Martos:All.
+
+**Michelle Chen:** All of them? And then, in what order?
+
+Lucia Martos:308, 330 and then 310.
+
+**Michelle Chen:** Okay. Um, and did you have any CS education prior to Duke?
+
+Lucia Martos:No. Dude, I literally had never, like, seen a line of code. I thought coding was like making websites on Frezit.
+
+**Michelle Chen:** Yeah. So, then how did you, like, get into CS? How did you find your way there?
+
+Lucia Martos:So, in high school I made, like for my personal project, I made a website using what I felt was coding, but it was literally just like WordPress-kind of software, and I really liked it. And I was like, &quot;Huh. I love math.&quot; So, I was like, &quot;Ok, I guess I&#39;ll do computer science.&quot; I just [got] to think to Duke, like the ECE CompSci major, kind of like decided and I really didn&#39;t think about it that much because I enjoyed my classes. It was like 201 was probably the hardest class I&#39;ve taken. Like the hardest time I had at Duke. It was also because I was doing it with Forbes and he sucks as a teacher. Don&#39;t quote me on that, but he&#39;s such a bad teacher.
+
+**Michelle Chen:** Wait. Why?
+
+**LM:** Forbes. Do you know him?
+
+**Michelle Chen:** I-- I don&#39;t know him. I know who he is. I&#39;ve never taken a class with though.
+
+**LM:** Jeffrey Forbes. Like, literally, it was so difficult. Like, he&#39;s a very, very bad professor. And it was so hard to grasp the concepts and I literally just felt like there was like such a mix, because as an engineer you don&#39;t have to take [inaudible] 101.
+
+**Michelle Chen:** Yeah.
+
+**LM:** So, it was my first ever [inaudible] class was [inaudible] 202--
+
+**Michelle Chen:** Oh.
+
+**LM:** 201, sorry. And I was hearing all these concepts that everybody around me seemed to know and understand from before, like I literally had no idea about anything. Like, no data structures, no nothing.
+
+**Michelle Chen:** Yeah.
+
+**LM:** So, it was like very much of, like, a combination of a terrible teacher and like being with [others] that were very experienced in it. [It] was just kind of like very difficult. And that since I wish, kind of like, there was some kind of course, even if it&#39;s a half credit, for people that are ECE CompSci and having taken [2-- 101]
+
+**Michelle Chen:** Yeah.
+
+**LM:** That, because one of the three, which is you don&#39;t want to feel [it was supposed to be a] substitute for it really does not prepare you at all. It&#39;s like two months of lines, like, it had nothing to do with coding. Just some classes are taught by good teachers. It&#39;s like known to be good.
+
+**Michelle Chen:** Yeah.
+
+**LM:** That would just teach you the basic data structures, the basic things or give you some kind of basic tools to know where to start.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, so that was my-- Yeah. So that was my experience. Like 201, terrible. Like, I literally was doubting if I should be a major at all. Um, and then-- but after I got over it and the rest, like 308, 310, 330 have been like-- I&#39;ve done really well in all of them. Like they were much easier once I actually had the foundation of it. Of 201.
+
+**Michelle Chen:** So, how did you get that foundation, like if you didn&#39;t feel you got it in 201?
+
+**LM:** I got it in 308.
+
+**Michelle Chen:** In 308? Okay. And I&#39;ll ask you more about that later.
+
+**LM:** Yeah.
+
+**Michelle Chen:** Did your family ever encouraged you to study CS? Like, your parents--
+
+**LM:** Never.
+
+**Michelle Chen:** Really?
+
+**LM:** Dude. They have no idea of CS. Like zero. I mean, my dad was like in the-- He has always been in the internet industry but, like, he doesn&#39;t do software. He&#39;s like--
+
+**Michelle Chen:** So, he wasn&#39;t like-- they weren&#39;t like &quot;You need to study CS.&quot; It was just you wanted to do it.
+
+**LM:** Yeah. It was completely me. My older brother started industrial engineering. Like, nothing to do with CS.
+
+**Michelle Chen:** Okay.
+
+**LM:** None of my family [inaudible] knew in CS.
+
+**Michelle Chen:** And who you surround yourself with in your classes and group work in CS?
+
+**LM:** Um. I think mostly friends, just people that I get along with because I&#39;ve realized that working in groups with people that you don&#39;t like, it&#39;s like shitty and annoying, especially if you have to spend a of time with them. So, mostly I just surround myself with, like, people that I know I enjoy my time with and also people that are smart and I know are good, like, workers, that they will be committed and like we&#39;ll get the stuff done.
+
+**Michelle Chen:** Yeah. And how do you know these people? Just like how did you meet them?
+
+**LM:** They&#39;re mostly people-- they&#39;re mostly people that I&#39;ve, like, had previous classes with.
+
+**Michelle Chen:** Okay.
+
+**LM:** So, I guess freshman year was like slightly different because I didn&#39;t really, like, know that much who I was doing it with.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Uh, But now, whenever I&#39;m going to groups like, I know-- So, like for-- for ECE, 458 which just crosses over with CompSci is by far harder than 308, 310, 330 put together. Um. I don&#39;t know if he&#39;s interested in this class but it&#39;s [literally] insane. And, for that class, like, I like-- we picked a team that we knew everyone, that, was very smart, was like a [inaudible] [gun] and like-- um, yeah. And it was all like very people [hard-working]. And then, my other class this semester [is] like CompSci as well. I just went with my friend Alex. We&#39;ve had every class [ever] since freshman year. So, I don&#39;t really like branch out and try make-- like I don&#39;t really experiment when it comes to teams, if you know what I mean.
+
+**LM:** Like I will go to like friends of friends that I know or are like [known] to be smart and good workers, or nice.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Or I would just say friends.
+
+**Michelle Chen:** Yeah. So, you think you chose-- like, why do you think you&#39;ve chosen those people? Just because they&#39;re your friends and you know that they&#39;re smart? okay?
+
+**LM:** Smart, like work ethic, trust. Like I can trust them to be committed and do the work, and just a nice person to work with. Like friendly and, like, make me feel-- They make me feel comfortable and like I&#39;m happy with them.
+
+**Michelle Chen:** Yeah. So, I guess, going off of that though, like have you ever worked with someone who is very smart but doesn&#39;t make me feel comfortable or like makes you feel dumb?
+
+**LM:**         Yeah. Um, yeah. I mean this semester, definitely in 458, I felt really, like super, super insecure for a long time, um, because I was with, like, three guys that were insane. Particularly two like [inaudible] and [inaudible]. Like they knew-- they had miles and miles, and miles more experience than I did in CompSci. And they knew every [stack] and knew in every language, and knew like every-- like, every framework and I knew nothing. Absolutely, from the first day I was just like, &quot;Oh well, [I guess] you know.&quot; And I was like, &quot;Oh, Java.&quot; And they were like, &quot;Oh, I literally know everything.&quot; And like, starting JavaScript, like I didn&#39;t know JavaScript at all. And they knew, they&#39;ve been working with it before and it was like very-- Like I kind of like set myself up in like opposition of like knowing less.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Which is I did know less, and that kind of propagated into later that I felt like I was less, like less than an asset to the team than other people.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, that. That-- that has honestly been the only class in which I&#39;ve really felt, like really, really felt that kind of-- as different from my teammates because 308 and 330, and 310 like, I feel like everyone has like similar-ish level.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And it wasn&#39;t with people that were literally insane. Like [inaudible] and [inaudible] were fucking wild. Like they knew-- like they&#39;re the-- two of smartest people I&#39;ve ever met. And it, like, definitely made me feel like very, like, separate [from them].
+
+**Michelle Chen:** Yeah, I--
+
+**LM:** In 308 I was like the normal students, in like we were all kind of like learning together.
+
+**Michelle Chen:** So how have you dealt with-- Like do you feel better about it now, like, or how did you deal with it?
+
+**LM:** Obviously I learned, a lot, and I got better. Also, kind of like talking to your teammates, I mean like, like what are the expectations of the group, like-- and me just like being more vulnerable and just like telling them how it felt. Like they knew that I was-- like they kind of-- they understood like the position I was in and also like, yeah, so kind of just like talking to them and then getting more comfortable with them as people helped me to, like, also see that they&#39;re valuing the team and they value my opinion, even though I might not produce as much outcomes [as] they did.
+
+**Michelle Chen:** Yeah.
+
+**LM:** I still, like, feel a little bit iffy about it, but we all got along so well in the group that I-- I feel better about it now. Because of--
+
+**Michelle Chen:** Okay, yeah.
+
+**LM:** I don&#39;t know if that makes sense.
+
+**Michelle Chen:** Sort of shifting gears. Do you think your experience in the CS major has been different than most males students&#39; experience? and, if so, how?
+
+**LM:** Honestly, not necessarily. Like in-- No, no. I think a lot of like-- I&#39;ve seen guys and girls struggle through classes.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And I&#39;ve done-- like, I&#39;ve-- I&#39;ve always been like pretty top of the class in every class I&#39;ve done. Like I&#39;ve gotten-- I&#39;ve gotten A&#39;s in, like, all the 200 level classes and like, I mean, 201 no. 201 I got a B. But, like, I haven&#39;t really felt like I was like worse than anyone or that I couldn&#39;t say what I wanted because I, like-- I guess the grades gave me the confidence that I needed to, like, be able to kind of-- like it gave me kind of like a backup. I can imagine that if I was getting shitty grades and that I was a girl, then I would feel like extra kind of, like, insecure.
+
+**Michelle Chen:** Yeah.
+
+**LM:** But, um-- but I guess if you&#39;re-- if I-- because I&#39;m like-- my personality is very much like I don&#39;t give that many fucks about--
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, about what people think. So, no, I don&#39;t think it&#39;s been different. I think. I mean, no.
+
+**Michelle Chen:** That&#39;s, that&#39;s good. That&#39;s like really good. What about in, like, industry? Have you felt like your experience there is different?
+
+**LM:** Oh wait, actually wait-- The one thing, I don&#39;t know if this is ECE CompSci. For ECE I do think that there&#39;s a slight--
+
+**Michelle Chen:** Yeah, no. Yeah.
+
+**LM:** When it comes to hardware, like a slight different [me], a girl and a guy. In the sense that like I feel like girls-- like they just expect you to like not be so good at hardware. I didn&#39;t even know it. Like, more than CompSci, like hardware. Like ECE, like really hardware.
+
+**Michelle Chen:** Really?
+
+**LM:** Yeah. I just felt that it&#39;s like very much like, &quot;Oh, like, don&#39;t worry, I can do this for you.&quot; I can use a hardware, thank you very much. But yeah. Sorry, what was it? The industry? Um. I mean I have this, like, feeling like now going into Google, I&#39;ve had these repeatedly [thing] and I&#39;m like, &quot;Oh. Like the only reason I got this job is because I&#39;m a girl.&quot; Like any guy with my skillset would not have gotten this job, which I think it&#39;s like-- I&#39;m pretty sure it&#39;s like--
+
+**Michelle Chen:** It&#39;s not true.
+
+**LM:**         No. It&#39;s true.
+
+**Michelle Chen:** Do you think it&#39;s true?
+
+**LM:**         Oh yeah. Yeah.
+
+**Michelle Chen:** Really.
+
+**LM:** Yeah, yeah.
+
+**Michelle Chen:** Why? What makes you think that? you think they don&#39;t have--
+
+**LM:** Because they have-- they have less women than men and the number of women that applies is less than the number of men and they&#39;re trying to balance it out. So, like, they&#39;re going to take, percentage wise, like statistically, they&#39;re taking more girls and, like, they&#39;re trying--
+
+**Michelle Chen:** But that doesn&#39;t make you less qualified. Do you know what I mean?
+
+**LM:** It doesn&#39;t make me less qualified, but a guy with my skillset, I don&#39;t think would have gotten the offer. Like, I mean.
+
+**Michelle Chen:** Um, okay.
+
+**LM:** I don&#39;t think it&#39;s necessarily bad because they do need girls and like I think I-- I give a different-- like being a woman, I&#39;m like with my experiences--
+
+**Michelle Chen:** Yeah.
+
+**LM:** I&#39;m sure I&#39;m going to do a good job, but I don&#39;t think someone with, like, with my le-- because I don&#39;t-- my technical abilities are not up to par to what like people that are going to Google from, like, undergrad in software are fucking wild.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like I&#39;m not like that, like I&#39;m-- I&#39;m much more varied and that they&#39;re [kind of] giving me a benefit of the doubt and I&#39;m, like, I&#39;m sure I&#39;m going to do well.
+
+**Michelle Chen:** Yeah.
+
+**LM:** But I don&#39;t think they would&#39;ve given me the benefit of the doubt if I was a guy, you know what I&#39;m saying?
+
+**Michelle Chen:** So, like what was your interview process like, though? Well, did you feel like you did well there?
+
+**LM:** Yeah, yeah. I think that I did well and I connected with people, and like I did it well in all the questions. Yeah.
+
+**Michelle Chen:** So, then?
+
+**LM:** Yeah, but I told--
+
+**Michelle Chen:** You know what I mean, though? It&#39;s like--
+
+**LM:** Yeah.
+
+**Michelle Chen:** If you pass the interviews, I don&#39;t know. But that&#39;s interesting, so you don&#39;t think that you would have gotten the job if you were a guy. And then, how does it make you feel? Like does it make you feel guilty? Do you feel--
+
+**LM:** It doesn&#39;t make me feel guilty. It just makes me a bit nervous because I feel like I don&#39;t want to re-shadow the experience that I had this semester in 458 where I feel like I&#39;m-- like I&#39;m--
+
+**Michelle Chen:** The dumb, yeah.
+
+**LM:** I&#39;m the dumb one of the group. Like, I&#39;m scared of that feeling but since then I&#39;m like-- I kind of like learned from the semester and then I come in, and I know the first thing I&#39;m going to do is just like spend like a few months just learning, literally, every technology out there and just have a very good understanding of, like, high level what everything is.
+
+**Michelle Chen:** Yeah.
+
+**LM:** To at least have like-- to be able to talk and to be able to--
+
+**Michelle Chen:** Yeah.
+
+**LM:** At least, you know, like--
+
+**Michelle Chen:** Yeah, yeah. Yeah.
+
+**LM:** The &quot;Fake it &#39;til to make it.&quot; At least seem like I know what I&#39;m doing, not like I&#39;ve come this semester, like literally not knowing anything.
+
+**Michelle Chen:** Yeah
+
+**LM:** So.
+
+**Michelle Chen:** Interesting. Um, then, I guess in what ways has your gender impacted your experience as a CS major? Or has it?
+
+**LM:** Um. I don&#39;t think it has. I don&#39;t think it has.
+
+**Michelle Chen:** So, like when you felt like-- when you were working in that group and you were like, &quot;Oh, I feel like the dumbest one here.&quot;
+
+**LM:** Yeah.
+
+**Michelle Chen:** Were you every like-- Did it ever bother you that it was a group of, like, you and three guys? Or was it just like--
+
+**LM:** Um, I mean, the reason why it bothered me most because it&#39;s like I feel like as a girl, I need to show and prove that I&#39;m like not-- like I&#39;m competent. So that bothers me because I&#39;m like, I&#39;m fitting a stereotype. Like, by being the shitty one of the group, I&#39;m like-- you know? so that, that&#39;s the thing that gets me most, like, worked up. But I didn&#39;t feel that it was because I was a woman that I was the worst one of the team, it was just like, literally, like factually, like if we&#39;re gonna, I mean-- There&#39;s like the two insane dudes and then there was like the other [inaudible], I mean, obviously don&#39;t quote this, like [inaudible] and me, we were like the more-- like we were the more normal humans. And, I guess, our level was like-- our level was similar.
+
+**Michelle Chen:** Does he feel the same way though as you do?
+
+**LM:** He-- I think he does have feel-- like a feeling as well he, like, collaborates and [does] stuff. So, I think us both are like-- It&#39;s like just two tiers I guess. I don&#39;t know how he feels like with him compared to me, but I&#39;ve also been taking ECE 350 this semester which is super, like, workload intensive. So, I&#39;ve also not been able to put that many hours as they might have necessarily because they were all [part-timing]. Except Tom, he was taking six classes, which is wild. But, um. But, yeah and also like, yeah, I don&#39;t know. And even like in the industry, it was like last summer when I was actually working, the other intern I was working with, which was a guy, he was useless. So, like, I felt like I literally did not feel that at all. Like I was definitely the one that was like in power the whole summer with [our] project. And, I mean, my team was like, there were 10 people, there was two girls and eight guys and, also, like they were all super nice. I think the manager was a bit condescending to me, but like, it&#39;s fine. It was just like this, like, White-- like, it was like the only White dude on the team and like the rest of them are all Indian people and I think I-- generally like, Americans are much more-- kind of like, like in India they have so many [software] developers that are women that I think they are much more used to it. Whereas like this, like this other dude, like he-- it was much more clear that he noticed if that there was a woman than the other-- in the [inaudible], but because he was the only white person on the team, like he wasn&#39;t like a big deal.
+
+**Michelle Chen:** Yeah. Um, does-- okay, so, last question about gender, but does gender influence how you see teammates?
+
+**LM:** Um. This is kind of like messed up but I definitely feel that one, it&#39;s like a girl, as [in] coding, I feel like I given a much harder time. Like I also feel like I&#39;m sexist towards girls, which is kind of like really fucked up. Like I&#39;m barely in-- Like I&#39;m barely in groups of girls, ever. Like I&#39;m always with guys.
+
+**Michelle Chen:** By choice?
+
+**LM:** By choice.
+
+**Michelle Chen:** Okay.
+
+**LM:** And even when I&#39;m with girls, I&#39;m like constantly trying to see like-- like watching out for when they&#39;re going to mess up to be like, &quot;Oh,&quot; you know? so, I guess it&#39;s really, it&#39;s really strange. I don&#39;t know why it happens but I definitely fall under the same fallacy that guys do in the sense that you&#39;re like-- Because you see that there&#39;s like this impression that girls do worse, which is true, I mean, in teams like in software-- I mean, it&#39;s true. Okay, let me correct this. Like in upper level CompSci classes there are less girls.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And a lot-- because I&#39;m constantly looking out for girls being shitty, I feel like I see them more and it can be for many reasons. It can be like an impression of the team, but the impression to me is that girls are, like, less devoted or less like-- less like the typical, like, CompSci; If you think of an insane, like, CompSci person, probably you&#39;re going to be thinking of a guy, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like even if [you] totally think of the top five, they&#39;re probably to be guys. Having said that, I mean I no-- I, like I don&#39;t know why. I don&#39;t know why that is. Maybe because there&#39;s less girls and, like, the girls that are on a team, they don&#39;t even feel like they can put themselves as a leader. I don&#39;t know. I&#39;m not sure, but I definitely feel like that that&#39;s like a really vague, vague answer that I&#39;m giving you. I thought about it quite a lot and I don&#39;t really-- I haven&#39;t really reached any conclusion about it but, I don&#39;t know.
+
+**Michelle Chen:** Why do you think you&#39;d look for [inaudible] in girls [as a group]? Have you always, since like 201, or is just recently developed?
+
+**LM:** I think it&#39;s because of, like, the expectation that you look more for it, you know? and also like, this is like really messed up, you should definitely tell [Astrid] on this, after 201, I remember they gave us a survey to, like, see like how-- Like the classroom environment and every single question was phrased in such a way that you would say that girls were less-- like [up to something]. It was like, &quot;Oh, would you trust a girl to do like this?&quot; [and this is how it was written] &quot;Would trust a girl more than a guy? Would you trust a guy more than I girl?&quot; like it was so clearly trying to get you to like, to say something. Like it was so messed up and I was so angry doing it because it literally like, you know, that words are powerful and it depends on how you phrase your question, you&#39;re going to say one thing or another?
+
+**Michelle Chen:** Yeah, yeah.
+
+**LM:** It was phrased in such a way that I was like, &quot;What the hell?&quot; Like I ended up answering all these questions being sexist towards girls, and that was like really weird.
+
+**Michelle Chen:** And do you think that impacted how you viewed them later? Or did you think that you were--
+
+**LM:** Yeah, no. I don&#39;t know. I don&#39;t know where. I think it&#39;s definitely since coming to Duke, like I didn&#39;t have this kind of like sexist mentality at all, and the thing is that it&#39;s like, now that I think about is like definitely like-- I think it&#39;s because the girls that I do know in CompSci always, like, leave it, you know? like if I think of girls in CompSci that I know now, there&#39;s not that many of them at all.
+
+**Michelle Chen:** Yeah.
+
+**LM:** But they-- Like, actually thinking about the ones that I&#39;ve worked with have all been really good. So, yeah, I guess it&#39;s just my fucked-up mentality, but even in [ECE] 350, like the [teams] are girls are literally like way better than the guys&#39;, like way better, without a doubt. Like yeah. So, I think it&#39;s because of that-- I think is because, in my view, because of the-- because they all back out, there&#39;s like this sense of like failure or like, I don&#39;t know, failure. Like you know, the typical like you see the girls are not fully committed or they&#39;re not-- they&#39;re not really, not sure like they&#39;re going to [see in] the major and that makes them be less committed and less hard-working and, like, it makes them seem like, yeah, like not really, like, into the [course]. That might-- that actually might be why. Because I&#39;ve seen so many girls that grew up out of it or not take it seriously and be doing and it&#39;s kind of like a--
+
+**Michelle Chen:** Yeah, yeah.
+
+**LM:** A passing thing.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Yeah, that might. Yeah.
+
+**Michelle Chen:** Do you feel-
+
+**LM:** I may be part of it.
+
+**Michelle Chen:** Do you feel like a burden to sort of be the opposite of that? And like break that stereotype?
+
+**LM:** What do you mean a burden?
+
+**Michelle Chen:** Like do you feel like it&#39;s on you sort of to like--
+
+**LM:** Um. Yeah, I mean, like I was before, like I, I definitely feel like I&#39;m-- like I love-- I actually don&#39;t-- like I kind of like it for me. I just-- It&#39;s really nice to be, like to be a minority in CompSci because I feel like I have power to change that, you know what I mean? I have like, yeah, like I just feel like I can-- like I put it on myself like a thing that I have to do. It&#39;s like, I have to do well so like people, you know, so people like take us seriously.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And I&#39;m like very, like I become very dispensable and people say comments like I&#39;m like, &quot;Excuse me, bitch?&quot; [Like] I will call people out. I definitely feel some of that responsibility.
+
+**Michelle Chen:** Yeah. To help. Sort of change that. Interesting. Um, so switching gears, how do you think your race or socioeconomic status or other identity factors besides gender have impacted your CS experience? Or has it, or [have been]?
+
+**LM:** Um. I don&#39;t would-- I would probably say like CS experience, particularly, um, but I think generally just like the fact that I have an accent. That communication like [mindsets] about, like last summer, the [comment] I would get. Like my manager, this White dude I&#39;m telling you, he would like tell me about like how I&#39;m bad at communicating and how I&#39;m bad like that, which is fine. Like I&#39;m-- I&#39;m very, like, willing to just take feedback on, but like, the feedback that he always gave me repeatedly was just like, like it was because of like my-- my way of speaking, my way of communicating, my way-- with my accent. Like, I guess. Like he just didn&#39;t feel like I communicated or like when I was communicating a concept he didn&#39;t quite understand and that that I think is like a way of-- which my brain, like which I put-- like which I make sentences up or the way that I communicate in English or Spanish or whatever language may be. I mean I don&#39;t, like I-- obviously I haven&#39;t done CompSci in Spanish, so I have no idea. But um, that was definitely like something that was-- that I was told about. And, just generally, like presentation skills&#39; communication, it&#39;s that thing that I&#39;m working on. Um. So, yeah. I don&#39;t know if like CompSci, like I&#39;ve felt any kind of-- No, not really. Not really. No. Apart from that, no other--
+
+**Michelle Chen:** Okay. Do you feel as if there&#39;s a community in which you&#39;re welcome in the Duke CS department?
+
+**LM:** Um. I don&#39;t know if I&#39;d say that I feel Duke CS is a community, honestly. Um, I&#39;m not [a part] of the community. Something I really like is the list of like emails that are being sent lately. Like I&#39;ve gone to a bunch of these talks that they&#39;ve done by like very notable professors or something that are very cool. And I like them because it makes you feel like you&#39;re part of, like, some kind of like--
+
+**Michelle Chen:** Yeah.
+
+**LM:** CompSci community. Um, but I&#39;ve never really thought because I&#39;m ECE CompSci, so I&#39;ve always thought of like my affiliation to [Pratt] or to like the ECE department more than the CompSci department. Like, I don&#39;t even know what the CompSci community would look like. I guess because there&#39;s a very big mess between like Pratt, non-Pratt. And like, I don&#39;t-- I don&#39;t think that they really-- Like I don&#39;t know what you&#39;ve-- what-- what-- Do you see the CompSci community or not?
+
+**Michelle Chen:** No, that&#39;s why I&#39;m asking because I don&#39;t think there&#39;s a community either. Um, but do you feel like there&#39;s a community for you within ECE?
+
+**LM:** Yeah, I mean they have like-- Yeah. I feel happy. I mean, I feel happy like I feel happy in both, like, I-- I do. I get along well, really well with everybody that I&#39;ve met in the two departments and a lot of the people that I know are ECE CompSci, which are by nature in both. Um, but Pratt does do more things like [E-socials] every Friday, like they do like free beer.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And like t-shirts, and all those things. Um, that definitely feels like a-- more of like, &quot;Oh, I&#39;m in Pratt.&quot; I mean, it&#39;s also a different school, so I guess-- By now they&#39;re trying to put CompSci in Pratt. Right? So, I guess we&#39;ll take--
+
+**Michelle Chen:** That&#39;s true.
+
+**LM:** We&#39;ll take on everyone!
+
+**Michelle Chen:** We&#39;ll see. So about specific classes, would you just tell me on a high level like what your experience was like in 308, 310 and 330?
+
+**LM:** 308, it was amazing. I loved it.
+
+**Michelle Chen:** You liked 308?
+
+**LM:** Yeah. I learned so much. Like [at] the first group it was kind of like a steep learning curve. I didn&#39;t really know what was going on. But then, um like, I really felt like I grew a lot in the class and I-- like I thought it was super interesting. I had a really good group for, like, my final project, so it wasn&#39;t like I didn&#39;t have a better choice at all in terms of going crazy for the last, like, two days or whatever. Um, and yeah, just generally like a great class. 310. So, the next one I took, 330, I loved it. It was my favorite class at Duke. Like it was so interesting. Um, I get that-- that stuff is just like what I love, and yeah, it was great. I hope that I&#39;d do more of that in the future. It&#39;s just, like the only thing that I was sad about, like 330 is that after I left I was like, &quot;Well, how the hell am I going to use this in the future?&quot; You know? Like, apart from like my interviews, I literally like-- like I didn&#39;t really understand if I wanted to go into industry. Like, &quot;I really liked 330, what can I do that&#39;s like 330?&quot;
+
+**Michelle Chen:** Yeah.
+
+**LM:** Or like if I like one class, like what can I do--
+
+**Michelle Chen:** With that?
+
+**LM:** To learn more about it, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** To do more with it. Like is it to get a PhD or god knows what? Or like, even, how do I mesh three together because they&#39;re so different, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** So, it&#39;s like a thing that I definitely, um, was like, yeah-- And then 310, I thought it was interesting. I didn&#39;t like-- I just, some of the [times] it was just tedious and like annoying. Um, of the three, it was definitely the least, like, life-changing for me or like interesting. It just felt like kind of like-- like a lot of, like, annoying assignments that I just spend a lot of time, like, and there was like-- like all of the answers were online. People would get the answers in a day and just do all of it. And like, I would try so hard and like not get it. And then just end up looking at the answers online anyway. I mean, please do not say that, or like you&#39;re going to be [inaudible], but um. But yeah, I just wish like there was like some kind of connecting class that would put the three together in which you would actually going to do something like full-stack from beginning to end.
+
+**Michelle Chen:** Yeah.
+
+**LM:** And you could like put a different skill, like, to use. That is-- I mean, that&#39;s like [458], the class I&#39;m taking now. I think that that&#39;s what we&#39;re supposed to be doing, kind of, kind of. It does it a little bit, which makes you do like, literally, everything from front to end, like database, everything. Integrated. But this, like, [458] is way too intense. Like they would need to have some like-- like a baby, very baby, like child, grandchild of the [458].
+
+**Michelle Chen:** And then, I guess-- Actually a lot of people have been talking about 201 as a class for them that was like really bad. Can you tell me about your experience there more specifically?
+
+**LM:** I mean, I kind of talked about it at the beginning.
+
+**Michelle Chen:** Yeah.
+
+**LM:** I went in with literally no, like zero experience of coding, like zero lines and then it was with that shitty professor, like-- Forbes.
+
+**Michelle Chen:** Why was he shitty?
+
+**LM:** Because he just doesn&#39;t know how to teach, I mean he just doesn&#39;t know how to teach. He doesn&#39;t know, he doesn&#39;t understand like how our brain works as a non-CompSci student. He doesn&#39;t understand that, like the fact that people don&#39;t grasp this concept of like what a [stack] is in the go. He doesn&#39;t explain it to you properly, he&#39;s just like not a good teacher. He&#39;s a great-- He tries really hard. He got a lot of [inaudible] so it&#39;s clear that he&#39;s trying to improve from semester to semester, but he&#39;s not a good teacher. Like, I don&#39;t know what you can do about him. I don&#39;t know if he has tenure or something, but he shouldn&#39;t be teaching an introductory course to CompSci because, I feel like, if I wasn&#39;t already committed to like ECE CompSci back then, like I was really thinking of dropping CompSci. I mean really thinking. Like I thought, after I would get the grades from my midterms and stuff, I was like &quot;Holy shit, like, this is definitely not for me. I can&#39;t do this.&quot; And that&#39;s like your first CompSci class ever and it&#39;s very demoralizing. So, like I definitely think that for an introductory class like that one, they&#39;re pivotal for your CompSci major or not, and you need to have really, really good professors. Like [inaudible] does professor in the CompSci department used to be in the class, because otherwise people are not-- If you&#39;re already in 308, 310, 330, you&#39;re kind of like in too deep. You know?
+
+**Michelle Chen:** Yeah, yeah, yeah.
+
+**LM:** Like even if you have a bad professor, like it&#39;s fine. But 201 like-- So, yeah. It was just tough. Um, I didn&#39;t feel like I learned the most. The office hours were fucking hectic because the teacher&#39;s terrible, like they need to figure that out as well. Maybe they need to have like some kind of more structured assignment or like more gradual, kind of like, let go of your hand or something like that. But it was just not very-- It was not very-- It wasn&#39;t a very good introduction to someone that literally has no experience. I don&#39;t know how the experience is for people that have taken 101 before. This is like from my-- literally jumping into 201 without any experience. Like I don&#39;t know about from 101 to 201. Yeah.
+
+**Michelle Chen:** Um, and then in these classes-- Or how could each of these classes have been better for you?
+
+**LM:** So, 201, like baby steps, I guess? Better professor. Um. 330, I loved it, everything about it.
+
+**Michelle Chen:** Who did you have?
+
+**LM:**         The [Indian] guy.
+
+**Michelle Chen:** Okay.
+
+**LM:** I thought he was a pretty good teacher. I really enjoyed it.
+
+**Michelle Chen:** I-- That classed killed me. It was-- I thought it was really interesting, but I thought that all the topics were not really connected. You know what I mean? Like one day you&#39;re learning about like DP and then the next-- And then I just didn&#39;t understand like what they had to do with each other. It&#39;s very interesting.
+
+**LM:** Yeah.
+
+**Michelle Chen:** Also like, I don&#39;t know. I just-- you like math so you liked the proof. That&#39;s probably why. I, like, had never learned how to write a real proof until 330 and then I was like, &quot;Okay.&quot;
+
+**LM:** [It was as] cool [as] shit.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Yeah, yeah. I mean it&#39;s definitely like a-- like either-- like, it&#39;s like that&#39;s how you think or like you&#39;re like &quot;What the fuck?&quot; Yeah, I see that. Um, but yeah, 330, like I knew that, like you said, if it really connected to like a greater kind of like the scheme of how that fits into each other or, like into the greater scheme of CompSci, that would have been great. 310. Um, yeah. It&#39;s just like bringing by the topics to like &quot;This is CompSci in the real world.&quot; 310, just have assignments that were more relevant. Like more relevant, not so tedious. Like have assignments that are actually going to challenge the way-- Not all the assignments were shitty.
+
+**Michelle Chen:** Yeah.
+
+**LM:** But there were some that were like-- like the one where we are hacking [at the] server, that was just like unnecessarily stupid. Like, just something that-- assignments that were better. Um. The lectures were good. [London Cox] was pretty good, I enjoyed that. Um, and then 308, I think, I think it was a pretty good class.
+
+**Michelle Chen:** Did you like [Duval]&#39;s? Like, teaching.
+
+**LM:** [Duval]? Yeah. I know there&#39;s like a-- He very polarizing, like people&#39;s opinions, but I-- I really enjoyed the class. I think he&#39;s like very, like-- I don&#39;t, I don&#39;t like certain things that he did.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like put people&#39;s code on the board and then shit on it.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like things like that are not really appropriate and they definitely like, if you&#39;re not doing well in class and you&#39;re already feeling shit about your coding, like that&#39;s like super demoralizing. Especially when in a class like that, like there&#39;s a very still-- like the whole of [Duke] career there&#39;s like very different levels of CompSci within a CompSci class. Every other person that hasn&#39;t had a nice exposure because you haven&#39;t done-- like there&#39;s-- because I was only talking to [Pete Fosh] yesterday. He&#39;d like new every single language.
+
+**Michelle Chen:** The [inaudible] dude?
+
+**LM:** To [Pete Fosh], and he knew every language that ever existed. And he was like telling me JavaScript and how much he hated JavaScript. I was like, literally, [I] only [inaudible] JavaScript in high school and I&#39;m like, &quot;Is that a food?&quot; I&#39;ve got literally no idea. So, there&#39;s sort of different levels and you can&#39;t have the same expectations. I mean, you can because that&#39;s [fine], but you don&#39;t want to make people feel shitty because they don&#39;t know how to code something just because they hadn&#39;t had that much previous exposure to it, you know? So, I think that he was, in that sense, he wasn&#39;t great at being like accepting of everyone, like making everyone, like-- but he&#39;s like a type of teacher. You know?
+
+**Michelle Chen:** Um, and then, as a last question-- and also, when do you have to go?
+
+**LM:** Soonish.
+
+**Michelle Chen:** Okay.
+
+**LM:** I just have to-- Yeah.
+
+**Michelle Chen:** So, this is the last question and it&#39;s really anything that you think, but what could the CS department and do better? and like, do you have any qualms? like things that you wish were different, as I like write this report and sort of say like, &quot;These are things that we want you to change.&quot;
+
+**LM:** I think that having like optional courses or like crash courses in which you have a really smart, really good professor. Just one, just one. That would [smooth], like connected, that&#39;s for people, like the people that are like in CompSci department, like I know I have a lot of urges of like, I want to-- Like you go to HackDuke, for example. No fucking clue! Like, I&#39;ve every single year I would try and go to HackDuke, but I would literally be so lost and be like, &quot;People that are going [that] know everything and I literally have no idea how to make anything.&quot;
+
+**Michelle Chen:** Yeah.
+
+**LM:** As in which you could go and it could be like, I don&#39;t know, I have a credit or not even a credit, just like a voluntary thing. Like Investment Club, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** They have this like course to do-- it&#39;s a half-- it&#39;s a course credit as well, like a half credit. [In which] have a really good person teaching that will go through like &quot;How to make a website,&quot; &quot;How to code your own website,&quot; or &quot;How to like--&quot; Like simple stuff that yeah, you could research online, but it&#39;s very daunting. Or like how to, like, set up your Eclipse and like write like a small program, like a small calculator.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Or things that maybe should have been done like in high school or something. But you never did them because a lot of people haven&#39;t done that. And they may-- when we go into a [CompSci problem], they&#39;re scared as fuck because they don&#39;t [know if] 201-- Like I have so many friends that they&#39;ve told me like, &quot;I don&#39;t know if I&#39;m going to [2101] because I&#39;ve heard is hell,&quot; but then at the same time they could be-- like if you think like a [CompSci] person like, which is a lot of people, you would kill 101. Like yeah, I get that, first, it&#39;s not for all people.
+
+**Michelle Chen:** Yeah.
+
+**LM:** But the other people are afraid to even try it because they don&#39;t know what it&#39;s like, the mentality is like.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, so I think that. And then also some kind of, like, course that would put together, like I said before, like 310, 330, 308.
+
+**Michelle Chen:** Like the application--
+
+**LM:** Yeah.
+
+**Michelle Chen:** Into the world.
+
+**LM:** That&#39;s the problem with 458, because 458 sucks.
+
+**Michelle Chen:** So, I guess, like, what has your experience been? Do you-- are you glad you took 458?
+
+**LM:** I mean, I had to.
+
+**Michelle Chen:** You have to take it?
+
+**LM:** To graduate.
+
+**Michelle Chen:** Really? For ECE?
+
+**LM:** I just like, I didn&#39;t do 350-- I see [350] [until] this semester and 350 is [direct] for like every other [Design] except self-accountability. So, I had to take it. I mean, no, I&#39;m so glad I took it, I learned so much but it&#39;s just like, like you need to be part-timing with a really easy class to do that class well. Like, the expectations of that class are insane. Like they&#39;re not-- they&#39;re not normal, they shouldn&#39;t be that high. Like they should have some classes like that, but definitely not as intensive in which people can actually, like put the concepts together, which I think they&#39;ve been making some of those classes, like 290.
+
+**Michelle Chen:** Yeah. 290, definitely.
+
+**LM:** Like I think they have-- yeah, I think they have some of those classes now. I haven&#39;t taken it, so I can&#39;t speak to that, but--
+
+**Michelle Chen:** Yeah. And did you ever think it was hard to ask for help in any of these classes?
+
+**LM:** Hm. I&#39;m an-- I&#39;m an office hours nerd. It&#39;s like I always go. Like 330, I would go to the office hours of [Pavejani], or whatever his name is, like every single week. After class I would go and, like, just make sure I understood concepts. 201, it was a bit of a nightmare. Like, that was--
+
+**Michelle Chen:** Too many people, right?
+
+**LM:** Yeah.
+
+**Michelle Chen:** And not enough TAs.
+
+**LM:** Yeah, too many people, not enough TAs.
+
+**Michelle Chen:** Was it like as helpful for you though?
+
+**LM:**         No, not really.
+
+**Michelle Chen:** Yeah, that&#39;s how [inaudible].
+
+**LM:** They would just give you the answers. Then there would be that one TA that everybody loved like that would just give the answer to everyone and there would be-- yeah, just the one TA [who were] giving answers or the other TAs, like, had no idea what&#39;s going on.
+
+**Michelle Chen:** Yeah.
+
+**LM:** I understand that&#39;s not realistic to have some many TAs that actually know what you&#39;re doing, because you can&#39;t [inaudible] [so many] people committed, but make [it] [inaudible] in such that you can, kind of, guide yourself through them.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Or make them more gradual and you wouldn&#39;t need too many TAs in the first place, you know?
+
+**Michelle Chen:** In the first place, yeah.
+
+**LM:** Or do some kind of like-- like partner at coding, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** In which you&#39;re working with someone because that is-- like especially 201, I think that&#39;s-- Actually, yeah. You should definitely-- I would definitely vouch for having assignments in pairs in 201 or something, like at least the first couple.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Having some assignments with like a person who can talk to.
+
+**Michelle Chen:** It would be really helpful.
+
+**LM:** It would be so, yeah, it would all be so helpful.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, because it&#39;s so daunting in the beginning when you don&#39;t know what you&#39;re doing. You don&#39;t know. Like, it literally takes you like five hours to set up Eclipse and then until you don&#39;t understand why it&#39;s not working because you don&#39;t know how to run it, you know?
+
+**Michelle Chen:** Yeah. Did you ever consider TA-ing?
+
+**LM:**         I TA-ed, yeah. No 201, 250.
+
+**Michelle Chen:**         250?
+
+**LM:**         Yeah. Um, it&#39;s just like [a lot of time] commitment.
+
+**Michelle Chen:** It is a huge [inaudible].
+
+**LM:** I was like, kind of a lazy TA because I had-- like I had a lot of classes that semester and I was also working at [Ecolab], and it&#39;s just a lot of things and I didn&#39;t really prepare that much for my work stations or for my office hours. So, I would help people, but there was like, I would have to kind of like, [inaudible] [out] my way out sometimes. Like I would have to look stuff up, that I wouldn&#39;t-- like I wouldn&#39;t remember.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like I wasn&#39;t the best TA by any means.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Um, and I understand that people can be super committed, but-- but I&#39;m sure you can always find like a couple people, at least three people that are--
+
+**Michelle Chen:** Yeah.
+
+**LM:** Yeah. And even like-- The thing that I just ridiculous is when you have like office hours and people, you got TAs teaching the students half of the stuff that was supposed to be taught in class.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like when you have teachers that are that bad, like come on. Come on. Like with 330, [Pavervani] or whatever, great. Like I think he explained things really well, like great. Forbes? No fucking way and they [should get rid of Forbes], like no offense. [Lennon Cox] was pretty good. If you went to office hours, he would like help you. Duvall. That wasn&#39;t really like the nature of that class, it wasn&#39;t really to like help you.
+
+**Michelle Chen:** Yeah, yeah.
+
+**LM:** You know? It was just like design. I think the way, like, Duval, the reason why I kind of shit on Duval is because he&#39;s the one who designed that course and the course is very like-- the same way as CompSci 201, it&#39;s like not realistic at all, like the way that it flows.
+
+**Michelle Chen:** Yeah.
+
+**LM:** Like 308, it is pretty gradual and it&#39;s very like-- it holds your hands in a way, you know? because you&#39;re not literally [falling] into the void. You, like-- every assignment, you feel like you&#39;re pushing yourself but not so much you&#39;re literally, completely fucking lost and you also have like your teammates to fall back on, you know?
+
+**Michelle Chen:** Yeah.
+
+**LM:** So, you can like talk about things.
+
+**Michelle Chen:** Yeah.
+
+**LM:** So, the way of the class is like-- it&#39;s really good for like learning. I don&#39;t think that him as a teacher is particularly great, but the courses that he had designed?
+
+**Michelle Chen:** It&#39;s good.
+
+**LM:** Yeah. It&#39;s very good. So, I can&#39;t really give them that much of a hard time.
+
+**Michelle Chen:** Well thank you so much. Um, I will-- I&#39;m going to stop the recording now, but I will send you, if you want--
+
+</p>
+</details>
+
+<details><summary>Interviewee - JR </summary>
 <p>
   
 
 </p>
 </details>
 
-<details><summary>Interviewee - ? </summary>
+<details><summary>Interviewee - MZ </summary>
 <p>
   
 
 </p>
 </details>
-
