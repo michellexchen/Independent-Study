@@ -734,6 +734,7 @@ Speaker 4:        What about group projects? Have you taken group project based 
 
 <details><summary>Interviewee - JL </summary>
 <p>
+
 **Michelle Chen:**         Right? And I&#39;m kind of like, I just think that it&#39;ll be nice because I don&#39;t have to do this. Like I don&#39;t know how to make a website like
 
 **JL:**         Okay, me either... If it makes you feel better that you don&#39;t.
@@ -3503,7 +3504,6 @@ JasonYeah.
 
 <details><summary>Interviewee - AA </summary>
 <p>
-
 **Michelle Chen:**         Okay, so... now that we&#39;re starting this interview approximately 45 minutes after it was supposed to start.
 
 **MR:**         I just wanna listen to the first couple minutes.
@@ -3594,7 +3594,7 @@ JasonYeah.
 
 **AA:**         Um... actually I think what&#39;s interesting is, I think, um, lemme think for a second. I think being male in CS—I, um, basically, when I came into college, I came in being a dude, right? Like, I was, um, I was just a regular computer science guy. I think I actually, over time, became a little bit disillusioned with the culture of computer scientist students. Um, but I think that the way it has impacted me is that I started, as part of the culture, I identified as a CS student and I identified with the culture, and I didn&#39;t really like all of the weird social justice-y stuff that people were doing to it, and all that. And then, over time, I started to realize that the culture was, like, kind of weird and kind of cult-y. And, overtime, especially since I just so happen to have at least a few, um, women or female friends with me in the CS major. They&#39;ve taken classes with me, and I realized how different their experience was for me. I think I realize that there&#39;s kind of a discrepancy between what my experience was and what their experience was. And, so, essentially I think what happened is that—
 
-**MR:**         Um, I&#39;m going to interrupt for one second. Say, um, you do know name(?), right?
+**MR:**         Um, I&#39;m going to interrupt for one second. Say, um, you do know Ademola, right?
 
 **Michelle Chen:**         Yeah, yeah, yes.
 
@@ -3602,7 +3602,7 @@ JasonYeah.
 
 **Michelle Chen:**         I haven&#39;t. I should reach out to him.
 
-**MR:**         I really think you should, not because of necessarily his own individual experience, but because he&#39;s the head TA for CompSci 101. He has a very unique lens on the people who start to join CompSci and how do they drop out, and how they feel like they&#39;re not made as comfortable in certain social groups. I&#39;m not gonna reduce your experience; name(?) has been it for two years and he&#39;s very involved in it. Like he knows, like he speaks to a lot of the people. He&#39;s personally told me that it&#39;s almost a 50-50 male-female ratio at the beginning, but he notices how women become particularly discouraged by various experiences and then we try to very much prevent that, and how, men, even though they&#39;re not doing as well, feel like they can just keep on going and going. So that&#39;s why there&#39;s such a difficult, like, a steep drop-off rate. So, I think he might have an interesting perspective.
+**MR:**         I really think you should, not because of necessarily his own individual experience, but because he&#39;s the head TA for CompSci 101. He has a very unique lens on the people who start to join CompSci and how do they drop out, and how they feel like they&#39;re not made as comfortable in certain social groups. I&#39;m not gonna reduce your experience; Ademola has been it for two years and he&#39;s very involved in it. Like he knows, like he speaks to a lot of the people. He&#39;s personally told me that it&#39;s almost a 50-50 male-female ratio at the beginning, but he notices how women become particularly discouraged by various experiences and then we try to very much prevent that, and how, men, even though they&#39;re not doing as well, feel like they can just keep on going and going. So that&#39;s why there&#39;s such a difficult, like, a steep drop-off rate. So, I think he might have an interesting perspective.
 
 **Michelle Chen:**         Interesting. I will reach out. And I will see you soon.
 
@@ -3714,9 +3714,9 @@ JasonYeah.
 
 **Michelle Chen:**         To you personally?
 
-**AA:**         (relationship talk lol) (?)
+**AA:**         (relationship talk lol)
 
-**AA:**         Yeah, okay, so anyways. Okay, I&#39;m just going to say quickly what each—or not quickly, but I&#39;ll just do an overview about each class. So yeah, 308, I enjoyed the material, or at least I enjoyed the work because I think it was satisfying for me to design a software system and then see it in front of my eyes. It also made me more optimistic about software engineering, but I realize most software engineering is not what 308 is like, which is kind of sad because I enjoyed 308. But, um, anyways, um, yeah. So I think I got really lucky also with my groups. I think especially in my self-society(?) group and my last focus(?) group were both really good, and I generally just had good teams and people that tried hard and I didn&#39;t have any issues with them. I will note that I think—I mean, obviously, each of my groups was heavily male. I want to say, my first two groups—so the group that was, like, 2-3 people and then the group that was, like, 4-5 or something, I think all of those were all male. There&#39;s a maximum of one woman who was in both of those groups combined. And then my last group was only two women out of ten people. And so it was, like, all guys. I don&#39;t—honestly, to be completely honest, if I wasn&#39;t a guy, I don&#39;t think I would&#39;ve enjoyed it as much just because it would have been very weird not being—like, by being the only non-guy in the room, I want to say. So I got kind of lucky. But, at the same time, the people I was working with were pretty nice and they weren&#39;t weird and annoying and try-hard and stuff. So, I think, overall, I had a good experience. And the last project we did for blue solid(?) was really, really ambitious and it was really hard, but we spent a lot of freaking time on it and it was honestly a lot of fun.
+**AA:**         Yeah, okay, so anyways. Okay, I&#39;m just going to say quickly what each—or not quickly, but I&#39;ll just do an overview about each class. So yeah, 308, I enjoyed the material, or at least I enjoyed the work because I think it was satisfying for me to design a software system and then see it in front of my eyes. It also made me more optimistic about software engineering, but I realize most software engineering is not what 308 is like, which is kind of sad because I enjoyed 308. But, um, anyways, um, yeah. So I think I got really lucky also with my groups. I think especially in my cell-society group and my last VOOGAsalad group were both really good, and I generally just had good teams and people that tried hard and I didn&#39;t have any issues with them. I will note that I think—I mean, obviously, each of my groups was heavily male. I want to say, my first two groups—so the group that was, like, 2-3 people and then the group that was, like, 4-5 or something, I think all of those were all male. There&#39;s a maximum of one woman who was in both of those groups combined. And then my last group was only two women out of ten people. And so it was, like, all guys. I don&#39;t—honestly, to be completely honest, if I wasn&#39;t a guy, I don&#39;t think I would&#39;ve enjoyed it as much just because it would have been very weird not being—like, by being the only non-guy in the room, I want to say. So I got kind of lucky. But, at the same time, the people I was working with were pretty nice and they weren&#39;t weird and annoying and try-hard and stuff. So, I think, overall, I had a good experience. And the last project we did for VOOGAsalad was really, really ambitious and it was really hard, but we spent a lot of freaking time on it and it was honestly a lot of fun.
 
 **Michelle Chen:**         I remember.
 
@@ -3740,7 +3740,7 @@ JasonYeah.
 
 **Michelle Chen:**         I don&#39;&#39;t think your presentation was that bad.
 
-**AA:**         He told me I said &quot;sorry,&quot; like, 15 times, which I think I did because I think what happened was, when we were doing the midterm—oh my god, I&#39;m literally the worst person. My sophomore year was so hard. But when I did the midterm—my sophomore year was hard because I kept trying to be genuine and stuff like that and I would always get rejected or something. But what happened was I, um, when we did the midway demo or something for the final project, I was just poking fun. I was being sarcastic, right? I was, like, we&#39;re so much better than everyone else because we were doing RTS(?) and stuff like that. But I was being explicitly sarcastic and I think Duvall thought I was being serious, or at least some other students thought I was being serious. And I felt really bad because I was like, wow, I think people think I am actually, like, an elitist just because I&#39;m doing RTS instead of a platformer(?). And then I felt really bad and then at the end of the—and then the final presentation when I was talking, I was like—I apparently I said sorry a lot of times, but I think part of it was, like, I just felt bad because I didn&#39;t want people to think our project was amazing and that we were the #1 group in the class. So I kind of downplayed everything that we did in our project. And then Duvall was, like, &quot;Oh, you&#39;re saying sorry too many times.&quot; The first time he was like, you know, that was good, but, you know, lay off a little bit on that stuff. And I was, like, okay, fine. And then after the demo he was, like, &quot;You&#39;re being way too passive about this stuff and you&#39;re downplaying your whole project and everything.&quot; And I felt really bad. I was like, I don&#39;t know what to do man. This is the problem; I just overthink. But, anyways, yeah, that&#39;s what happened. And then the reason I also said that was, when I was taking my independent study with Duvall, I think it was, overall, a good experience. But, at the same time, I think our interests were not aligned completely when I was taking the independent study, which is part—I think I didn&#39;t really end up enjoying it as much as I wanted to.  I think just because Duvall is very, very—he cares a lot about, like, the game, you know, and stuff like that.
+**AA:**         He told me I said &quot;sorry,&quot; like, 15 times, which I think I did because I think what happened was, when we were doing the midterm—oh my god, I&#39;m literally the worst person. My sophomore year was so hard. But when I did the midterm—my sophomore year was hard because I kept trying to be genuine and stuff like that and I would always get rejected or something. But what happened was I, um, when we did the midway demo or something for the final project, I was just poking fun. I was being sarcastic, right? I was, like, we&#39;re so much better than everyone else because we were doing RTS and stuff like that. But I was being explicitly sarcastic and I think Duvall thought I was being serious, or at least some other students thought I was being serious. And I felt really bad because I was like, wow, I think people think I am actually, like, an elitist just because I&#39;m doing RTS instead of a platforme game. And then I felt really bad and then at the end of the—and then the final presentation when I was talking, I was like—I apparently I said sorry a lot of times, but I think part of it was, like, I just felt bad because I didn&#39;t want people to think our project was amazing and that we were the #1 group in the class. So I kind of downplayed everything that we did in our project. And then Duvall was, like, &quot;Oh, you&#39;re saying sorry too many times.&quot; The first time he was like, you know, that was good, but, you know, lay off a little bit on that stuff. And I was, like, okay, fine. And then after the demo he was, like, &quot;You&#39;re being way too passive about this stuff and you&#39;re downplaying your whole project and everything.&quot; And I felt really bad. I was like, I don&#39;t know what to do man. This is the problem; I just overthink. But, anyways, yeah, that&#39;s what happened. And then the reason I also said that was, when I was taking my independent study with Duvall, I think it was, overall, a good experience. But, at the same time, I think our interests were not aligned completely when I was taking the independent study, which is part—I think I didn&#39;t really end up enjoying it as much as I wanted to.  I think just because Duvall is very, very—he cares a lot about, like, the game, you know, and stuff like that.
 
 **Michelle Chen:**         What was your independent study?
 
@@ -3780,7 +3780,7 @@ JasonYeah.
 
 **Michelle Chen:**         Did you not confront her about this?
 
-**AA:**         She said sorry. And I was like, it&#39;s okay, I&#39;ll find someone else. I mean, to be fair, it&#39;s a hard—it was a hard situation. I don&#39;t think she was expecting me to actually switch into 310 to join her group. But, anyways, so what happened was I joined a group with—okay, I feel kind of bad for this. So, yeah, don&#39;t tell name(?) this, but I was in name(?)&#39;s group. Name(?) is fine; he&#39;s a good person. Basically, name(?) was in that class also. And I was looking for a group and I asked—I think I asked name(?)  or I asked around—oh, there was a big group chat for 310. I was, like, I need a—
+**AA:**         She said sorry. And I was like, it&#39;s okay, I&#39;ll find someone else. I mean, to be fair, it&#39;s a hard—it was a hard situation. I don&#39;t think she was expecting me to actually switch into 310 to join her group. But, anyways, so what happened was I joined a group with—okay, I feel kind of bad for this. So, yeah, don&#39;t tell Ademola this, but I was in Ademola&#39;s group. Ademola is fine; he&#39;s a good person. Basically, Ademola was in that class also. And I was looking for a group and I asked—I think I asked Ademola  or I asked around—oh, there was a big group chat for 310. I was, like, I need a—
 
 **Michelle Chen:**         There was a big group chat?
 
@@ -3792,7 +3792,7 @@ JasonYeah.
 
 **Michelle Chen:**         I don&#39;t think so. That&#39;s so rude.
 
-**AA:**         I&#39;ll check. You were probably a part of it, but just didn&#39;t check. Anyways, I said I didn&#39;t have a group and I needed, and then name(?) and Matthew Do—
+**AA:**         I&#39;ll check. You were probably a part of it, but just didn&#39;t check. Anyways, I said I didn&#39;t have a group and I needed, and then Ademola and Matthew Do—
 
 **Michelle Chen:**         Are you friends with hm?
 
@@ -3810,7 +3810,7 @@ JasonYeah.
 
 **Michelle Chen:**         And then, 330?
 
-**AA:**         330 was fun! I really liked Rong(?) also. Honestly, what a good cause. Yeah, 300 was a good class. I think, overall, I kind of enjoyed it, but I think I also took that during my senior year fall, so I was just—I just knew who to hang out with and who to work with—I didn&#39;t work with people that much, but—
+**AA:**         330 was fun! I really liked Rong also. Honestly, what a good cause. Yeah, 300 was a good class. I think, overall, I kind of enjoyed it, but I think I also took that during my senior year fall, so I was just—I just knew who to hang out with and who to work with—I didn&#39;t work with people that much, but—
 
 **Michelle Chen:**         Me!
 
@@ -3869,9 +3869,1496 @@ JasonYeah.
 </p>
 </details>
 
-<details><summary>Interviewee - ? </summary>
+<details><summary>Interviewee - KS </summary>
 <p>
-  
+
+**KS:**  For classes, well, I&#39;m like, I really look forward to it but--
+
+**Michelle Chen:**  You know.
+
+**KS:**  But I&#39;ve been just, like, sporadically typing and I have to go back. I&#39;m, like, [Holly&#39;s] making [inaudible] the same [laughs]
+
+**Michelle Chen:**  Yeah, yeah. Yeah. Okay, thank you. So.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  And everything&#39;s completely anonymous and I can, like, send you the report and everything after--
+
+**KS:**  Cool.
+
+**Michelle Chen:**  I finished. But, yeah. Do you have any, like, questions about what I&#39;m doing or [anything]?
+
+**KS:**  I don&#39;t think so. So, it is like a women in computer science focused? Or is it also--
+
+**Michelle Chen:**  Um.
+
+**KS:**  Just like the computer science department in general?
+
+**Michelle Chen:**  So, it&#39;s definitely focused on women in computer science. But, um, I do go-- we do talk about, like, courses specifically later just because he was kind of like &quot;I want to know the good, the bad and the ugly of like 308, 310 and 330.&quot; So, I was kind of like, &quot;Okay, like I&#39;ll do [inaudible] on those.
+
+**KS:**  Oh, yeah. I&#39;ve got opinions on those [laughs]
+
+**Michelle Chen:**  That&#39;s a-- most people do [chuckles], but [people] have a lot of opinions on these classes. Um, so I guess the first question, and are you-- so, we&#39;re good to--
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Yeah, I feel I&#39;m not going to interview [you], but I actually really enjoy listening to people--
+
+**KS:**  [Chuckles]
+
+**Michelle Chen:**  Like talk, just like-- especially about this just because I think, I think that this project is helping me, like, get closure, if that makes sense. Like, as we leave Duke, it&#39;s just kind of nice to be like, &quot;Hey, like a lot of people, I&#39;ve have had similar experiences or a lot of people have had different experiences, but--&quot;
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Like, &quot;They all helped me, like, grow in a lot of different ways.&quot;
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  So, the first question I have was listed, 308, 310 and 330, which of those have you taken and in what order?
+
+**KS:**  Uh, I took all of them and I took-- I think I took them in that order.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  I took 308 my fall year and then 310 fall or spring--
+
+**Michelle Chen:**  Spring.
+
+**KS:**  Junior, and then senior fall.
+
+**Michelle Chen:**  Alright, that&#39;s very good.
+
+**KS:**  Was 330.
+
+**Michelle Chen:**  Was 330?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Okay, and did you have any CS education prior to attending Duke?
+
+**KS:**  Uh, technically, as I took a computer science class my, like, senior year.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  And I did not get much out-- much out of it because I was so preoccupied with other things--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  That I thought I hated CS.
+
+**Michelle Chen:**  Huh.
+
+**KS:**  So, yes. But okay.
+
+**Michelle Chen:**  And then, so I guess, like, what was the demographics of that class?
+
+**KS:**  A few women and, like, mostly guys.
+
+**Michelle Chen:**  [Inaudible] right.
+
+**KS:**  It was more in my Digital Electronics class, which was easy, focused--
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  On my junior year, I was the only girl, period.
+
+**Michelle Chen:**  Really? I don&#39;t--
+
+**KS:**  Out of like 30.
+
+**Michelle Chen:**  Wow.
+
+**KS:**  So, yeah.
+
+**Michelle Chen:**  Wow, okay. Well, I mean I guess I&#39;m not surprised.
+
+**KS:**  Yeah [chuckles]
+
+**Michelle Chen:**  So, I guess, did your family and friends encourage you to study CS? Like-- or did-- like how did you decide that you wanted to get in the field?
+
+**KS:**  So, I think it all started in middle school when I was, like, pretty good at math.
+
+**Michelle Chen:**  Uhu, yeah.
+
+**KS:**  Right? And people said &quot;You should do engineering,&quot; and I went &quot;I have no idea what that is.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Huh, and my high school had a engineering track.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  So, Project Lead The Way if you&#39;ve heard of it.
+
+**Michelle Chen:**  No, I haven&#39;t.
+
+**KS:**  It just has like an introduction to engineering and then, you know, core princ-- prin-- principles.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Of engineering and you can take that a few different routes. But, also, it has a BioMedTrack; people who are interested.
+
+**Michelle Chen:**  Oh, interesting.
+
+**KS:**  In being in [PreMed]. Um, but I did the engineering track and ended up liking it and that&#39;s how I decided [it&#39;d be easy]. My Dad kind of pushed me in that direction and said &quot;Hey, if you like this, do your degree in this and then, like, go into business later.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Because I was thinking, you know, business or engineering and he kinda said &quot;Engineering will do open more doors and then, like, keep them open later on.&quot; so.
+
+**Michelle Chen:**  Yeah, definitely. Like, did your mom have any opinions or was she you just kinda like, &quot;I agree,&quot; like.
+
+**KS:**  She was the same.
+
+**Michelle Chen:**  She was the same.
+
+**KS:**  They are both accountants.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  And they both did accounting degrees and I think she was also like &quot;Huh, going into tax is interesting.&quot;
+
+**Michelle Chen:**  She&#39;d be the-- Yeah.
+
+**KS:**  Um, but I think my dad is in finance of software and, so, he sees it a lot more.
+
+**Michelle Chen:**  Okay, that makes sense. Um, so, I guess, who do you surround yourself with in your classes and group work in the CS, like, sphere?
+
+**KS:**  Uh, a lot of the same people. [chuckles] alright. Uh, like our-- our core group of-- and it-- we&#39;ve had a loss at this past semester, right? But.
+
+**Michelle Chen:**  Yeah, yeah.
+
+**KS:**  The [SEG] guys.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And then, like--
+
+**Michelle Chen:**  Yeah, yeah.
+
+**KS:**  You and Lisa, and Diane, and that kind of core group and then also a few of my [ECE] friends. So, like Quinn Thompson.
+
+**Michelle Chen:**  Oh.
+
+**KS:**  Um, and then I guess I&#39;ve been doing more projects like Brian [St. Pier] and things like that, so.
+
+**Michelle Chen:**  Okay. Um, and I guess-- so, why do you think you&#39;ve chosen these individuals to surround yourself with?
+
+**KS:**  Uh, well, because I previously knew them.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  And, so, it&#39;s easier just to. Those are my friends going in, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So I connected with them and then, also, because I liked that group camaraderie aspect.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So, it was really nice that we all knew each other, we all did projects together.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And it was just kind of simple and easy.
+
+**Michelle Chen:**  Do you think your experience in the CS major has been different than most male students&#39; experiences? And if so, how?
+
+**KS:**  Honestly, no.
+
+**Michelle Chen:**  Really?
+
+**KS:**  Yeah. I&#39;ve had and I-- I feel like very blessed. I&#39;ve had very, like, few issues, uh, and because I can&#39;t think of a time, truly at Duke, where I&#39;ve had a-- a gender issue and that&#39;s mind blowing to me.
+
+**Michelle Chen:**  Whoa, yeah.
+
+**KS:**  Because I-- I was prepared to, like, really deal with it and &quot;At some point I&#39;m going to encounter this and I&#39;m going to--&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Like, &quot;Figure out how I&#39;m going to combat this.&quot; It never happened.
+
+**Michelle Chen:**  So, wh-- so, but you were expecting it to?
+
+**KS:**  I was expecting it to, yeah.
+
+**Michelle Chen:**  And why do you think that is?
+
+**KS:**  Oh, because, you know, junior year people are like, &quot;Okay, well, you know you&#39;re the only girl,&quot; and [dah, dah, dah].
+
+**Michelle Chen:**  And it was totally fine then too. Um, and, I don&#39;t know, I-- I think people were-- just kind of said, &quot;Okay, yeah.&quot; You know, female in tech, this is an issue.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  I mean, you should be aware of it and you&#39;ve probably experienced some discrimination.
+
+**Michelle Chen:**  Huh.
+
+**KS:**  Like, through that. And, so, I was just kind of--
+
+**Michelle Chen:**  Expecting that?
+
+**KS:**  Expecting it and I just never had it.
+
+**Michelle Chen:**  And then what about, I guess, sort of off track, but what about like in your jobs or at work, like, you never experienced it [inaudible] there?
+
+**KS:**  Huh, I never-- so, I might have, honestly. So, there was-- there was this one guy at work who was also an intern and we started at the same time on my team. There were two other interns who started later, but he and I were on the same, like, timeline.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Uh, and he was a little bit colder but he was also a Master&#39;s student and I think it was just because he had worked for four years and then done his Master&#39;s. So, I don&#39;t know if that was just like &quot;You are an underclassman to me.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  &quot;And I&#39;m, like, 30.&quot; right? or if it was like &quot;I&#39;m a male and you&#39;re a female.&quot; like, I never-- I never could tell and it was never obvious so I would-- but I would guess it was more with he&#39;s-- he was really proud of his work experience.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  So, I would say it was probably more of his work experience, but that&#39;s the only, like, real maybe.
+
+**Michelle Chen:**  Was he like arrogant or like was he like cold, you said?
+
+**KS:**  He was just kinda-- it was just a little bit cold.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  It was just harder to connect with him, um, and so we didn&#39;t, like, work a lot together.
+
+**Michelle Chen:**  Okay, that makes sense. Um.
+
+**KS:**  And then, the other guys who I worked with my previous internship with were great. So.
+
+**Michelle Chen:**  That&#39;s-- that&#39;s good.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Like, that&#39;s really good.
+
+**KS:**  I know and I agree.
+
+**Michelle Chen:**  Um, so then, sort of going off of that, in what ways does gender impacted your experience as a CS major or has it? do you think it has?
+
+**KS:**  Huh, I think it has and this is like a very unpopular opinion, but when I looked at, like, who gets interviews. Right?
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  It&#39;s very interesting that, like, so they sent out, like, the Facebook interview, like list, right? Accidentally. Not accidentally, but you could see-- you could see the.
+
+**Michelle Chen:**  Oh they-- everyone.
+
+**KS:**  The name on the emails.
+
+**Michelle Chen:**  Oh, okay.
+
+**KS:**  And so, like me being curious and creepy, I was like &quot;Okay, who is this?&quot; And it was like two females, or three females in-- or, like-- okay, now that&#39;s a lie. It was three junior females, maybe, something like that, because I only cared about who was, like, female from my year. I was just like &quot;Three or four,&quot; and it was not many.
+
+**Michelle Chen:**  Out of, like, how many?
+
+**KS:**  Out of like 40.
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Oh, whoa.
+
+**KS:**  And so, I feel like I&#39;ve gotten a lot of opportunities by being a female in engineering, um, because I see like, for example, like Bill or like Sean Hudson go through the process and I, like, think that my experience is kind of comparable to theirs. Right? Like we do kind of similar things.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Um, and it&#39;s been I think more interesting for them to, like, go through the process than it has been for me.
+
+**Michelle Chen:**  What do you mean? by, Like, in what ways?
+
+**KS:**  Oh, I feel like they&#39;ve had a harder time getting jobs and things like that just because it&#39;s, like, there&#39;s just more people in their--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  In their area. So, I feel like, in terms of getting hired, I&#39;ve had a better experience, but I don&#39;t know if I&#39;ll-- I will think that on the promotion side of things, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Like when-- when people are moving up in the workforce, I don&#39;t know if-- I think two years from now I might have a different opinion than I do now.
+
+**Michelle Chen:**  Yeah, interesting. So then like what have Bill&#39;s and Sean&#39;s experience&#39;s been like? they just don&#39;t get the jobs or they don&#39;t get interviews? versus, like, you feel like you do? Like?
+
+**KS:**  I think they&#39;ve gotten interviews but they don&#39;t typically, like, get the offers that they were expecting [you] to. Like, I think we-- we kind of came out of the interviews the same way and saying &quot;Okay, I think that was good,&quot; and you know, um, because I think they&#39;ve put such-- such an emphasis on diversity.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  In the interview process that I think they want to have.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  A certain number of people.
+
+**Michelle Chen:**  Like at Facebook? that process?
+
+**KS:**  Um.
+
+**Michelle Chen:**  Or just like in any company.
+
+**KS:**  I think in general.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  Because I was surprised at some of the places that, honestly, that I got interviews that I did not expect me to get interviews. That&#39;s also just me being like &quot;Okay.&quot;
+
+**Michelle Chen:**  Yeah, being the modest also, like.
+
+**KS:**  But I-- I-- I didn&#39;t expect it would happen. And so, and I honestly don&#39;t think if I was male that that would&#39;ve happened.
+
+**Michelle Chen:**  Really?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Okay, interesting.
+
+**KS:**  I just think tech has such an emphasis on as were consulting doesn&#39;t, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But tech has been, like, put in the spotlight on it.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Which has actually made it better.
+
+**Michelle Chen:**  Better.
+
+**KS:**  For me.
+
+**Michelle Chen:**  For you.
+
+**KS:**  In my opinion.
+
+**Michelle Chen:**  Yeah, that makes sense. Um, so, does gender influence how you see teammates?
+
+**KS:**  Not really, no. Uh, I think I&#39;ll notice that I&#39;m, like, one of the few girls.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  In the room, right? But I see it as a benefit. So, for example, we&#39;re working on [ACE] project but it&#39;s actually more comp science, engineering software for maintainability. It should be a CompSci class.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Uh, and it&#39;s me and three guys, uh, and they are asking me more about like the design [phase and] stuff.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Because I, like, shop a lot. Right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And like UI stuff and, like, how [inaudible]
+
+**Michelle Chen:**  Lite-- literally look at these are all tabs.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Like me trying to find [the] graduation dress.
+
+**KS:**  Oh.
+
+**Michelle Chen:**  I know. I&#39;m-- I&#39;m honestly getting kind of stressed about it. I know this is like, &quot;Okay, well--&quot; I mean, I&#39;m the only one who&#39;s going to listen to this but-- Like, someone was saying, they were like, &quot;Oh, like we need to take graduation photos.&quot; And I was like, &quot;What?&quot; Like, they were like, &quot;[we] should do it in like a few-- like a couple of weeks. And I was like, &quot;Well, I don&#39;t have the dress.&quot; Like I don&#39;t know what I would wear for that. So.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  I&#39;m a little stressed about that. Apparently [we] need three dresses for graduation.
+
+**KS:**  What?
+
+**Michelle Chen:**  Like one for Friday, one for Saturday and then one for Sunday. And I&#39;m like, &quot;That&#39;s--&quot;
+
+**KS:**  That makes sense. Oh, whoa.
+
+**Michelle Chen:**  Yeah. So, I&#39;m just like, I know, okay. Anyway, [inaudible].
+
+**KS:**  [Laughs]
+
+**Michelle Chen:**  I know, right? I was like, &quot;Shit,&quot; like I don&#39;t know. And I bought that-- I ordered this dress online and it, like, doesn&#39;t look quite--
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Like what I wanted to. I don&#39;t know. I just-- Anyway. Um, sorry to go back to your question.
+
+**KS:**  [Do it] again.
+
+**Michelle Chen:**  So, do you-- your EC class and they ask you about design basis?
+
+**KS:**  Yeah. And I think it&#39;s interesting to have a different perspective from them on some in some ways, um, and just like the way that I view the world, right?
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  Um, in comparison to what they do. And so, I think it&#39;s a good balance, but I&#39;ve never seen it as like a gender issue.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So I&#39;m more just like different perspectives.
+
+**Michelle Chen:**  Yeah. That&#39;s interesting. Like, so I guess, when you-- do you prefer to work with like Diane and Anna like-- or does it not matter to you? Because like-- I-- like some people have said like, &quot;Oh, like I prefer to work with other girls because I don&#39;t feel like they&#39;re as judgey.&quot; Like, do you feel like you have that type of experience or is it really just--?
+
+**KS:**  No. It&#39;s been kind of whoever I&#39;m closest with, um, and who I like working with and some-- sometimes it&#39;s like, if we have a group before, I want to work with a [closed] person and then two other people out on that as well.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Because then I get to know them better.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But I don&#39;t think I&#39;ve [grabbed] him or her to go [over to somebody]. I actually gravitated more towards being in groups with the guys.
+
+**Michelle Chen:**  Really?
+
+**KS:**  It is because I&#39;m co-- more competitive. Um, but yeah.
+
+**Michelle Chen:**  Really? So, you think that that has-- like, how do you think that that affects--?
+
+**KS:**  Uh, I don&#39;t know.
+
+**Michelle Chen:**  Like, why didn&#39;t you say that? Like you&#39;re like, &quot;Oh [inaudible]&quot;
+
+**KS:**  Yeah, I-- I&#39;m thinking of, like, one person in particular, um, but I don&#39;t know, I think I gravitate more towards guys because it&#39;s-- in it-- it-- it, like, takes away the CompScie component, but there&#39;s sometimes just lost, like, trauma there, which is so-- it&#39;s such a terrible thing to say, but sometimes it&#39;s true. Um, and so, and I think they&#39;re, like, more straightforward with, like, what they want. Right?
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  And they&#39;re like, &quot;Why haven&#39;t you done that?&quot; So I&#39;m like, &quot;Oh, I&#39;m so sorry,&quot; as we&#39;re [alike]. I feel like some people that I&#39;ve worked with have been, like, more passive aggressive about it.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  And that&#39;s not always been like a female thing because it&#39;s like--
+
+**Michelle Chen:**  Guys do it too, yeah.
+
+**KS:**  It&#39;s not-- guys do it too. But like, I feel like it happens more--
+
+**Michelle Chen:**  With girls.
+
+**KS:**  With girls. Um, and I&#39;m the kind of person who&#39;s like everywhere in the world and I need someone to be like, &quot;Do this.&quot; [chuckles]
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I need someone to be straight with me, so I can, like, get my life together.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  If they&#39;re passive aggressive, like I don&#39;t [know]. I don&#39;t think I&#39;m [inaudible].
+
+**Michelle Chen:**  How-- well-- Okay. This is just my curiosity but how do you like working with Ryan [St. Pierr]?
+
+**KS:**  Um. He&#39;s very smart.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And I&#39;ve had an interesting perspective working with him this semester.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  Because he&#39;s part timing.
+
+**Michelle Chen:**  Oh, okay.
+
+**KS:**  So like, this project is, like, partially his life. Um, and-- and he-- I think he&#39;s trying, he hasn&#39;t told me this directly, but I&#39;m pretty sure he&#39;s trying to, like, complete a 4.0.
+
+**Michelle Chen:**  Oh, really?
+
+**KS:**  Which is like uber impressive.
+
+**Michelle Chen:**  That&#39;s [something].
+
+**KS:**  Um, and so.
+
+**Michelle Chen:**  How did-- wait, what makes you think that?
+
+**KS:**  Um, because, [Dev Dab] came and [just mentioned] it to me, which I believe, so.
+
+**Michelle Chen:**  Yeah, I do believe that.
+
+**KS:**  So, that is why I was like, &quot;Oh, yeah. That makes sense.&quot;
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  Um, and since he cares so much about it. Because everyone else in the class is second-semester seniors, maybe a few juniors and so everyone has checked out, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  No one else really cares.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But he, like, really wants to get everything done and that sort of thing. So, it&#39;s been good. Also, sometimes though, it&#39;s like too much of his life.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And I&#39;m taking [full] classes and, like, doing other things and I&#39;ll get texts and I&#39;m like &quot;I cannot do this right now. I&#39;m sorry.&quot;
+
+**Michelle Chen:**  Yeah, yeah.
+
+**KS:**  So.
+
+**Michelle Chen:**  Interesting. He-- I worked with him in ECON. He just was like-- I was intimidated by him-- he&#39;s very [inaudible]
+
+**KS:**  [It&#39;s] a lot. He&#39;s very smart.
+
+**Michelle Chen:**  And I was like, &quot;I don&#39;t know what I&#39;m doing.&quot; That&#39;s insane.
+
+**KS:**  Yeah. Yeah.
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  And-- It might be just an EC [more] [inaudible], but wh-- wh-- regardless, you know? like--
+
+**Michelle Chen:**  That&#39;s still crazy.
+
+**KS:**  It&#39;s still [inaudible]. It&#39;s still crazy.
+
+**Michelle Chen:**  Whoa. Um, okay. Sorry. Switching gears a little bit.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  How do you think your race or socioeconomic status, or other identity factors besides gender, have impacted your CS experience or have they?
+
+**KS:**  I&#39;d say the socio-economic status is helpful because, like, I talked about my high school background, right?
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  I-- I went to a public high school but it&#39;s in a relatively nice area. Right?
+
+**Michelle Chen:**  Mhm, right.
+
+**KS:**  So it was a brand new high school. They were implementing these new programs. So, I&#39;d definitely say that, like, I had a huge benefit by, like--
+
+**Michelle Chen:**  Just being there. Yeah.
+
+**KS:**  Going through and knowing that I wanted to do engineering. Right? And so, I came into Duke wanting to be CE. Had I not done that program, I think I still would&#39;ve been like, &quot;What&#39;s engineering?&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, and so I think my-- um, just because my parents like had that experience--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Kind of pushed me that way, but I don&#39;t think I would&#39;ve had the same, like, knowledge about what it was and, like, ability to go into. &quot;Oh, I can do this.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um. So I think that, um, the socio-economic part raised-- I can&#39;t-- I don&#39;t know if it&#39;s played as big of a factor.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um but, I&#39;m also white so like I might be, uh, different for.
+
+**Michelle Chen:**  Rather [inaudible].
+
+**KS:**  Someone from the minority.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But um, but for me, I can&#39;t-- it might have, but I can&#39;t like think of anything that has me.
+
+**Michelle Chen:**  Yeah, that makes sense. Um, do you feel as if there&#39;s a community in which you are welcome in the Duke CS Department?
+
+**KS:**  Yeah. Um, I mean I feel like we&#39;ve made a lot of good friends, like, through the CS department struggles and [inaudible] [in life].
+
+**Michelle Chen:**  Yeah. Yeah.
+
+**KS:**  I don&#39;t know, I think there&#39;s a good, at least from my experience, there&#39;s a good, like, ability to be like &quot;I&#39;m struggling right now.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And like &quot;I am dying.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And everyone&#39;s like &quot;I am dying too.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And that&#39;s kind of a-- nice to have.
+
+**Michelle Chen:**   **KS:**  It&#39;s not the whole, like, [waiting] duck syndrome that I-- some people I still think feel.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I feel like if I&#39;m stressed I would tell someone &quot;I am stressed.&quot;
+
+**Michelle Chen:**  You have someone to talk to. Yeah.
+
+**KS:**  And they&#39;ll get it. So.
+
+**Michelle Chen:**  I guess. So, one thing, I&#39;ve just been thinking about it, it&#39;s not one of my interview questions, but do you feel like being, like, affiliated, like, helps us with that? because I&#39;ve been thinking about that sometimes and I&#39;m like &quot;I don&#39;t--&quot; because I feel like I got to know you guys because it-- I was like-- like we know each other and, like, I know-- like we just love them, those guys are like &quot;Sick app,&quot; and like.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  De you know what I mean? Like, I don&#39;t know. I--
+
+**KS:**  I think yeah.
+
+**Michelle Chen:**  You think that?
+
+**KS:**  Yeah. Um, I think definitely. I mean, just you have that, like, lineage, right? [So I&#39;ll tell you] [if you needed] people, so, they might be able to help you with, like, &quot;Oh, just don&#39;t take this class, take this class,&quot; kind of thing.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And then you have your group kind of set, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Because that&#39;s how I got to know more of them, um, was because, like, I knew Sean Hudson from freshman year and then he joins the [gap], right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And then like all those guys suddenly.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And like, so yeah, I think-- I think being affiliated--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Is very helpful. I&#39;ve heard of people who, like, don&#39;t have the same kind of group in CS and are kind of intimidated by, like, not knowing people and, like, making friends.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And it&#39;s harder for them.
+
+**Michelle Chen:**  Yeah, definitely. Um, so, now we&#39;re shifting gears a little bit to talk about specific classes. Um unlike-- sort of high level or whatever you want to say or whatever comes to mind.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  What was your experience like in 308, 310 and 330?
+
+**KS:**  Um. 308, I wasn&#39;t prepared for. I felt like a lot of other people knew more than I did and that was also my own fault. I didn&#39;t do enough, like, side projects and just like exploring. Right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I was just kind of, like, [pulled off] and doing my own thing.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And then, enter 308 and then slammed, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And I went, &quot;Oh God, this is-- this is hard.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, And so, I think it was good overall, though, because I-- I felt like by the end of it I learned.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, which was helpful. Um, and so overall I think, like, even though it&#39;s a painful class, and like I suffered that semester, I think I came out of it so much better prepared to, like, tackle.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, a lot of new things and, like, different programs and like I felt like I knew Java.
+
+**Michelle Chen:**  You-- well. Yeah.
+
+**KS:**  Well enough to take it new places.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, 310 is a different bear because, um, I think what I&#39;ve struggled-- I was thinking about 310 a couple hours ago, actually. And what I find interesting about 310 is, like, it changes so much by professor. Right?
+
+**Michelle Chen:**  Yeah, I would-- I know--
+
+**KS:**  So, um, so Ferris took it with Cox.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  And it was like &quot;Our entire grade was based off of, like, [RAFT] and then, um.
+
+**Michelle Chen:**  His was?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  And then-- just because that was their final exam, it was just [RAFT]. Um. And then--
+
+**Michelle Chen:**  That wasn&#39;t ours, was it?
+
+**KS:**  No. Ours was optional.
+
+**Michelle Chen:**  Oh, yeah. Oh yeah.
+
+**KS:**  Um so, we had like two midterms.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  and then an optional the final exam. And they just had like one midterm, and then that final, if I&#39;m not mistaken.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And it was [RAFT]. And then--
+
+**Michelle Chen:**  Are there any [who] took their final?
+
+**KS:**  Uh, he took it.
+
+**Michelle Chen:**  Last semester.
+
+**KS:**  Last semester. Yeah. Sorry. Um. Man, I&#39;m trying to think of what the other midterm was on, but it was like one topic.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  And it was like-- so they had to, like, know those two things [plus] [inaudible] there.
+
+**Michelle Chen:**  [Threads], maybe?
+
+**KS:**  Yeah, it might have been threads.
+
+**Michelle Chen:**  Okay. So I was the second. Oh, okay. But anyway.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  So yeah.
+
+**KS:**  And so I think it varied a lot by semester. But the projects are the same, but they&#39;re-- I mean, if you have like a decent group you&#39;ll, like, get your stuff in, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So then, like your tests are like the variance.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, so that-- that was pretty interesting. Um, and then 330; ugh, 330.
+
+**Michelle Chen:**  Yep, I [killed] it--
+
+**KS:**  I hated 330.
+
+**Michelle Chen:**  Yeah, me too.
+
+**KS:**  I hated 330, uh, and I see the benefit of it. But I also, like, if I have an algorithm, I don&#39;t really want to prove its correctness. Like, I just don&#39;t see that--
+
+**Michelle Chen:**  Yep.
+
+**KS:**  As, like, a beneficial thing--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  That [I&#39;d ever] want to use in my life. Learning the algorithm is extremely useful.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Not-- not proving the correctness of it and knowing, like, n+1, you know, is--
+
+**Michelle Chen:**  Yeah. Yeah, yeah.
+
+**KS:**  That-- that was dumb to me. Um, those homeworks were just more of a pain to me--
+
+**Michelle Chen:**  Oh my god.
+
+**KS:**  Than they were, like, anything else.
+
+**Michelle Chen:**  They were tense. What about the fact that you were, like, oh, you like math. Like even-- even then, like you didn&#39;t like 330.
+
+**KS:**  Oh, I hate Cruz.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  So, I thought I liked like--
+
+**Michelle Chen:**  [Math]. Yeah, yeah. Yeah.
+
+**KS:**  [Your school] math.
+
+**Michelle Chen:**  [Chuckles] okay.
+
+**KS:**  I don&#39;t like Duke Math.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  that&#39;s fair. Um, yeah. Okay. Um, so I guess, in those classes, how hard was it for you to ask for help? or, did you feel like you needed help?
+
+**KS:**  Um, help from students or help from TAs? Or?
+
+**Michelle Chen:**  Um, I would say more like from the department. So, like from TAs or your professor.
+
+**KS:**  Yeah. Um, so 308, it was nice to have those meetings.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  With the people, but the projects were so big that I think I would&#39;ve learned more on a smaller scale of like, &quot;This is what&#39;s wrong with this code.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, right? it-- as where we may have so many things to do with and so many different projects. And they&#39;re big projects, especially when you get on a group thing. And so, I think it&#39;d be helpful to, like, have those same sessions, but on a smaller like--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  &quot;This code, here&#39;s what&#39;s flawed with this code and how you can make it better.&quot;
+
+**Michelle Chen:**  Like with [CEs]?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  Um, 310 was fine.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, I think.
+
+**Michelle Chen:**  That&#39;s how I felt too.
+
+**KS:**  Yeah, especially in a group project. Like, someone has the knowledge to, like, make it through.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So [we&#39;d be]-- I didn&#39;t went to the TAs as much.
+
+**Michelle Chen:**  Uh, yeah.
+
+**KS:**  Um. 330, the TAs were somewhat helpful but I didn&#39;t go as much as I probably should have, um, but I think TAs said different things sometimes, which was kind of confusing.
+
+**Michelle Chen:**  Yeah, yes.
+
+**KS:**  Um.
+
+**Michelle Chen:**  As like different ways to solve the problem, right?
+
+**KS:**  Yeah. Yeah.
+
+**Michelle Chen:**  Um, then so, for each of these classes, how could your experience [had] been better?
+
+**KS:**  Uh. Hm. I-- I think my biggest issue is, with 330 and the focus that 330 has, and maybe they deem that, like, necessary-- I don&#39;t necessarily deem it necessary.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  Um, because I think it&#39;s more important to learn the algorithm and then learn how you can apply that later.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Not necessarily prove why that algorithm is correct. Because I think the easiest part was always getting the algorithm but not-- and then the hardest part was--
+
+**Michelle Chen:**  The proving it.
+
+**KS:**  The proving it. And, am I ever going to use that again? Probably not.
+
+**Michelle Chen:**  True.
+
+**KS:**  So, I think that was my biggest issue.
+
+**Michelle Chen:**  Just making it less theoretical.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  And about proof.
+
+**KS:**  And more practical, but I&#39;m also, like, really into the practicality of things.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So.
+
+**Michelle Chen:**  Yeah. Hi Sarah.
+
+**KS:**  Hi, hi.
+
+**Michelle Chen:**  Do you guys know each other?
+
+Sarah: I--
+
+**KS:**  I think so.
+
+Sarah: yeah.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  You guys are both engineers.
+
+Sarah: yeah.
+
+**Michelle Chen:**  So.
+
+**KS:**  [Inaudible], right?
+
+Sarah: yeah.
+
+**KS:**  Oh, cool.
+
+**Michelle Chen:**  Wait. I thought you could [borrow] the other shirt.
+
+Sarah: no. Which was the other shirt?
+
+**Michelle Chen:**  The one that I wore yesterday.
+
+Sarah: I don&#39;t know if this the-- we&#39;ll talk about [when you&#39;re done here].
+
+**Michelle Chen:**  Okay, later. Anyway. Continue. So, what about in other classes? I guess like, how could your experience have been better?
+
+**KS:**  Yeah, I think my biggest issue with the CS department, and it&#39;s not necessarily a CS department problem, because I know, like, the funding issue and all that stuff, is [ECE] is like doing the job of some of the CS classes.
+
+**Michelle Chen:**  Okay. What do you mean?
+
+**KS:**  Um. If you, like, look at the-- at the [ECE] department, a lot of them look like CS classes, smell like CS classes, are CS classes.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  [But we&#39;re] not CS classes. Um, so that software-- Engineering Software for Maintainability class, sure you can categorize it as ECE and I can see why they call it engineering.
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  But it&#39;s very computer science.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  That&#39;s all we&#39;re doing, is coding. Um, so. And then there&#39;s this, uh, Mobile App Development class that&#39;s ECE solely and I wanted to take it as my CS elective and they said &quot;No, it&#39;s an ECE class.&quot;
+
+**Michelle Chen:**  Interesting.
+
+**KS:**  It&#39;s all in Swift. So.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  There&#39;s just a lot of ECE classes that-- a few of them are [crossed-like] stuff, but most of them aren&#39;t.
+
+**Michelle Chen:**  And they don&#39;t let you?
+
+**KS:**  And they don&#39;t let you count them for your elective.
+
+**Michelle Chen:**  Huh.
+
+**KS:**  Um, and there&#39;s a lot of cool ones that I think CS, like, majors would love to take.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, but they can&#39;t. Well, they can, but they don&#39;t, like, [look at them] as often. So, I know when Ferris discovered the EC classes, he was like, &quot;Oh, my gosh, I had no idea.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So that kind of thing.
+
+**Michelle Chen:**  I&#39;m taking an ECE class this semester.
+
+**KS:**  Yeah? which one?
+
+**Michelle Chen:**  Performance and Technology.
+
+**KS:**  Oh, yeah.
+
+**Michelle Chen:**  Yeah. It&#39;s, like, actually pretty cool. But, I-- I agree. I just-- also, the electives in the CS department are--
+
+**KS:**  Like three.
+
+**Michelle Chen:**  There&#39;s like three of them.
+
+**KS:**  Yeah. There&#39;s not many.
+
+**Michelle Chen:**  Um so, do you wish-- Is there a reason why-- like, what happens when you talk to ECE and you&#39;re like, &quot;Hey.&quot; Like, why did they not let you count it? [As] CS.
+
+**KS:**  Um, so it was actually the CS-- you know what, I don&#39;t know. So, I asked the CS department, they just said &quot;No.&quot; So I asked ECE department and they were like, &quot;Oh, is [cross] [inaudible]?&quot; And I was like, &quot;No.&quot; and [her], &quot;Oh, okay. Then no.&quot;
+
+**Michelle Chen:**  There was no like--
+
+**KS:**  They were just very stubborn about it, which was such a different experience from my [hub at PoliSci]. I&#39;m doing a PoliSci minor.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  And I got three [inaudible] classes to count towards my PoliSci minor.
+
+**Michelle Chen:**  [What is that?]
+
+**KS:**  And [I&#39;m taking] five classes, like--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  It&#39;s not-- it was just super easy to. So.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Uh, I was kind of surprised by that. So I ended up having to do a CS independent study instead of doing a CS elective because, um.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I couldn&#39;t-- I didn&#39;t A, I didn&#39;t want to do any of the electives, and B, like--
+
+**Michelle Chen:**  Are you doing it this semester?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Wait. I-- me too. I&#39;m-- Okay. Well, full disclosure, this-- so I was supposed to make a website for my independent study and then I just asked [inaudible] if I could do this instead.
+
+**KS:**  Oh, nice.
+
+**Michelle Chen:**  I literally put it off until right now.
+
+**KS:**  Oh. Yeah.
+
+**Michelle Chen:**  But what-- so, what are you doing for your independent study?
+
+**KS:**  So, funny enough, I&#39;m actually doing like a sorority recruitment manager thing.
+
+**Michelle Chen:**  Oh, whoa.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  You&#39;re, like, making one?
+
+**KS:**  Yeah. So, it&#39;s like a website.
+
+**Michelle Chen:**  Damn.
+
+**KS:**  And, basically, what it does is-- is it like-- I don&#39;t know. So you did recruitment, right?
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  So, ugh, the amount of manual work that I had to do was so [shitty].
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I was like, &quot;Tech could, like, just make all of this easy.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So, instead of having to go through and make sure, and, like, find out who hasn&#39;t filled out the form and [I mean] like have a manual way that, like, had matches&#39; names. Right? So, if Lauren [inaudible] [because] her name is [LPC], like, it won&#39;t--
+
+**Michelle Chen:**  It won&#39;t, yeah.
+
+**KS:**  Like, it won&#39;t miss her.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, and [it won&#39;t], like, count her off, as like, doing it-- that [sheet] will automatically send [reminders people] based on deadlines.
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  And, well, like have a budget for the recruitment managers to go off.
+
+**Michelle Chen:**  That&#39;s so interesting.
+
+**KS:**  And, like, [we&#39;ll] have a place for [Alpha checks] to be sent in and, like, then people can automatically accept them, like, with the press a button and then reject them based on what ground they want to.
+
+**Michelle Chen:**  Whoa. Have you finished it?
+
+**KS:**  Uh, no. It&#39;s now like my, basically, sole focus along with one other project that I&#39;m doing.
+
+**Michelle Chen:**  What?
+
+**KS:**  Interviews.
+
+**Michelle Chen:**  Have you been, like, working on it the whole.
+
+**KS:**  I meet with [Duvall] once a week. And so, I haven&#39;t been putting in as much work as I want to but I do put in, like, periodic work on it.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And so, I finally got up to the point where I&#39;m like pretty satisfied with it, but I think another, like, 10 to 20 hours of work, will put it to a point where it&#39;s like pretty usable. And then, I think another 40 hours of work will make it to the point where it&#39;s like very, very useful and, like, good stuff.
+
+**Michelle Chen:**  Yeah. Wow. Interesting.
+
+**KS:**  Yes.
+
+**Michelle Chen:**  Um. And then-- this-- so this question is, like-- the last question is pretty broad, but what could the CS department do better? or, do you have any last comments or qualms? like things that you wish, like you just want someone in the department to, like, to know?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  I guess.
+
+**KS:**  I think it&#39;d be that the ECE [comp site] disconnect.
+
+**Michelle Chen:**  That&#39;s-- that--
+
+**KS:**  Tho-- those two, especially being a ECE CS major, it-- it&#39;s interesting to see all the ECE classes that I think are cool, that I&#39;m so surprised like aren&#39;t CS.
+
+**Michelle Chen:**  [Inaudible] CS.
+
+**KS:**  Um, and so, I think I feel bad for the CS department because I-- I know that they&#39;re struggling to, like, keep up with all of these students and, like, the growth has been huge and it&#39;s just hard for them to keep up.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And I think they&#39;re hiring six new professors, I think I heard.
+
+**Michelle Chen:**  Oh.
+
+**KS:**  Um, to-- for-- to replace professors that have a le-- left.
+
+**Michelle Chen:**  Oh. Okay.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  So, not as good.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Um.
+
+**KS:**  Um, but I think the differences that I&#39;ve seen from, like, other students at internships versus me.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Um, it&#39;s just like the breadth of languages, right? as you go through.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  Um, especially because you get to know Java pretty well. But that was the only one that I would, like, say that I was comfortable with going into Facebook.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Right. Like very, very comfortable with and was like, &quot;I can do Java very well.&quot;
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I-- I knew Python a little bit, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I can, like, pick up another language.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But I don&#39;t think I had the confidence to, like, really say &quot;I know this language.&quot; And that&#39;s partially my own fault. Right?
+
+**Michelle Chen:**  Uh.
+
+**KS:**  You can always do a different side projects.
+
+**Michelle Chen:**  I think the department could also--
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Do more.
+
+**KS:**  Because-- and you bounce around too, right?
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So, CS 250, you take C.
+
+**Michelle Chen:**  C.
+
+**KS:**  And then you do [MIPS] and then you-- yeah.
+
+**Michelle Chen:**  That was a disaster for me, but-- yeah, yeah. [MIPs]
+
+**KS:**  Yeah, right? And so, it&#39;s just like you kind of do C and then you move on.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And you kind of toss [it] away. I don&#39;t know if I&#39;ve written a program in C. I think I&#39;ve written maybe one since then.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So, there&#39;s just no repetition.
+
+**Michelle Chen:**  I guess, do you feel like you were prepared for your internships? Did you feel behind from all the other interns?
+
+**KS:**  Uh, I didn&#39;t feel behi-- well, other than the Master&#39;s student. Um, I felt a little bit behind but not-- not a huge discrepancy.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  Um, I think 308 was really helpful. If I had not done 308, I think I would have been a lost puppy dog, like searching for--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, anything.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, so I think 308, in that sense, like really whipped me into shape.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  That it was necessary for, like, me learning correct code tendencies.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, and so, I would say that was probably, like, the most important thing that I--
+
+**Michelle Chen:**  That you got.
+
+**KS:**  That I did. Yeah.
+
+**Michelle Chen:**  And then, so this is just my personal curiosity, but, like, do you feel more supported by the ECE department, like, versus the CS Department? or, like, are there things that you think the CS department could learn from the ECE department? Or are they both kinda like lost?
+
+**KS:**  Yeah, I wouldn&#39;t-- uh, huh. I wouldn&#39;t say that I&#39;ve been, like-- I have a ton of people that I-- like professors and support system, like in either of them?
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  Not that I feel like I&#39;ve needed it.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I think If I needed it, I would find it.
+
+**Michelle Chen:**  Find it, yeah.
+
+**KS:**  I just--
+
+**Michelle Chen:**  Don&#39;t.
+
+**KS:**  Don&#39;t have it and I don&#39;t think I, like--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Super [needed] it. Um, meeting with Duvall has been really good because he&#39;s my independent study advisor.
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  But I-- like, just talking with him about, like, different ideas and, like, the web application and things like that.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So, that&#39;s been pretty good. Um, and then I&#39;ve learned a few different things from the ECE department. But I think-- I mean, what do you know about the CS department funding? Because--
+
+**Michelle Chen:**  I just-- that apparently they don&#39;t have any.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Like at all and kind-- I think it&#39;s kind of ridiculous because, like--
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Someone said the major has, like, quadrupled in size and the number of professors hasn&#39;t changed and-- and I&#39;m just like-- because, like, what a lot of people have been talking about was just like not feeling supported by the department.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  In the-- their-- like, for example, [inaudible], he&#39;s my independent study advisor, but he&#39;s also my, like, general CompScie advisor because.
+
+**KS:**  Mhm.
+
+**Michelle Chen:**  But, like, because he has so many students, he schedules his advising meetings in like five to ten minute increments.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Have you seen any?
+
+**KS:**  Yeah, he&#39;s my CS advisor as well.
+
+**Michelle Chen:**  Okay, yeah. And like, I don&#39;t ever-- I never felt really, like, I could-- and he like [does it in the] Bryan Center and you would, kind of, go up to him and he&#39;s like, &quot;Are you ready to enroll?&quot; And they are just like-- I-- I never felt like I could really say like, &quot;I have a lot of questions,&quot; because I had a lot of questions. I was like, &quot;Should I be, like, doing the--?&quot; like &quot;What&#39;s the difference between the PS and the PA?&quot; Like-- like &quot;Should I be considering these classes?&quot; Like &quot;What order should I take the--?&quot; But I, like, was never--
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  I could never felt like I-- I could sit down with a [inaudible] of the conversation.
+
+**KS:**  Oh, definitely.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So. You know, I totally feel that. But it-- on [inaudible] in particular-- It&#39;s funny but this project is for him, but I think I emailed him a few times about doing things and never heard a response. And I think Ferris emailed six times about a 201 replacement because-- yeah, a 201 replacement because he didn&#39;t take 201 but like he&#39;s doing a CS major. So, like what would be their [inaudible] for that--
+
+**Michelle Chen:**  He is doing CS?
+
+**KS:**  Never heard back from him. Yeah.
+
+**Michelle Chen:**  Oh.
+
+**KS:**  Um, and so as we gave up, like, trying to find out because he just couldn&#39;t, like, ever find out, like, what the 201 replacement would be like.
+
+**Michelle Chen:**  Yeah. Like, I-- I mean I&#39;ve had meetings scheduled with [inaudible] and, like, he just, and like outside of his office and he&#39;s like &quot;Oh. Were we supposed to meet today? and I&#39;m like, &quot;Yes! according to our emails, like yes.&quot; Yeah, but.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  So--
+
+**KS:**  I think he&#39;s just overworked.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And so, I have a probl-- I have, like, issues really complaining about it because I-- I just like, with the current staff--
+
+**Michelle Chen:**  You [inaudible]
+
+**KS:**  I&#39;m like I don&#39;t-- I don&#39;t know how they would really improve anything.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  I think they&#39;re doing [it] [to] the absolute best they can, but I think, like, at a higher level, like it&#39;s a-- it&#39;s a serious issue that, like, should be addressed.
+
+**Michelle Chen:**  Yes.
+
+**KS:**  I just don&#39;t think-- Yeah.
+
+**Michelle Chen:**  Yeah. I agree with you. I guess, so, I&#39;m trying to think because, do you-- do you feel this way about ECE too, that they&#39;re, like, severely understaffed?
+
+**KS:**  I don&#39;t.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  Uh, I think that&#39;s also because they have the different tracks. And so, I was actually thinking-- thinking that this is where the conversation was going to go, um, about, like how the CS department could improve and I was like, &quot;Huh, the different tracks could be kind of interesting.&quot; because every student kind of has their own, like--
+
+**Michelle Chen:**  Interest and so.
+
+**KS:**  Interest [in] niche. So, if they want to go into-- and it&#39;d be interesting to have, like, even two or three different tracks. But like, you know, the professor [all use] tracks, right?
+
+**Michelle Chen:**  So, ECE has that?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  ECE itself has tracks?
+
+**KS:**  Yeah, it has like four or five tracks. But, one is Digital Systems and then one is Nanotechnologies, right? Like, they&#39;re-- they&#39;re very different.
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  Their signals, um, things like that. But, you-- you can go through the EC department. If you&#39;re [EC-CS], you&#39;re on digital systems track, period, pretty much. But um, there&#39;s a lot of other different tracks you can take as an ECE major.
+
+**Michelle Chen:**  Wow. I did not know that.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  It&#39;s very interesting.
+
+**KS:**  So, I think the CS department-- and I don&#39;t know what the tracks would look like. I haven&#39;t thought that, like, that much through it. But like, it could be an interesting thing to just like--
+
+**Michelle Chen:**  Way for them to--
+
+**KS:**  Yeah. that the students [inaudible].
+
+**Michelle Chen:**  Wait, are there core classes for ECE, like all the same? And then--
+
+**KS:**  They are. Yeah.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  So, it&#39;s like you have ECE 230, 250, 270 and 280, and those correspond to, like, four different tracks.
+
+**Michelle Chen:**  Okay.
+
+**KS:**  [So you get] a taste of each of the different tracks and then you, like, decide which one you&#39;re going to--
+
+**Michelle Chen:**  Whichever you want.
+
+**KS:**  Go through.
+
+**Michelle Chen:**  Interesting.
+
+**KS:**  And, like, do that.
+
+**Michelle Chen:**  Is Ferris also ECE?
+
+**KS:**  He&#39;s not, he&#39;s [math-physics] CompSci.
+
+**Michelle Chen:**  Oh my God. Why?
+
+**KS:**  I know. He&#39;s actually [inaudible] major.
+
+**Michelle Chen:**  [Inaudible] said to me once that the-- he was like-- yeah, &quot;Ferris is the smartest person I&#39;ve ever met.&quot; I was like &quot;Oh.&quot;I don&#39;t know Ferris in that-- the only [inaudible] I know of Ferris, I feel like is, like, when I see him out.
+
+**KS:**  Drunk at a party.
+
+**Michelle Chen:**  Yeah, exactly! it&#39;s so-- [actually it&#39;s] so funny. It&#39;s like people here are so smart, and so talented, and then, like, the context at [inaudible], like we always see each other, it&#39;s like at Shooters or, like, have a party and then you realize-- and then I-- here, like, he is a math and ECE, or in CompScie and in physics now.
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Whoa.
+
+**KS:**  It&#39;s insane. He works a lot.
+
+**Michelle Chen:**  That&#39;s crazy.
+
+**KS:**  Yeah. It&#39;s--
+
+**Michelle Chen:**  How [inaudible]?
+
+**KS:**  Uh, like ten months.
+
+**Michelle Chen:**  Ten months?
+
+**KS:**  Yeah.
+
+**Michelle Chen:**  Are we-- are you guys-- do people ask you this a lot [inaudible] [mystery]?
+
+**KS:**  Yeah. Yeah.
+
+**Michelle Chen:**  Have you talked about that?
+
+**KS:**  Yeah, we are.
+
+**Michelle Chen:**  You are?
+
+**KS:**  Yes. We&#39;re gonna-- we&#39;re going to-- to see how that goes, um, because like, he&#39;ll be in London for the summer and then Duke, right?
+
+**Michelle Chen:**  Uhu.
+
+**KS:**  For the next year. So like, that&#39;s all a long way.
+
+**Michelle Chen:**  Yeah. But, does he-- does he want to move to a new--? because you&#39;re in Silicon Valley, right?
+
+**KS:**  Yeah, I&#39;ll be in Silicon Valley. Yeah. He wants to move out there but he&#39;s his phd in, like, quantum computing, potentially, um, if he can, like, get it.
+
+**Michelle Chen:**  Oh my god. Whoa.
+
+**KS:**  Yeah. Um, and who knows where that would be. Right? So like, short term--
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And I&#39;m not like looking, like, really that hard but like, if-- if we&#39;re like talking just like time chunks, that&#39;s kind of like what is looking.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  So.
+
+**Michelle Chen:**  I feel you guys, like, can make it. And like, you go and visit each other, like, it&#39;s an excuse for you to go back to Duke like.
+
+**KS:**  Exactly. That&#39;s part of why I&#39;m like &quot;Okay.&quot; Graduation is like &quot;Okay.&quot; Because I&#39;ll be back a decent amount, in-- in theory.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, and I can, like, go to the restaurants that I missed.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  And like things like that. So.
+
+**Michelle Chen:**  It&#39;s weird to re--
+
+**KS:**  It&#39;s so weird.
+
+**Michelle Chen:**  Yeah. So I guess-- okay, sorry. I know that was tangent.
+
+**KS:**  [They&#39;re] alright.
+
+**Michelle Chen:**  Is there anything else that you, sort of, want to say or like-- I just-- cause I&#39;m gonna-- it&#39;ll all be anonymous, but I really-- I&#39;m going to try to write something and be like &quot;Here are things that this department could do better.&quot;
+
+**KS:**  Yeah, I mean, I think everyone would say, like, different electives and, hopefully, they&#39;re doing that with 371, the Machine Learning class, right?
+
+**Michelle Chen:**  Mhm.
+
+**KS:**  Um, where it&#39;s a lower-level machine learning class. But I would-- I found myself being like, &quot;Oh, I kinda wanna do that machine learning or AI class.&quot; And they were, apparently, so proof-heavy and, like, so. Which is fine, because that&#39;s kind of what their expertise is in.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  But I think a lot of other students would be interested in, like, the lower level AI Machine Learning class. So, I think maybe 371 is already doing that.
+
+**Michelle Chen:**  Yeah.
+
+**KS:**  Um, But, I think for me, I think AI is only offered once every year, right?
+
+**Michelle Chen:**  Yeah, I think so.
+
+**KS:**  Uh, and then the 371 class I think is new, and so, like that would have been interesting to me. Like--
+
+**Michelle Chen:**  To sort of--
+
+**KS:**  Before I was graduated.
+
+**Michelle Chen:**  Yeah, yeah.
+
+**KS:**  And I think I&#39;ve heard not so great things about the AI Class, the 270 class.
+
+**Michelle Chen:**  Uh, so that kind of kept me away from taking it, um, just because it wasn&#39;t as practical, but I think just different electives would be--
+
+**Michelle Chen:**  Helpful.
+
+**KS:**  Kind of nice.
+
+**Michelle Chen:**  Yeah. Well thank you.
+
+**KS:**  Yeah!
+
+**Michelle Chen:**  So much.
+
+**KS:**  Of course.
+
+**Michelle Chen:**  For doing this. This was super awesome. I really-- you have really good perspectives.
 
 </p>
 </details>
