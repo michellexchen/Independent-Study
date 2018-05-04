@@ -44,29 +44,29 @@ Though most of the steps listed are largely self explanatory, here I want to hig
 
 In order to come up with the interview questions, I first detailed what I was hoping to get out of this study. I decided that 1) I wanted to understand how gender and gender attitude influenced experiences in CS at Duke, and 2) I wanted to learn more about specific experiences within the department. I believed that getting anecdotes about these experiences would allow me to give a better recommendation to the department about what was going well and what changes needed to be made. The questions I came up with are as follows, with a deeper analysis of each question in its sub-bullet:
 
-1. What year are you at Duke?
+**1. What year are you at Duke?**
     1. This was simply a baseline question; though I knew the answer for each of the students, I figured that it would be helpful for my professors to read if they were to ever dig through the transcripts.
-2. 308, 330, 310: Which of these have you taken and in what order were they taken in?
+**2. 308, 330, 310: Which of these have you taken and in what order were they taken in?**
     1. This was another baseline question for me to better structure the interview later on when I asked about experiences in specific classes.
-3. Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?
+**3. Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?**
     1. This question was important to me because I wondered if confidence in CS started early, or if experiences at Duke were impacted by experiences prior to Duke. I also wanted to see if retention for women and marginalized identities was a problem that started in college after students began to feel discouraged, or if it began all the way in high school. Finally, I was curious about whether or not experience CS prior to Duke encouraged students to &#39;tough it out&#39; and stay with the major over students who experienced CS for the first time at Duke.
-4. Does your family encourage you to study Computer Science? In what ways do they or do they not?
+**4. Does your family encourage you to study Computer Science? In what ways do they or do they not?**
     1. This question was important in analyzing external factors for continuation--were students pursuing the major because their parents insisted or did they genuinely enjoyed the challenge? I wanted to see whether or not self-confidence and perception was influenced by family over the Duke community.
-5. Who do you surround yourself with in classes, group work, research experiences, and other aspects of CS learning? Why do you think you have chosen these individuals to surround yourself with?
+**5. Who do you surround yourself with in classes, group work, research experiences, and other aspects of CS learning? Why do you think you have chosen these individuals to surround yourself with?**
     1. This question was important to me because I wanted to analyze the effect of the social culture at Duke on CS experiences (namely greek life and SLGs). I also thought this would reveal female working patterns in relation to the general CS community, as well as help me understand how relationships were formed within the major.
-6. Do you think your experience in the Computer Science major has been different than most male students&#39; experiences? If yes, how so?
+**6. Do you think your experience in the Computer Science major has been different than most male students&#39; experiences? If yes, how so?**
     1. This question was the first in my series of questions relating to gender and experiences in CS. I flipped male for female if the interviewee was a male student, and I used this question to generally gauge opinions and ask appropriate follow up questions.
-7. In what ways has your gender impacted your experience as a Computer Science major?
+**7. In what ways has your gender impacted your experience as a Computer Science major?**
     1. As mentioned, this was a follow-up question to the last one. I used it as a way to probe deeper into gender attitudes and their influence on self-perception and experiences within the major.
-8. Does gender influence how you see teammates?
+**8. Does gender influence how you see teammates?**
     1. This question I added because I wanted my interviewees to think more critically about how they interacted with other people within the major. We often have implicit biases that influence power structures and dynamics within even the closest of relationships; this is exacerbated within the CS major.
-9. How do you think your race/socioeconomic status/other identity factors besides gender have impacted your computer science education experience?
+**9. How do you think your race/socioeconomic status/other identity factors besides gender have impacted your computer science education experience?v
     1. This was another way for interviewees to reflect upon how their identity factors impacted and influenced their experiences.
-10. Do you feel as if there is a community in which you are welcome in Duke&#39;s CS department?
+**10. Do you feel as if there is a community in which you are welcome in Duke&#39;s CS department?**
     1. In this question, I began to shift more to Duke CS specific questions. I wanted to get a feel for how engaged people felt within the community, if they felt there was one at all. I used this question to figure out general attitudes about the department to create a more engaging and productive conversation.
-11. What was your experience in 308/310/330? How hard was it for you to ask for help? Did you need help? How could it have been better?
+**11. What was your experience in 308/310/330? How hard was it for you to ask for help? Did you need help? How could it have been better?**
     1. This question was course-specific, inspired in part by my conversation with Professor Astrachan. I wanted to understand more about experiences in higher level CS classes, as well as what could have improved experiences.
-12. What could the CS department do better?
+**12. What could the CS department do better?**
     1. This question was a pretty big and open-ended one. I used it as a way for the interviewee to tell me anything they wanted and to catch any comments/conversations that hadn&#39;t been said prior.
 
 I was pretty deliberate in choosing the people I wanted to interview. I made sure I had a diverse mix of people across race, gender, socioeconomic status, experiences, affiliation, age, and perspectives. I interviewed more women than men; this was a deliberate decision. Though I won&#39;t do a full profile breakdown as to maintain a semblance of anonymity, I&#39;ll break down demographics here with some fast facts:
