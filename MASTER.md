@@ -439,7 +439,7 @@ Michelle
 
 **PT:**         I don&#39;t know. I don&#39;t affiliate myself that much with like CS communities. I used to be on the exec team for hockey, which I left but like I also like that&#39;s not, that&#39;s a programming as in like it&#39;s an events programming committee rather than like an actual, like computer science thing. And like I had ACM but like I just don&#39;t do anything so it doesn&#39;t matter.
 
-Speaker 4:        What about group projects? Have you taken group project based classes?
+**Michelle Chen:**         What about group projects? Have you taken group project based classes?
 
 **PT:**         Yeah like I deliberately choose to work with my friends and then like my friends were mostly women so I&#39;ll have at least one person like on my side. We have like, like in the current, like 310 group, our  third partner who&#39;s a dude, he&#39;s bad at communicating and he&#39;s like, he just ends up doing all the work because he doesn&#39;t communicate to us what we need, but like honestly I don&#39;t care. I&#39;m like, I don&#39;t think that&#39;s a gender based. I just think it&#39;s a dude who&#39;s bad at communicating.
 
