@@ -108,7 +108,7 @@ It might be ironic for me to say this considering the fact that so much of my an
 I now want to answer the same interview questions I posed to my interviewees.
 
 1. What year are you at Duke?
-  1. I am a senior.
+    1. I am a senior.
 2. 308, 330, 310: Which of these have you taken and in what order were they taken in?
   1. I&#39;ve taken all three. I took 308 my sophomore fall, then 310 in my junior spring, and 330 in my senior fall.
 3. Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?
@@ -148,7 +148,7 @@ In this section, per the advice of my advisors, I have chosen to simply highligh
 
 ### **CS Background Prior to Duke**
 
-**Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?**
+#### **Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?**
 
 &quot;My dad is a software engineer, so I kind of grew up knowing about that world, but I both took and taught computer science based classes at my high school. The summer before I came to Duke I had a documentation internship at an IT automation company. I did a lot of software adjacent and stuff there and was paid for it, so **I had a sense of my value as a worker coming into Duke.** I remember the CS class that I taught, but also in the one I took, it would be mostly white boys and a couple women and some women of color— I think there was one.&quot; —PT
 
@@ -504,7 +504,7 @@ If you&#39;ve made it this far into the paper, I commend you! I hope you&#39;ve 
 </p>
 </details>
 
-<details><summary>  Article referenced in PT interview </summary>
+<details><summary>  Book referenced in PM interview </summary>
 <p>
   
 [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy Hardcover](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815)
@@ -1127,7 +1127,7 @@ Michelle
 
 **Michelle Chen:**         Yeah, I guess so talking about other identity factors, how do you think your race or socioeconomic status or any other identity factor besides gender has impacted your CS experience?
 
-**AW:**         Um, so I think the first thing that comes to mind for SES is that a lot of people pursue computer science because it&#39;s lucrative and that comes with certain benefits or negative externalities. But just like that comes with certain differences in mindset than mine because I&#39;m lucky that while my parents would say like, you need to pursue something that will support you, I&#39;ve never felt-- I come from like a athletic background, so I never had to feel that urgency and I think that&#39;s given me definitely a lot of privilege in the sense that I don&#39;t have to worry about it as like a, I have to do this because it will make me money in the same way that like, I also don&#39;t have to worry about like being a consultant or being a banker to make money. Right. All right, I guess what I mean by that is like, I think it makes a difference but it doesn&#39;t make a difference so much in the fact that I&#39;ve chosen compsci.
+**AW:**         Um, so I think the first thing that comes to mind for SES is that a lot of people pursue computer science because it&#39;s lucrative and that comes with certain benefits or negative externalities. But just like that comes with certain differences in mindset than mine because I&#39;m lucky that while my parents would say like, you need to pursue something that will support you, I&#39;ve never felt-- I come from like a affluent background, so I never had to feel that urgency and I think that&#39;s given me definitely a lot of privilege in the sense that I don&#39;t have to worry about it as like a, I have to do this because it will make me money in the same way that like, I also don&#39;t have to worry about like being a consultant or being a banker to make money. Right. All right, I guess what I mean by that is like, I think it makes a difference but it doesn&#39;t make a difference so much in the fact that I&#39;ve chosen compsci.
 
 **AW:**         But like, once I&#39;m in it, like how I think about it, like how, how much urgency there is. Um, and then as far as race goes, not really, but maybe that&#39;s just because I think maybe that&#39;s because I&#39;m a PM. And so I think of it as like, I suppose if I like have subconsciously bought into the uh, Asian awkward programmer, like male, Asian male, awkward, like socially awkward programmer stereotype. Like I feel like that doesn&#39;t apply to me both in terms of my actual occupation because I don&#39;t have the job of a programmer, but also like that&#39;s not how I see myself. I would consider to be like I don&#39;t, I don&#39;t see myself as socially awkward. So like those things also I think afford me a certain amount of confidence in how I interact in the tech world.
 
@@ -1723,7 +1723,7 @@ Michelle
 
 **Michelle Chen:**         So, I mean why do you think that is? Like, and do you think it&#39;s specific to C.S. or it&#39;s like exacerbated?
 
-**CT:**         I mean, I think it&#39;s kind of specific to C.S. I don&#39;t know. I wasn&#39;t ... Like, I guess maybe because they ... Like, also, in hack-up-ons, like, a lot of them already, like, have been hacking or know how to hack and I feel like that&#39;s something maybe they grew up kind of doing, like, with their friends or just for fun and that&#39;s not something I ever picked up for fun or knew that I wanted to try or do, like-
+**CT:**         I mean, I think it&#39;s kind of specific to C.S. I don&#39;t know. I wasn&#39;t ... Like, I guess maybe because they ... Like, also, in hackathons, like, a lot of them already, like, have been hacking or know how to hack and I feel like that&#39;s something maybe they grew up kind of doing, like, with their friends or just for fun and that&#39;s not something I ever picked up for fun or knew that I wanted to try or do, like-
 
 **Michelle Chen:**         Yeah.
 
