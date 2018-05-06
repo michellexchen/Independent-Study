@@ -133,14 +133,14 @@ I now want to answer the same interview questions I posed to my interviewees.
     3. 330 - Honestly, I had no idea what was going on in this class. It was so insanely hard, Rong is brilliant but sometimes it seems like he doesn&#39;t understand the rest of the class is not at his level. Homeworks were dreadful and took forever (I found out in an interview that they were supposed to take 5 hours each... I spent way more than that each week). Tests were incredibly difficult but I didn&#39;t not know any of this going into the course. I didn&#39;t think it was hard to ask for help but office hours weren&#39;t always helpful since I was oftentimes confused about what we had learned in class, which made it hard for me to take full advantage of them. I think the course needs to do a better job of outlining the semester so that students understand the modularity of the course.
 12. What could the CS department do better?
     1. More student professor engagement— I feel lucky to have gotten to know Professor Astrachan, which I truly think was only because I was able to take a small seminar-style course with him. I hardly know any of the other professors in the department, despite the fact that this is my major.
-  2. More female representation—in classes, TAs, and professors
-  3. More emphasis on collaboration
-  4. Clearer expectations about how long assignments should take
-  5. Less of an &#39;all or nothing&#39; mentality about grading
-  6. Modernize
-  7. Secure more funding! There are definitely students who would be willing to help the department with this, if there were communication about how to do it
-  8. Create a newsletter for students
-  9. More devotion to teaching lower-level courses right (specifically 201)
+    2. More female representation—in classes, TAs, and professors
+    3. More emphasis on collaboration
+    4. Clearer expectations about how long assignments should take
+    5. Less of an &#39;all or nothing&#39; mentality about grading
+    6. Modernize
+    7. Secure more funding! There are definitely students who would be willing to help the department with this, if there were communication about how to do it
+    8. Create a newsletter for students
+    9. More devotion to teaching lower-level courses right (specifically 201)
 
 ## **FINDINGS**
 
@@ -298,17 +298,11 @@ I took 310 abroad.
 
 There were slides going through what maybe textbooks would cover, but not what would be super useful to engaging in the problem sets.&quot; –CT
 
-&quot;In 330, th **e** grad TAs are kind of, assholes. One of them—he&#39;s straight out of undergrad and he is really smart. I don&#39;t know. He&#39;s really smart but he&#39;s really bad at explaining and I always feel he&#39;s judging me. I&#39;ve never even asked him a question, but I went to his discussion once and just hearing him and from what I&#39;ve heard other people say about him, I don&#39;t want to ask. He assumes you know things and he&#39;s also just really mean, a mean grader.&quot; –SD
+&quot;In 330, the grad TAs are kind of, assholes. One of them—he&#39;s straight out of undergrad and he is really smart. I don&#39;t know. He&#39;s really smart but he&#39;s really bad at explaining and I always feel he&#39;s judging me. I&#39;ve never even asked him a question, but I went to his discussion once and just hearing him and from what I&#39;ve heard other people say about him, I don&#39;t want to ask. He assumes you know things and he&#39;s also just really mean, a mean grader.&quot; –SD
 
 On 250:
 
-&quot;
-
-1) forgot to submit bytwoorthree and recurse for hw1 in C and submitted it 10 mins late and so I sent screenshots that I hadn&#39;t touched it to grad TAs and the professor but they were like no
-
-2) for processor for my ALU XOR operation I individually XOR&#39;d each bit from my two inputs and my 8th bit from input 1 wasn&#39;t actually connected though it seemed like it so I passed all local tests since they didn&#39;t test it but then on the stringent tests I got fucked and they couldn&#39;t re-test it even though another TA was they should definitely re-test because its not implementation it&#39;s just one unconnected wire
-
-3) My cachesim passed all local tests but  none of their tests and their reasoning for not giving us all the tests on  gradescope is because they want us to make our own tests but the local tests they gave are 500 lines long so how would i write a better test than that? It would be a better learning opportunity to see what is wrong with my cachesim or see that it is failing tests and then be able to fix and debug it rather than just getting feedback that i messed up on their tests, and not knowing the issue as well as not having any incentive to fix them since it wouldn&#39;t affect my grade
+&quot; 1) forgot to submit bytwoorthree and recurse for hw1 in C and submitted it 10 mins late and so I sent screenshots that I hadn&#39;t touched it to grad TAs and the professor but they were like no 2) for processor for my ALU XOR operation I individually XOR&#39;d each bit from my two inputs and my 8th bit from input 1 wasn&#39;t actually connected though it seemed like it so I passed all local tests since they didn&#39;t test it but then on the stringent tests I got fucked and they couldn&#39;t re-test it even though another TA was they should definitely re-test because its not implementation it&#39;s just one unconnected wire 3) My cachesim passed all local tests but  none of their tests and their reasoning for not giving us all the tests on  gradescope is because they want us to make our own tests but the local tests they gave are 500 lines long so how would i write a better test than that? It would be a better learning opportunity to see what is wrong with my cachesim or see that it is failing tests and then be able to fix and debug it rather than just getting feedback that i messed up on their tests, and not knowing the issue as well as not having any incentive to fix them since it wouldn&#39;t affect my grade
 
 **This would never happen in a humanities class.** I understand if they make exceptions and deal with these cases it becomes a slippery slope but a big advantage at Duke vs a huge school  like Berkeley is smaller classes and individualized attention, and in these cases it&#39;s not really a fair punishment.   **If they want to increase the reputation of the CS dept they should make it more meaningful and accommodating and rewarding instead of feeling  you&#39;re just struggling against the system**&quot; --AL
 
