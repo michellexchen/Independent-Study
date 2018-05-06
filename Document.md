@@ -426,7 +426,7 @@ A small but interesting finding was that ECE/CS double majors who are women don&
 
 Students report feeling discouraged by the fact that there are not many electives offered by the department. As PM said in his interview, it is hard to call Duke CS &#39;interdisciplinary&#39; if there aren&#39;t the courses to back that statement up. More variety in electives--both in offering courses in systems and low-level programming, for example, and in social activism and thinking about how technology can be harmful--would be a step in the right direction.
 
-## **Grading**
+### **Grading**
 
 Several interviewees spoke about feeling frustrated that they could spend 30 hours on an assignment and still get a zero. More transparency about the time professors expect students to take on an assignment, as well as a way to grade not entirely on just the final product (but instead take into account the process) would help students feel more encouraged and may even motivate them to work harder on assignments.
 
