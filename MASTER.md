@@ -1,24 +1,24 @@
-**INTRODUCTION**
+##**INTRODUCTION**
 
-**Who am I?**
+###**Who am I?**
 
 Hello! My name is Michelle Chen, and I&#39;m a senior (and soon to be graduate) of the class of 2018. Though I vowed in high school to never study computer science for fear that I would become my mother, I was drawn to the idea that I could solve puzzles and problems all through writing lines of code. I took my first ever computer science course at Duke in my Freshman fall, found undeniable joy in my experiences in CS101 and CS201, and ultimately pursued a major in it. Over the past four years, I involved myself in various CS/tech related activities, from sitting as the Technology Chair of the Duke Association of Business Oriented Women to serving as the Director of HackDuke in my junior year. I have served as a TA for both CS101 and CS201 over several semesters, completed a sophomore internship as a PM in the Technology Division at Morgan Stanley, and done a two year fellowship under Interact (a program for technologists who share an enthusiasm for making intentional impact). Beyond tech, I&#39;m heavily involved in the Kenan Institute of Ethics and care a great deal about confronting issues of sexual violence at Duke and in Durham.
 
-**What is this?**
+###**What is this?**
 
 I have spent a lot of time this semester reflecting on my experiences both as a student and a woman in the Duke Computer Science department. As the Duke CS program only grows larger and larger and each graduating class sends more and more students into the tech industry, I believe it is imperative to reflect upon areas for growth, change, and improvement. My interests and experiences at Duke have led me to pursue an independent study (that is a synthesis of both CS and gender studies) under the direction of Owen Astrachan and Madeleine Lambert. I have gotten to know both of these professors well through my experiences both in and out of their respective courses; I am grateful to both of them for their support of this study.
 
 Though I was drawn to CS initially through the joy I found in the simplicity of code, the beauty in recursive functions, and the power in my ability to create programs that ran with purpose, not all of my experiences since freshman year have been as positive as they once were. In many situations, I have felt discouraged, devalued, and questioned my legitimacy as a CS student. Of course, I recognize that my experiences and beliefs are not necessarily shared ones—and this specific project was born, in a sense, out of that realization. More specifically, thanks to an extended conversation with Professor Astrachan about my experiences in the department as well as the background in interviewing and transcribing I gained in Madeleine&#39;s course, I chose to pursue a project that would both help me understand my experiences in CS, as well as the experiences of those around me. This document represents a culmination of my and my peers&#39; thoughts, experiences, and recommendations to the department. It uses qualitative analysis to look at fifteen case studies of current students which highlights similarities and differences in experiences, notable findings, and ultimately give recommendations on how to better address existing issues.
 
-**What did I find?**
+###**What did I find?**
 
-        In short, a lot of things that I was expecting to find, and some things that surprised me. I have organized the rest of this document into sections for easier consumption and comprehension. If you are interested in just the findings, I have highlighted several talking points in the Discussion section of this document.
+In short, a lot of things that I was expecting to find, and some things that surprised me. I have organized the rest of this document into sections for easier consumption and comprehension. If you are interested in just the findings, I have highlighted several talking points in the Discussion section of this document.
 
 
 
-**BACKGROUND**
+##**BACKGROUND**
 
-**Motivation**
+###**Motivation**
 
 The motivation for this project is twofold. The first is more personal—  as I approach graduation, I have been spending a lot of time reflecting on my experiences at Duke as a student, advocate, and friend. In an attempt to try to understand how the pieces of my life fit together—the 308 projects, the summer internships, the organizations and the communities I&#39;ve found, I sought out a space to synthesize my thoughts and experiences in one place. I often wonder what factors have discouraged me from entering the field in which I&#39;ve spent four years immersed in at Duke. In understanding this, I am trying to critically understand what changes could have been made to prevent the same thing from happening to someone else.
 
@@ -26,7 +26,7 @@ The second reason is broader and centers more around the small shifts that I hop
 
 Finally, I note here that this project was not the original project I had intended to complete. It is thanks to my conversation with Professor Astrachan about my experiences in CS at Duke and my reflections as I was graduating, as well as the support, foundation, and advice I received from Madeleine throughout the semester that made a project like this possible.
 
-**Procedure**
+###**Procedure**
 
 This project is comprised of several stages, which I have detailed below:
 
@@ -83,19 +83,19 @@ In order to come up with the interview questions, I first detailed what I was ho
 
 The interview process itself was both exciting and tiring; I ultimately completed fifteen interviews (with an average interview time of about 45 minutes) over the course of a month. However, three of the audio files recorded on my iPhone are corrupted and I have not been able to find a way to recover them. Thus, I utilized the knowledge I had about the interviewees as well as the content I remembered from our conversations and integrated that into the rest of my analysis. The interviews took place across campus, in people&#39;s apartments, and at all times of day. Some of my interviewees came with prepared thoughts and statements, others let the questions guide their opinions and thoughts. Ultimately, the conversations gave me a lot of insight into other peoples&#39; experiences and thoughts about their time at Duke. I&#39;ve had very similar experiences to many of my interviewees, and hearing their stories was comforting in a sense (or at least, the realization that I wasn&#39;t alone was rather comforting). I also note here that I&#39;ve had conversations on the side with various other students in CS (online and in person), and that I&#39;ve included many of their anecdotes and thoughts in my findings section as well.
 
-**Reach**
+###**Reach**
 
 Though I&#39;ve dedicated quite a bit of this report to detailing the purpose of my study, here I want to highlight what impact I hope it has. More specifically, I want to answer the questions: who do I hope reads this? Where do I want it to go?
 
-        At the base level, I&#39;d like for this paper to be read (or skimmed) by at least a few of the faculty members, specifically the ones that are just beginning their time at Duke. If they begin their tenure here having some of what this paper outlines in mind, they will be at a better position to actually affect change that makes both the department and the students&#39; experiences better. I&#39;d also like for this paper to be read by current students, particularly the ones who feel as though they don&#39;t belong within the CS community, or that they&#39;re struggling to get by. I want them to understand that their feelings are not only incredibly valid, but that they are not alone in feeling them. I believe that to hear other perspectives and stories is to more deeply understand our own. These same students are likely the ones who will let their discomfort drive them to push for change within the community.
+At the base level, I&#39;d like for this paper to be read (or skimmed) by at least a few of the faculty members, specifically the ones that are just beginning their time at Duke. If they begin their tenure here having some of what this paper outlines in mind, they will be at a better position to actually affect change that makes both the department and the students&#39; experiences better. I&#39;d also like for this paper to be read by current students, particularly the ones who feel as though they don&#39;t belong within the CS community, or that they&#39;re struggling to get by. I want them to understand that their feelings are not only incredibly valid, but that they are not alone in feeling them. I believe that to hear other perspectives and stories is to more deeply understand our own. These same students are likely the ones who will let their discomfort drive them to push for change within the community.
 
-        If I&#39;m letting myself dream here, I&#39;d like for this paper to be read by members of the administration. I do believe that on some level many of the problems that currently exist within the department are due to the fact that there is not as much institutional support as there should be. Duke as a university seems to have neglected the department as a whole—sometimes I wonder if we put the money we spent towards new grass on campus to investing in the professors and departments here, how much better experiences would be. Finally, I hope that the problematic voices and personalities within CS at Duke (and tech culture as a whole) read this and at least _try_ to empathize with the people who work with them, sit behind them in lecture, and attend their office hours. It bothers me that Duke CS graduates such large classes of &#39;tech bros&#39; who have never needed to think critically about the way they interact with their fellow students or the world around them.
+If I&#39;m letting myself dream here, I&#39;d like for this paper to be read by members of the administration. I do believe that on some level many of the problems that currently exist within the department are due to the fact that there is not as much institutional support as there should be. Duke as a university seems to have neglected the department as a whole—sometimes I wonder if we put the money we spent towards new grass on campus to investing in the professors and departments here, how much better experiences would be. Finally, I hope that the problematic voices and personalities within CS at Duke (and tech culture as a whole) read this and at least _try_ to empathize with the people who work with them, sit behind them in lecture, and attend their office hours. It bothers me that Duke CS graduates such large classes of &#39;tech bros&#39; who have never needed to think critically about the way they interact with their fellow students or the world around them.
 
-        Of course, I am also realistic in my expectations and the bottom line is that I hope someone reads this and takes parts of it to heart. I hope they choose to engage with the stories shared and experiences had regardless of whether or not those experiences match their own. I hope that they carry around these stories with them and that they act more intentionally as a result. I hope that this paper can be iterated on in the future as the department and the student population changes.
+Of course, I am also realistic in my expectations and the bottom line is that I hope someone reads this and takes parts of it to heart. I hope they choose to engage with the stories shared and experiences had regardless of whether or not those experiences match their own. I hope that they carry around these stories with them and that they act more intentionally as a result. I hope that this paper can be iterated on in the future as the department and the student population changes.
 
-**Personal Perspectives**
+###**Personal Perspectives**
 
-        In this section, I detail some of my own personal story and answer the very same interview questions that I asked my interviewees. I note here that this is a more personal and less formulaic section—in some parts of it I worry that I may be a little too &#39;ranty&#39;. If you choose to read it, do keep that in mind.
+In this section, I detail some of my own personal story and answer the very same interview questions that I asked my interviewees. I note here that this is a more personal and less formulaic section—in some parts of it I worry that I may be a little too &#39;ranty&#39;. If you choose to read it, do keep that in mind.
 
 I&#39;ll get into more specifics of my early experiences in computer science a little later on, but the short story is that I never planned on studying CS. My mother has a Master&#39;s Degree in CS and I vowed never to study the subject because I didn&#39;t want her to think I was trying to be her (I didn&#39;t think I would hear the end of it). I enrolled in CS101 because I had the very last registration window out of the entire freshman class (which was effectively the last registration window at the entire school), and the course fit my schedule. I never expected to continue with it, but I was enchanted with computer science from the moment I started the first assignment of CS101. I loved that I was learning a tangible skill, solving problems through code that I wrote, and building things that I never knew I could build before. I went to my first hackathon in the fall of my freshman year and genuinely felt a sense of awe and wonder I hadn&#39;t felt before in my life—I couldn&#39;t believe people were willingly giving up their weekends to build projects, and I saw myself as a real part of the community. I wanted to go into software engineering, wanted to create projects and affect change. I joined HackDuke, signed up to be a TA for CS101, applied for a fellowship, studied for technical interviews— I bought into it all. I had finally found my &quot;thing&quot;.
 
@@ -142,16 +142,11 @@ I now want to answer the same interview questions I posed to my interviewees.
   8. Create a newsletter for students
   9. More devotion to teaching lower-level courses right (specifically 201)
 
-
-
-
-
-
-**FINDINGS**
+##**FINDINGS**
 
 In this section, per the advice of my advisors, I have chosen to simply highlight quotes directly from my interviews. I have chosen to not analyze these quotes or synthesize them into any direct conclusions; I believe the quotes are powerful on their own. I have pulled important stories and quotes from each interview for these questions. For the sake of brevity, I have not pulled quotes from every single interview; for specific interviews, see the full transcripts at the end of the document.
 
-**CS Background Prior to Duke**
+###**CS Background Prior to Duke**
 
 **Did you have any computer science education prior to attending Duke University? If so, what was that experience? What were the demographics of your classes?**
 
@@ -163,7 +158,7 @@ In this section, per the advice of my advisors, I have chosen to simply highligh
 
 &quot;I learned Python on my own the summer before coming and I took a compsci class in my high school but I don&#39;t think I learned anything. **I was one of two girls out of 15 people.**&quot; –SD
 
-**Familial Encouragement**
+###**Familial Encouragement**
 
 **Do your family and friends encourage you to study Computer Science? In what ways do they or do they not?**
 
@@ -175,7 +170,7 @@ In this section, per the advice of my advisors, I have chosen to simply highligh
 
 &quot;My parents are pretty chill about whatever I wanna do. T **here was some resistance at first—my dad was a software engineer for a really long time and he said it was mundane and that I could do something more interesting.** My friends? I feel people are always &quot;Yeah! Girls who code!&quot; –SD
 
-**Peer Engagement**
+###**Peer Engagement**
 
 **Who do you surround yourself with in classes, group work, research experiences, and other aspects of CS learning? Why do you think you have chosen these individuals to surround yourself with?**
 
@@ -197,7 +192,7 @@ This is kind of shitty, but Ifeel **I can&#39;t work with people who are known t
 
 **If you want to be successful in computer science grade wise, you have to have at least three connections to people who are male, either white or Asian or right off the bat.** Aligning myself with East Asian and White men was purely just people who could get me a good grades. I kind of feel icky saying that but honestly my grades got better. It was in such a way that I had more time to enjoy myself; I had more time to have social connections with other people. **Part of me having some realizations that I had to align myself them was that I had to remind myself to be OK with being made feel I was stupid, because they were going to make me feel that.**&quot; --PM
 
-**Male vs. Female Experiences in Duke CS**
+###**Male vs. Female Experiences in Duke CS**
 
 **Do you think your experience in the Computer Science major has been different than most male students&#39; experiences? If yes, how so?**
 
@@ -206,8 +201,6 @@ This is kind of shitty, but Ifeel **I can&#39;t work with people who are known t
 But also, I think it&#39;s a very different experience in office hours, [with] dudes being really unafraid to put themselves first on the list or ask really stupid questions. I feel so scared asking a really stupid question and then this guy will be like, &quot;how do I set up my git repo&quot;? And I&#39;m like, &quot;are you kidding me? You&#39;re really wasting all of our time with _that_?&quot; I would NEVER ask that. Ever. I&#39;d be so embarrassed. **I think if I asked something like &quot;um, how do I set up my git repo?&quot; they&#39;re going to be like &quot;this stupid fucking girl. Why is she here? Just like fucking look it up. Stupid girl&quot;** , you know? **But like a dude does that all the time and like maybe people kind of roll their eyes but no one&#39;s like &quot;this stupid boy.**&quot;
 
 Otherwise it&#39;s like, I had a TA sit with me for an hour and a half in office hours and some other guy was like, &quot;hey man, can we, um, move the TAs around?&quot;— because that&#39;s a fair question, I agree. And the TA was just like, &quot;you know what, I&#39;m going to finish up helping her, and then I&#39;ll continue on&quot;. I talked to my guy friend who&#39;s also a TA for that class and I was like, &quot;why did he do that&quot;? And he was like, **&quot;oh, probably because you&#39;re pretty and a girl&quot;.**&quot; —PT
-
-
 
 &quot;Yeah, definitely. **Every professor was my gender.** In 308, of the three group projects teams, I did one with one male and one female, one with two males and one female and one with 10 males and one female. And the woman in the last group was the same as the woman in the second to last group. So **in a course where I worked with— in theory—three different teams of varying sizes, I worked with two women total**.
 
@@ -229,7 +222,7 @@ I feel like my goal is pretty bare minimum and if I achieve that, then I&#39;m h
 
 &quot;I would definitely say so. It&#39;s easier to just insert myself into male circles. **There isn&#39;t a threat of so many other things happening by me trying to interact with this one person or a couple of people. There&#39;s just a whole lot more questions that I would have to consider and things I&#39;d have to think about if I was a woman in computer science** , especially given the culture on campus around gender violence, sexual assault. Even just feeling uncomfortable people touching, touching you in inappropriate places, making inappropriate, or even just texting three triple times, that&#39;s uncomfortable. And that&#39;ll deter someone from coming to office hours.&quot; --PM
 
-**Gender Biases + Experiences**
+###**Gender Biases + Experiences**
 
 **In what ways has your gender impacted your experience as a Computer Science major (in classes, research, and any other CS environment)?**
 
@@ -255,7 +248,7 @@ I feel like my goal is pretty bare minimum and if I achieve that, then I&#39;m h
 
 &quot;I think that&#39;s definitely a gender bias on my part and up I&#39;m going to check that, but I can think of specifically times in 310, if there were a lot of people are struggling in the room, I was more actually more likely to ask the guy in the group versus the girl. **I think that&#39;s also because of I would see talking to the most.** I would just assume, oh, they must know what they&#39;re doing, so I&#39;m going to ask that person.&quot; --PM
 
-**Other Identity Factors**
+###**Other Identity Factors**
 
 **How do you think your race/socio-economic status/other identity factors besides gender have impacted your computer science education experience?**
 
@@ -285,11 +278,9 @@ I don&#39;t need [a community]. I don&#39;t need like a &quot;girl gang&quot;. A
 
 &quot; **I don&#39;t feel I have a community, which is weird because I have so many CS friends.** But then I go and take a class and I&#39;m &quot;fuck, well, who am I gonna partner with?&quot; Even though I have a pretty homogenous group of friends, and a lot of them are in tech, I still don&#39;t feel it&#39;s a tech community. I don&#39;t know. I don&#39;t feel there&#39;s people I can talk to about tech comfortably. I have a friend who&#39;s a polisci-compsci double major and she got into compsci kind of late and she&#39;s not really in any compsci club, so she has nobody to talk to about it with. I feel that&#39;s something on Duke&#39;s end, too. I don&#39;t think Duke does anything to support community within compsci. Yeah, we have Catalyst and HackDuke and Wiring with Women, but these are all things you have to apply for, which is another thing.
 
-** **
-
 **I think there needs to be some sort of, compsci department-sponsored thing, because even if it&#39;s not that close-knit or whatever, it&#39;s at least like: hey, maybe we care?** Maybe it&#39;s just going through the motions but **maybe it will actually make people feel more reaffirmed.** Especially as freshmen, knowing there&#39;s that resource. Just knowing one person is really helpful and I think the compsci department should come up with something for that, because then there are no barriers to entry, anyone could do it.&quot; –SD
 
-**Duke CS Classes**
+###**Duke CS Classes**
 
 **What was your experience in 308/310/330?**
 
@@ -311,7 +302,9 @@ There were slides going through what maybe textbooks would cover, but not what w
 
 On 250:
 
-&quot;1) forgot to submit bytwoorthree and recurse for hw1 in C and submitted it 10 mins late and so I sent screenshots that I hadn&#39;t touched it to grad TAs and the professor but they were like no
+&quot;
+
+1) forgot to submit bytwoorthree and recurse for hw1 in C and submitted it 10 mins late and so I sent screenshots that I hadn&#39;t touched it to grad TAs and the professor but they were like no
 
 2) for processor for my ALU XOR operation I individually XOR&#39;d each bit from my two inputs and my 8th bit from input 1 wasn&#39;t actually connected though it seemed like it so I passed all local tests since they didn&#39;t test it but then on the stringent tests I got fucked and they couldn&#39;t re-test it even though another TA was they should definitely re-test because its not implementation it&#39;s just one unconnected wire
 
@@ -331,7 +324,7 @@ On CS201: &quot;Making the labs actually relevant to the homework, starting the 
 
 
 
-**Recommendations for future**
+###**Recommendations for future**
 
 **What could the CS department do better?**
 
@@ -365,7 +358,7 @@ Classes, professors— I know those aren&#39;t quick fixes. One thing they did t
 
 **They&#39;re not doing anything to increase the retention rates, because everybody knows that a bunch of girls drop out from 201 to 250.** Anna Miyajima—when she became a 308 TA, she was like &quot;I will do it only if I get to TA girls.&quot; So, I don&#39;t know. They could take some inspiration from that.&quot; –SD
 
-**Other important quotes**
+###**Other important quotes**
 
 &quot;There was a time where I would a boy would say something about CS and I&#39;d be like, &quot;oh damn, he&#39;s probably right&quot;. Lately I&#39;ve been like, **&quot;damn ya&#39;ll are so stupid. you don&#39;t know shit&quot;.** Faith and I were studying for the last 310 midterm with these two boys that Faith is close to and one of them is always stepping on my lines. His friend will be like &quot;can you explain to me how sudo works?&quot;. I have been using Linux literally my entire life. My actual entire life. And he&#39;ll be like, &quot;yeah um&quot;, I&#39;ll be like, &quot;yeah, so sudo is&quot; and he&#39;ll jump on my line and be like, &quot;uh it&#39;s a file, which you change permissions&quot; and I&#39;m like where are you going with this? **You&#39;re stupid and you&#39;re also wrong. You&#39;re really trying to stunt and you&#39;re shit at this.**&quot; –PT
 
@@ -391,25 +384,25 @@ There&#39;s so many ways of informally getting support from your friends. That c
 
 &quot;Still, **I am passionate about compsci, but not in the way that the compsci department wants me to be. I&#39;m interested in asking the questions about compsci and being critical of tech in general about the ways in which it exacerbates inequality and threatens democracy.** The things where tech is objectively making this world a worse place to live in—trying to hold it accountable to that and investigate that more—that&#39;s what I want to do. **That&#39;s not what the Duke compsci program is for.**&quot; –PM
 
-**DISCUSSION**
+##**DISCUSSION**
 
 I have identified several key takeaways and talking points from my interviews with various members of the Duke CS community that I will address in this section. These takeaways are a combination of various issues I have seen myself within the community, as well as issues pointed out to me, general trends, commentary, and potential areas for improvement. I have alphabetized the takeaway points for easier reference. I have refrained from including quotes in this section as for brevity&#39;s sake, as many of the discussion points have been referred to in the Findings section. However, I have cited interviews as needed for anyone reading to find the interviews themselves and reference them.
 
-**1-1 help**
+###**1-1 help**
 
 Due to the lack of resources and the fact that UTAs and professors are often stretched thin across several obligations, many students feel as though there is very little opportunity for one-on-one attention. More specifically, students often don&#39;t feel comfortable speaking up in class and holding up 100+ person lectures just to ask a question when they don&#39;t understand something, but would benefit immensely from asking those questions in an individualized settings. This sort of 1-1 interaction is essential to CS learning, growth, and development--to expect students to understand concepts after one lecture with only powerpoint slides to reference afterwards is unrealistic. One would expect office hours to be a sort of solution for this issue. However, office hours are often incredibly understaffed, and not any better of an environment for individualized attention. Moreover, as pointed out in the interview with CT, office hours are usually full of people who are trying to get help on assignments or preparation for exams. It is difficult to ask the necessary questions for comprehension in those environments. Even for students completing assignments, office hours are no place to get effective 1-1 help. Students report feeling rushed, under pressure, and only being able to get help with one or two questions, when they come to office hours with several.
 
 Of course, this issue is compounded by socio-economic factors. To hire a tutor is to spend money outside of the money already spent on tuition, books, and materials for courses. Tutors are expensive, and it is hard to justify the cost of one for many students who have other financial obligations to tend to. In any case, the CS department doesn&#39;t make resources readily available for students who need individualized attention, and especially not free resources. Students don&#39;t know where to look for tutors--it would be helpful to have even an excel spreadsheet with contact information of tutors and students.
 
-**Affiliation**
+###**Affiliation**
 
 Many students have a hard time finding group members and people to work with in the community; here, Greek and SLG affiliation impact student experiences in a significant way. Affiliated students often group together and work with each other, and many of these groups have test banks, which gives them an unfair advantage. Furthermore, knowledge and advice and social capital passed from year to year impacts student perceptions of themselves and those around them. These sort of social structures are worth noting in this paper as they often serve to divide the community into groups and perpetuate stereotypes within the community. Several of the students interviewed cited their teammates as members of their living groups, sororities, and fraternities; this means that student to student interaction is often hindered by social structures, which is not helpful for the &#39;real-world&#39;. Of course, this issue is not specific to Duke CS, but is something professors can be mindful of when assigning teams in courses.
 
-**Archaic**
+###**Archaic**
 
 One common complaint among students is that the CS department seems rather archaic in nature and in tradition. Students reported feeling as though professors didn&#39;t particularly care about keeping courses, websites, and lectures current. Many professors seem much more engaged in research than teaching--which is understandable given the nature of the job-- but student experiences would likely improve if more consideration was given to creating more current and interactive courses. A simple but effective start would be to change the course websites, which generally follow the same format and are archaic-looking and rather boring. Of course, they serve their intended purpose, but to make even the websites a bit more modern might serve to increase excitement and engagement with the courses (one interviewee (AW)pointed to CS50 at Harvard as an example of a department focused more on modernization for inciting interest and engagement). To create more modern infrastructure for the department is to get people more engaged, give them a good foundation to learn things from, and ensure that students stay interested and feel as though the department represents them and their interests. Professors need to spend a lot of time and have a lot of resources to creating a really good experience. Similarly, the department could benefit from hiring professors that align more with the interests and career ambitions of the students.
 
-**Asking questions**
+###**Asking questions**
 
 Female students in particular reported having a difficult time asking questions in any setting, for fear of taking up too much space or &#39;seeming stupid&#39;. Several of my interviewees recounted incidents in which they rehearsed a question several times before asking it, or didn&#39;t ask a question at all because they thought it would reveal a certain weakness in front of classmates. In a lecture, to hesitate to ask a question for fear of holding up an entire class is understandable not not necessarily helpful. But even in more intimate settings like recitations or peer tutoring groups, female students were significantly more quiet and timid. On the flip side, one male interviewee talked about how he tended to ask men questions instead of women as he assumed that the men knew more because of how much they were talking. Female students are much more cognizant about the spaces they occupy, the time and attention they take up, and the perceptions others have of them. Because women know they are an anomaly in CS (and often looked down upon by nature of being women in STEM), they are even more hesitant to ask questions.
 
@@ -417,37 +410,37 @@ The difference in perceptions of male versus females asking questions is importa
 
 Professors can make note of this sort of dynamic and create spaces in which questions are not only allowed, but encouraged. If female students understand that to struggle is to learn and feel as though they can do so in the presence of their male counterparts without being judged, their experience will be much more enriching.
 
-**Cheating / Collaboration**
+###**Cheating / Collaboration**
 
 Several interviewees reported having extremely bad experiences with being caught &#39;cheating&#39; (cheating is in air quotes because I think in certain cases, the label is pretty questionable). In one of my interviews (IT--corrupted audio file), she talked about how she hired a tutor for 201 who was also a tutor for an athlete. The tutor helped both her and the athlete with an assignment, and she was caught cheating. When she went to the professor to explain, the professor told her she wasn&#39;t allowed to have a tutor (even though the athlete was), and she had to sign a document saying she cheated when she genuinely felt like she didn&#39;t. Using this sort of black and white lens to view cheating is unfair. I also wonder why collaboration isn&#39;t emphasized more. Students should be allowed to work with each other on assignments; this is a way to build confidence and learn to work with others (as they will have to in industry). In CS201, for example, if the first few assignments were pair based, the experience would be much better all around. Even if neither partner knows how to do the assignment, struggling with someone else is better than struggling alone.
 
 One other thing to note here is that being caught &#39;cheating&#39; seems to affects women much more than it does men. Women, many of whom already feel as though they do not belong, feel even more ostracized especially when they are punished for something they feel is unfair. The Duke CS department should be more cognizant of these attitudes and consider revising their policies on collaboration not just for the sake of the students, but for the sake of producing more well-rounded classes of people who are ready to actively contribute post-graduation.
 
-**Conferences**
+###**Conferences**
 
 This one is a pretty simple point, but conferences (like Grace Hopper) do a great deal for students in CS. Not only do they offer several networking opportunities, but they are also places in which people find jobs, make friends, and hear from incredible speakers. Duke does a great job of sending students to these conferences; however, more funding in this realm would be extremely helpful. The department should also consider weighing socioeconomic status much more heavily here; each year, they send several students who have the means to pay themselves. I recently had a conversation with a rising junior in the major, who was frustrated that upon being told she hadn&#39;t been selected to go, was told to either 1) fund the trip herself, or 2) look into Wiring with Women (which is not the same thing at all and sort of misses the point entirely). To expect anyone to spent $450 on a ticket and several hundreds more on transportation and lodging is rather ridiculous unless there is knowledge about that person&#39;s financial situation.
 
-**Confidence**
+###**Confidence**
 
 Confidence is hard for anyone, but is especially difficult for females in the CS major. Several of my female interviewees reported feeling intimidated by males in the major, and didn&#39;t want to seem stupid in front of them. Many also felt as though they had to prove themselves to other people before they were taken seriously. Women are socialized to be less confident, but this is often reinforced within classes, group projects, and office hours. Males in CS have the advantage of being able to enter male-dominated spaces, and many have had exposure to CS before Duke. Even small things--like having CS308 be centered entirely around video games--impacts confidence because women don&#39;t feel as though they&#39;ve had the history to engage with CS. As such, females often think they&#39;re less qualified, and don&#39;t believe they&#39;re going to succeed.
 
-**CS201**
+###**CS201**
 
 A lot of students reported feeling incredibly discouraged by CS201 (LM, JL, AW, JR). This seemed to be a function of not enough resources and not enough devotion to the course by professors. It is getting bigger and bigger every year, and is due for an upgrade. There needs to be one dedicated professor teaching the course every semester, several more TAs, a course progression that makes sense (with fewer dependencies), an intro into Java and how it works, and a clearer course structure and layout. The department should sit down with students and understand where they are at ability wise coming into 201--that way, they can create a course that better teaches all of the students instead of just some. The current 201 professor has been criticized as too busy and distracted to give it proper attention, students have problems setting things up and feel that the assignments are unclear and poorly explained, and several have complained that the lectures do a really poor job of explaining important concepts. Recitations would be more helpful if they were related to the assignments, and office hours need much more manpower. The department should consider having assignments be partner based. CS201 should not be a weedout course--it should encourage students and excite them about the major.
 
-**ECE vs. CS**
+###**ECE vs. CS**
 
 A small but interesting finding was that ECE/CS double majors who are women don&#39;t report feeling as though their gender has impacted their experience negatively (LM, KS). In fact, many of them feel as though being a woman in ECE/CS has helped them. My theory is that because they are thrown into Pratt from their very first day, and many of their classes are mostly men, they&#39;re used to being the minority. As such, they see from a lot earlier on that most of their male counterparts are no smarter than they are. This can do wonders for confidence moving forward.
 
-**Electives**
+###**Electives**
 
 Students report feeling discouraged by the fact that there are not many electives offered by the department. As PM said in his interview, it is hard to call Duke CS &#39;interdisciplinary&#39; if there aren&#39;t the courses to back that statement up. More variety in electives--both in offering courses in systems and low-level programming, for example, and in social activism and thinking about how technology can be harmful--would be a step in the right direction.
 
-**Grading**
+###**Grading**
 
 Several interviewees spoke about feeling frustrated that they could spend 30 hours on an assignment and still get a zero. More transparency about the time professors expect students to take on an assignment, as well as a way to grade not entirely on just the final product (but instead take into account the process) would help students feel more encouraged and may even motivate them to work harder on assignments.
 
-**How to Make CS more Inclusive for Women**
+###**How to Make CS more Inclusive for Women**
 
 There are a lot of ways to do this, and many of them have been mentioned throughout this document. Things as simple as hiring more female professors and TAs, encouraging women explicitly, creating spaces for women to feel as though they have a voice would do wonders for the community. Checking male students, giving opportunities for women to lead discussions and ask questions. Highlighting current female accomplishments, recognizing female leadership, educating students on implicit biases, creating project groups where women feel comfortable... These are not difficult things to do but do require effort on the part of the professor. Here, I also want to highlight a story (JW) in which she has applied to be a UTA every semester for CS101 but has never heard back. Her male friend (who has only taken CS101) was hired over her--I don&#39;t really understand how this is acceptable in any situation, especially given the existing climate and perceptions about women in CS.
 
@@ -468,29 +461,29 @@ In this section, I have also included a list of tips to make CS more inclusive f
 - Be wary of &quot;benevolent racism,&quot; a way of stereotyping students according to &quot;positive stereotypes&quot; that can have harmful effects on these students. For example, &quot;We have the stereotype that Asian people are smart. We say, &#39;You must understand that because you are Asian.&#39; But this actually forces the students to be compared against other people&quot; and fosters the type of unhealthy competition we should avoid.
 - When a student doesn&#39;t get something, explain it to them.  Don&#39;t do it for them. This has particular ramifications for gendered treatment of students. According to Dryden, some studies have show that high school teachers are more likely to explain a problem to a male student and more likely to do the problem for a female student.
 
-**Practice tests**
+###**Practice tests**
 
 Many professors within the department don&#39;t release practice tests to students, and many who do don&#39;t release answer keys. The logic behind this is questionable--how can professors expect students to practice effectively if they don&#39;t know whether what they&#39;re doing is right or not? Furthermore, this sort of policy exacerbates the issue with social affiliation on campus and tests banks. Students with more social capital may find it easier to get resources which is unfair for the other people in the course. One student I spoke to told me that his professor &quot;doesn&#39;t believe in practice tests pedagogically&quot;-- this seems intellectually lazy to me. Equip students with more resources to enable them to succeed, and give them attention in these realms. Students (usually) aren&#39;t asking for practice tests just to memorize answers for the real exam, but instead to get practice to better understand concepts and prepare themselves.
 
-**Race**
+###**Race**
 
 The Asian programmer nerd stereotype is real, and some of my interviewees (AW, CT2) spoke about their experiences and struggles with being perceived as geeky programmers. To struggle with race in the context of computer science is difficult because in certain spaces it affords people privileges (being able to enter &#39;tech bro&#39; spaces), but it has consequences in others. Social capital is an interesting concept tho think about; in the context of this study, I&#39;ve been thinking a lot about internalized racism and what it means for students. To feel ashamed of your race and to actively distance yourself from people who look like you is problematic in itself, but I too have struggled with this and understand the internal conflict of not wanting to look too &#39;nerdy&#39;, too &#39;asian&#39; for fear that I will be judged.
 
-**Resources**
+###**Resources**
 
 The bottom line is that the CS department needs more resources. More funding, more professors, more grants, more UTAs. Students are willing to help the department secure these resources--by petitioning the school, deans, and president--but there needs to be a targeted effort or at the very least, some direction for students to help the department find more resources.
 
-**Sexual Misconduct**
+###**Sexual Misconduct**
 
 The department should publicize its sexual misconduct policy if it has one, and if not, it should write one and distribute it to all students. Some of the behavior I heard about over the course of this project was unacceptable; perpetrators should be held accountable. In one account, a student told me about how a TA invited himself over to her apartment and tried to have sex with her under the guise of helping her with her project. She stopped going to office hours after that. To have a TA abuse his power in that position is incredibly problematic; these behaviors cannot go unchecked by the department.
 
-**TAs**
+###**TAs**
 
 Put simply, many classes need more TAs, and those TAs need to have more representation so that marginalized groups feel as though they are supported and represented throughout the process. TAs themselves have reported that they never really got much clarity on what was covered in lecture, or how it was covered, and as such, had to work in the dark. Weekly TA meetings should be refocused to be more  progress updates and times to sync up between professors and TAs.
 
 
 
-**CONCLUSION**
+##**CONCLUSION**
 
 I&#39;m incredibly grateful I got the opportunity to do this project. In many ways, this project has been incredibly helpful for me in that it has taught me that my experiences and emotions are not only valid, but oftentimes shared by my classmates. I have learned to empathize with stories unlike mine, challenged myself to truly listen without the intention of responding, and understood the beauty in storytelling. I feel much more validated as a woman in CS, and I know that my experiences have legitimacy and weight. I couldn&#39;t have done it without the support of Professor Astrachan and Madeleine, and the interviewees who so graciously offered their time to me.
 
